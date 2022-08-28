@@ -27,6 +27,7 @@ class _RegisterPageState extends State<RegisterPage> {
   @override
   Widget build(BuildContext context) {
     return Scaffold(
+      backgroundColor: MyColors.primaryOpacityColor,
       body: Container(
         width: double.infinity,
         child: Stack(
@@ -93,12 +94,12 @@ class _RegisterPageState extends State<RegisterPage> {
 
   Widget _textRegister() {
     return Text(
-        'REGISTRO',
+        'Aguacate',
         style: TextStyle(
           color: Colors.white,
           fontWeight: FontWeight.bold,
-          fontSize: 20,
-          fontFamily: 'NimbusSans'
+          fontSize: 32,
+          fontFamily: 'Shadow'
         )
     );
   }
@@ -111,6 +112,7 @@ class _RegisterPageState extends State<RegisterPage> {
           borderRadius: BorderRadius.circular(30)
       ),
       child: TextField(
+        style: TextStyle(color: Colors.white),
         controller: _con.emailController,
         keyboardType: TextInputType.emailAddress,
         decoration: InputDecoration(
@@ -137,6 +139,7 @@ class _RegisterPageState extends State<RegisterPage> {
           borderRadius: BorderRadius.circular(30)
       ),
       child: TextField(
+        style: TextStyle(color: Colors.white),
         controller: _con.nameController,
         decoration: InputDecoration(
             hintText: 'Nombre',
@@ -162,6 +165,7 @@ class _RegisterPageState extends State<RegisterPage> {
           borderRadius: BorderRadius.circular(30)
       ),
       child: TextField(
+        style: TextStyle(color: Colors.white),
         controller: _con.lastnameController,
         decoration: InputDecoration(
             hintText: 'Apellido',
@@ -187,6 +191,7 @@ class _RegisterPageState extends State<RegisterPage> {
           borderRadius: BorderRadius.circular(30)
       ),
       child: TextField(
+        style: TextStyle(color: Colors.white),
         controller: _con.phoneController,
         keyboardType: TextInputType.phone,
         decoration: InputDecoration(
@@ -213,6 +218,7 @@ class _RegisterPageState extends State<RegisterPage> {
           borderRadius: BorderRadius.circular(30)
       ),
       child: TextField(
+        style: TextStyle(color: Colors.white),
         controller: _con.passwordController,
         obscureText: true,
         decoration: InputDecoration(
@@ -239,6 +245,7 @@ class _RegisterPageState extends State<RegisterPage> {
           borderRadius: BorderRadius.circular(30)
       ),
       child: TextField(
+        style: TextStyle(color: Colors.white),
         controller: _con.confirmPassswordController,
         obscureText: true,
         decoration: InputDecoration(
