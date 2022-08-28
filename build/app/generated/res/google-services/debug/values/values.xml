@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="default_web_client_id" translatable="false">449120868196-m3uhnvej30bsh58p2cq2gup4virlntdk.apps.googleusercontent.com</string>
+    <string name="gcm_defaultSenderId" translatable="false">449120868196</string>
+    <string name="google_api_key" translatable="false">AIzaSyDsR1943sDldBem7nXd1BeUoA6sYfzEjFI</string>
+    <string name="google_app_id" translatable="false">1:449120868196:android:cbbf4dbce5bc9922758c71</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyDsR1943sDldBem7nXd1BeUoA6sYfzEjFI</string>
+    <string name="google_storage_bucket" translatable="false">delivery-app-udemy.appspot.com</string>
+    <string name="project_id" translatable="false">delivery-app-udemy</string>
+</resources>

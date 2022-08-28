@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "/Users/abdiels/Documents/developer/Aguacate App/build/flutter_plugin_android_lifecycle/intermediates/res/merged/debug/layout-v21/notification_template_icon_group.xml",
+        "source": "/Users/abdiels/.gradle/caches/transforms-2/files-2.1/674a728e03ccb78ac854080ea6e9699a/core-1.6.0/res/layout-v21/notification_template_icon_group.xml"
+    },
+    {
+        "merged": "/Users/abdiels/Documents/developer/Aguacate App/build/flutter_plugin_android_lifecycle/intermediates/res/merged/debug/layout-v21/notification_template_custom_big.xml",
+        "source": "/Users/abdiels/.gradle/caches/transforms-2/files-2.1/674a728e03ccb78ac854080ea6e9699a/core-1.6.0/res/layout-v21/notification_template_custom_big.xml"
+    },
+    {
+        "merged": "/Users/abdiels/Documents/developer/Aguacate App/build/flutter_plugin_android_lifecycle/intermediates/res/merged/debug/layout-v21/notification_action_tombstone.xml",
+        "source": "/Users/abdiels/.gradle/caches/transforms-2/files-2.1/674a728e03ccb78ac854080ea6e9699a/core-1.6.0/res/layout-v21/notification_action_tombstone.xml"
+    },
+    {
+        "merged": "/Users/abdiels/Documents/developer/Aguacate App/build/flutter_plugin_android_lifecycle/intermediates/res/merged/debug/layout-v21/notification_action.xml",
+        "source": "/Users/abdiels/.gradle/caches/transforms-2/files-2.1/674a728e03ccb78ac854080ea6e9699a/core-1.6.0/res/layout-v21/notification_action.xml"
+    }
+]

@@ -1,0 +1,50 @@
+[
+    {
+        "merged": "/Users/abdiels/Documents/developer/Aguacate App/build/google_maps_flutter_android/intermediates/res/merged/debug/drawable-hdpi-v4/notification_bg_normal.9.png",
+        "source": "/Users/abdiels/.gradle/caches/transforms-2/files-2.1/674a728e03ccb78ac854080ea6e9699a/core-1.6.0/res/drawable-hdpi-v4/notification_bg_normal.9.png"
+    },
+    {
+        "merged": "/Users/abdiels/Documents/developer/Aguacate App/build/google_maps_flutter_android/intermediates/res/merged/debug/drawable-hdpi-v4/common_google_signin_btn_icon_dark_normal_background.9.png",
+        "source": "/Users/abdiels/.gradle/caches/transforms-2/files-2.1/dd0ef7faf8da662de596beb3e18a0111/jetified-play-services-base-18.0.1/res/drawable-hdpi-v4/common_google_signin_btn_icon_dark_normal_background.9.png"
+    },
+    {
+        "merged": "/Users/abdiels/Documents/developer/Aguacate App/build/google_maps_flutter_android/intermediates/res/merged/debug/drawable-hdpi-v4/common_google_signin_btn_text_dark_normal_background.9.png",
+        "source": "/Users/abdiels/.gradle/caches/transforms-2/files-2.1/dd0ef7faf8da662de596beb3e18a0111/jetified-play-services-base-18.0.1/res/drawable-hdpi-v4/common_google_signin_btn_text_dark_normal_background.9.png"
+    },
+    {
+        "merged": "/Users/abdiels/Documents/developer/Aguacate App/build/google_maps_flutter_android/intermediates/res/merged/debug/drawable-hdpi-v4/notify_panel_notification_icon_bg.png",
+        "source": "/Users/abdiels/.gradle/caches/transforms-2/files-2.1/674a728e03ccb78ac854080ea6e9699a/core-1.6.0/res/drawable-hdpi-v4/notify_panel_notification_icon_bg.png"
+    },
+    {
+        "merged": "/Users/abdiels/Documents/developer/Aguacate App/build/google_maps_flutter_android/intermediates/res/merged/debug/drawable-hdpi-v4/common_google_signin_btn_text_light_normal_background.9.png",
+        "source": "/Users/abdiels/.gradle/caches/transforms-2/files-2.1/dd0ef7faf8da662de596beb3e18a0111/jetified-play-services-base-18.0.1/res/drawable-hdpi-v4/common_google_signin_btn_text_light_normal_background.9.png"
+    },
+    {
+        "merged": "/Users/abdiels/Documents/developer/Aguacate App/build/google_maps_flutter_android/intermediates/res/merged/debug/drawable-hdpi-v4/notification_bg_low_pressed.9.png",
+        "source": "/Users/abdiels/.gradle/caches/transforms-2/files-2.1/674a728e03ccb78ac854080ea6e9699a/core-1.6.0/res/drawable-hdpi-v4/notification_bg_low_pressed.9.png"
+    },
+    {
+        "merged": "/Users/abdiels/Documents/developer/Aguacate App/build/google_maps_flutter_android/intermediates/res/merged/debug/drawable-hdpi-v4/googleg_disabled_color_18.png",
+        "source": "/Users/abdiels/.gradle/caches/transforms-2/files-2.1/dd0ef7faf8da662de596beb3e18a0111/jetified-play-services-base-18.0.1/res/drawable-hdpi-v4/googleg_disabled_color_18.png"
+    },
+    {
+        "merged": "/Users/abdiels/Documents/developer/Aguacate App/build/google_maps_flutter_android/intermediates/res/merged/debug/drawable-hdpi-v4/common_full_open_on_phone.png",
+        "source": "/Users/abdiels/.gradle/caches/transforms-2/files-2.1/dd0ef7faf8da662de596beb3e18a0111/jetified-play-services-base-18.0.1/res/drawable-hdpi-v4/common_full_open_on_phone.png"
+    },
+    {
+        "merged": "/Users/abdiels/Documents/developer/Aguacate App/build/google_maps_flutter_android/intermediates/res/merged/debug/drawable-hdpi-v4/notification_bg_normal_pressed.9.png",
+        "source": "/Users/abdiels/.gradle/caches/transforms-2/files-2.1/674a728e03ccb78ac854080ea6e9699a/core-1.6.0/res/drawable-hdpi-v4/notification_bg_normal_pressed.9.png"
+    },
+    {
+        "merged": "/Users/abdiels/Documents/developer/Aguacate App/build/google_maps_flutter_android/intermediates/res/merged/debug/drawable-hdpi-v4/googleg_standard_color_18.png",
+        "source": "/Users/abdiels/.gradle/caches/transforms-2/files-2.1/dd0ef7faf8da662de596beb3e18a0111/jetified-play-services-base-18.0.1/res/drawable-hdpi-v4/googleg_standard_color_18.png"
+    },
+    {
+        "merged": "/Users/abdiels/Documents/developer/Aguacate App/build/google_maps_flutter_android/intermediates/res/merged/debug/drawable-hdpi-v4/common_google_signin_btn_icon_light_normal_background.9.png",
+        "source": "/Users/abdiels/.gradle/caches/transforms-2/files-2.1/dd0ef7faf8da662de596beb3e18a0111/jetified-play-services-base-18.0.1/res/drawable-hdpi-v4/common_google_signin_btn_icon_light_normal_background.9.png"
+    },
+    {
+        "merged": "/Users/abdiels/Documents/developer/Aguacate App/build/google_maps_flutter_android/intermediates/res/merged/debug/drawable-hdpi-v4/notification_bg_low_normal.9.png",
+        "source": "/Users/abdiels/.gradle/caches/transforms-2/files-2.1/674a728e03ccb78ac854080ea6e9699a/core-1.6.0/res/drawable-hdpi-v4/notification_bg_low_normal.9.png"
+    }
+]
