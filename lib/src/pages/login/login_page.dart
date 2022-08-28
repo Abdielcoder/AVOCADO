@@ -82,8 +82,8 @@ class _LoginPageState extends State<LoginPage> {
       style: TextStyle(
         color: Colors.white,
         fontWeight: FontWeight.bold,
-        fontSize: 22,
-        fontFamily: 'NimbusSans'
+        fontSize: 32,
+        fontFamily: 'Shadow'
       ),
     );
   }
