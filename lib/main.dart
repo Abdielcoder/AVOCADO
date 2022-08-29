@@ -70,7 +70,7 @@ class _MyAppState extends State<MyApp> {
   @override
   Widget build(BuildContext context) {
     return MaterialApp(
-      title: 'Delivery App Flutter',
+      title: 'Aguacate',
       debugShowCheckedModeBanner: false,
       navigatorKey: navigatorKey,
       initialRoute: 'login',
