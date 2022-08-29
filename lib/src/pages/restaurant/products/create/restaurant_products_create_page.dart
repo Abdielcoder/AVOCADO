@@ -33,7 +33,8 @@ class _RestaurantProductsCreatePageState extends State<RestaurantProductsCreateP
   Widget build(BuildContext context) {
     return Scaffold(
       appBar: AppBar(
-        title: Text('Nueva producto'),
+        title: Text('Nuevo producto'),
+        backgroundColor: MyColors.primaryColorDark,
       ),
       body: ListView(
         children: [
@@ -242,7 +243,7 @@ class _RestaurantProductsCreatePageState extends State<RestaurantProductsCreateP
           height: 140,
           width: MediaQuery.of(context).size.width * 0.26,
           child: Image(
-            image: AssetImage('assets/img/add_image.png'),
+            image: AssetImage('assets/img/avocado.png'),
           ),
         ),
       ),

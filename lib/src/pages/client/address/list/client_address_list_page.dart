@@ -30,6 +30,7 @@ class _ClientAddressListPageState extends State<ClientAddressListPage> {
     return Scaffold(
       appBar: AppBar(
         title: Text('Direcciones'),
+        backgroundColor: MyColors.primaryColorDark,
         actions: [
           _iconAdd()
         ],

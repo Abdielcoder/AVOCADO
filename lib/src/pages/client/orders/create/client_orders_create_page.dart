@@ -31,6 +31,7 @@ class _ClientOrdersCreatePageState extends State<ClientOrdersCreatePage> {
     return Scaffold(
       appBar: AppBar(
         title: Text('Mi orden'),
+        backgroundColor: MyColors.primaryColorDark,
       ),
       bottomNavigationBar: Container(
         height: MediaQuery.of(context).size.height * 0.235,
@@ -91,7 +92,7 @@ class _ClientOrdersCreatePageState extends State<ClientOrdersCreatePage> {
                 height: 30,
                 child: Icon(
                   Icons.check_circle,
-                  color: Colors.green,
+                  color: Colors.white,
                   size: 30,
                 ),
               ),

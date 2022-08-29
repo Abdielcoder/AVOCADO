@@ -191,9 +191,9 @@ ADDED from /Users/abdiels/Documents/developer/Aguacate App/android/app/src/main/
 	android:name
 		ADDED from /Users/abdiels/Documents/developer/Aguacate App/android/app/src/main/AndroidManifest.xml:47:13-44
 meta-data#com.google.android.geo.API_KEY
-ADDED from /Users/abdiels/Documents/developer/Aguacate App/android/app/src/main/AndroidManifest.xml:50:8-51:40
+ADDED from /Users/abdiels/Documents/developer/Aguacate App/android/app/src/main/AndroidManifest.xml:50:8-51:69
 	android:value
-		ADDED from /Users/abdiels/Documents/developer/Aguacate App/android/app/src/main/AndroidManifest.xml:51:12-38
+		ADDED from /Users/abdiels/Documents/developer/Aguacate App/android/app/src/main/AndroidManifest.xml:51:12-67
 	android:name
 		ADDED from /Users/abdiels/Documents/developer/Aguacate App/android/app/src/main/AndroidManifest.xml:50:19-64
 uses-sdk

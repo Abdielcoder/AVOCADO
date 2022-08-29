@@ -125,14 +125,14 @@ class _ClientProductsDetailPageState extends State<ClientProductsDetailPage> {
       child: Row(
         children: [
           Image.asset(
-            'assets/img/delivery.png',
-            height: 17,
+            'assets/img/icono_restaurante.png',
+            height: 67,
           ),
-          SizedBox(width: 7),
+          SizedBox(width: 17),
           Text(
-            'Envio estandar',
+            'Recojer en Tienda',
             style: TextStyle(
-              fontSize: 12,
+              fontSize: 16,
               color: Colors.green
             ),
           )

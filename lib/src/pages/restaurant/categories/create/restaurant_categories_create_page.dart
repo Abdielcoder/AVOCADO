@@ -30,6 +30,7 @@ class _RestaurantCategoriesCreatePageState extends State<RestaurantCategoriesCre
     return Scaffold(
       appBar: AppBar(
         title: Text('Nueva categoria'),
+        backgroundColor: MyColors.primaryColorDark,
       ),
       body: Column(
         children: [

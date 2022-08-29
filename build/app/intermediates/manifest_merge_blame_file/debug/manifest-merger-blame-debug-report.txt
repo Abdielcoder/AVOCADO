@@ -146,11 +146,11 @@
 87            android:value="2" />
 87-->/Users/abdiels/Documents/developer/Aguacate App/android/app/src/main/AndroidManifest.xml:48:13-30
 88        <meta-data
-88-->/Users/abdiels/Documents/developer/Aguacate App/android/app/src/main/AndroidManifest.xml:50:8-51:40
+88-->/Users/abdiels/Documents/developer/Aguacate App/android/app/src/main/AndroidManifest.xml:50:8-51:69
 89            android:name="com.google.android.geo.API_KEY"
 89-->/Users/abdiels/Documents/developer/Aguacate App/android/app/src/main/AndroidManifest.xml:50:19-64
-90            android:value="TU_API_KEY" />
-90-->/Users/abdiels/Documents/developer/Aguacate App/android/app/src/main/AndroidManifest.xml:51:12-38
+90            android:value="AIzaSyAE4SmPPbYlWa0UB3RJwMQ8ZBD3ooyGWBY" />
+90-->/Users/abdiels/Documents/developer/Aguacate App/android/app/src/main/AndroidManifest.xml:51:12-67
 91
 92        <service
 92-->[:firebase_messaging] /Users/abdiels/Documents/developer/Aguacate App/build/firebase_messaging/intermediates/library_manifest/debug/AndroidManifest.xml:12:9-15:72

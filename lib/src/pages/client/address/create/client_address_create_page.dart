@@ -29,6 +29,7 @@ class _ClientAddressCreatePageState extends State<ClientAddressCreatePage> {
     return Scaffold(
       appBar: AppBar(
         title: Text('Nueva direccion'),
+        backgroundColor: MyColors.primaryColorDark
       ),
       bottomNavigationBar: _buttonAccept(),
       body: Column(
