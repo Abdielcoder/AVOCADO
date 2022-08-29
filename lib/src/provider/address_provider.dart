@@ -20,6 +20,31 @@ class AddressProvider {
     this.context = context;
     this.sessionUser = sessionUser;
   }
+
+  Future<List<Address>> getAll(String idUser) async {
+    try {
+      Uri url = Uri.http(_url, '$_api/findAll/${idUser}');
+      Map<String, String> headers = {
+        'Content-type': 'application/json',
+        'Authorization': sessionUser.sessionToken
+      };
+      final res = await http.get(url, headers: headers);
+
+      if (res.statusCode == 401) {
+        Fluttertoast.showToast(msg: 'Sesion expirada');
+        new SharedPref().logout(context, sessionUser.id);
+      }
+      final data = json.decode(res.body); // CATEGORIAS
+      Address address = Address.fromJsonList(data);
+      return address.toList;
+    }
+    catch(e) {
+      print('Error: $e');
+      return [];
+    }
+  }
+
+
   Future<List<Address>> getByUser(String idUser) async {
     try {
       Uri url = Uri.http(_url, '$_api/findByUser/${idUser}');

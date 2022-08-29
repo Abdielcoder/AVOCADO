@@ -32,7 +32,7 @@ class _ClientAddressListPageState extends State<ClientAddressListPage> {
         title: Text('Direcciones'),
         backgroundColor: MyColors.primaryColorDark,
         actions: [
-          _iconAdd()
+         // _iconAdd()
         ],
       ),
       body: Stack(
@@ -58,7 +58,7 @@ class _ClientAddressListPageState extends State<ClientAddressListPage> {
             margin: EdgeInsets.only(top: 30),
             child: NoDataWidget(text: 'No tienes ninguna direccion agrega una nueva')
         ),
-        _buttonNewAddress()
+        //_buttonNewAddress()
       ],
     );
   }
@@ -171,7 +171,7 @@ class _ClientAddressListPageState extends State<ClientAddressListPage> {
       alignment: Alignment.centerLeft,
       margin: EdgeInsets.symmetric(horizontal: 40, vertical: 30),
       child: Text(
-        'Elige donde recibir tus compras',
+        'Elige donde recojer tu compra',
         style: TextStyle(
           fontSize: 19,
           fontWeight: FontWeight.bold

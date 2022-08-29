@@ -89,10 +89,10 @@ class ClientPaymentsInstallmentsController {
 
   void createPay() async {
 
-    if (selectedInstallment == null) {
-      MySnackbar.show(context, 'Debes seleccionar el numero de coutas');
-      return;
-    }
+    // if (selectedInstallment == null) {
+    //   MySnackbar.show(context, 'Debes seleccionar el numero de coutas');
+    //   return;
+    // }
 
     Order order =  new Order(
       idAddress: address.id,

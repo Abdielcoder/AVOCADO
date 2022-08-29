@@ -57,7 +57,7 @@ class ClientAddressListController {
   }
 
   Future<List<Address>> getAddress() async {
-    address = await _addressProvider.getByUser(user.id);
+    address = await _addressProvider.getAll(user.id);
 
     Address a = Address.fromJson(await _sharedPref.read('address') ?? {});
     int index = address.indexWhere((ad) => ad.id == a.id);

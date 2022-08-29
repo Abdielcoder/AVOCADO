@@ -35,13 +35,14 @@ class _ClientPaymentsInstallmentsPageState extends State<ClientPaymentsInstallme
   Widget build(BuildContext context) {
     return Scaffold(
       appBar: AppBar(
-        title: Text('Coutas'),
+        title: Text('Finalizar el pago'),
+        backgroundColor: MyColors.primaryColorDark,
       ),
       body: Column(
         crossAxisAlignment: CrossAxisAlignment.start,
         children: [
-          _textDescription(),
-          _dropDownInstallments()
+         // _textDescription(),
+        //  _dropDownInstallments()
         ],
       ),
       bottomNavigationBar: Container(
@@ -56,18 +57,18 @@ class _ClientPaymentsInstallmentsPageState extends State<ClientPaymentsInstallme
     );
   }
 
-  Widget _textDescription() {
-    return Container(
-      margin: EdgeInsets.all(30),
-      child: Text(
-        'En cuantas cuotas?',
-        style: TextStyle(
-          fontSize: 20,
-          fontWeight: FontWeight.bold
-        ),
-      ),
-    );
-  }
+  // Widget _textDescription() {
+  //   return Container(
+  //     margin: EdgeInsets.all(30),
+  //     child: Text(
+  //       'En cuantas cuotas?',
+  //       style: TextStyle(
+  //         fontSize: 20,
+  //         fontWeight: FontWeight.bold
+  //       ),
+  //     ),
+  //   );
+  // }
 
   Widget _textTotalPrice() {
     return Container(

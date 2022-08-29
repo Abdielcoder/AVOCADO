@@ -4,6 +4,8 @@ class MyColors {
 
   static Color primaryColorDark = Color(0xFF98BF14);
   static Color primaryColor = Color(0xFF579700);
+  static Color darkContrast = Color(0xFF121524);
+
   static Color primaryOpacityColor = Color.fromRGBO(43, 122, 11, 0.09);
 
 }

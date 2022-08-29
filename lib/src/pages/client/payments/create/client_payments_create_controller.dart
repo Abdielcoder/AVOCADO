@@ -78,10 +78,10 @@ class ClientPaymentsCreateController {
       return;
     }
 
-    if (documentNumber.isEmpty) {
-      MySnackbar.show(context, 'Ingresa el numero del documento');
-      return;
-    }
+    // if (documentNumber.isEmpty) {
+    //   MySnackbar.show(context, 'Ingresa el numero del documento');
+    //   return;
+    // }
     
     if (expireDate != null) {
       List<String> list = expireDate.split('/');
