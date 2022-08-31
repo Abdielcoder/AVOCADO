@@ -7,7 +7,9 @@ import 'package:flutter_delivery_udemy/src/pages/client/address/map/client_addre
 import 'package:flutter_delivery_udemy/src/pages/client/orders/create/client_orders_create_page.dart';
 import 'package:flutter_delivery_udemy/src/pages/client/orders/list/client_orders_list_page.dart';
 import 'package:flutter_delivery_udemy/src/pages/client/orders/map/client_orders_map_page.dart';
+import 'package:flutter_delivery_udemy/src/pages/client/payments/create/client_payments_create_existing-cards.dart';
 import 'package:flutter_delivery_udemy/src/pages/client/payments/create/client_payments_create_page.dart';
+import 'package:flutter_delivery_udemy/src/pages/client/payments/create/client_pyments_create_pay.dart';
 
 import 'package:flutter_delivery_udemy/src/pages/client/payments/installments/client_payments_installments_page.dart';
 import 'package:flutter_delivery_udemy/src/pages/client/payments/status/client_payments_status_page.dart';
@@ -87,6 +89,8 @@ class _MyAppState extends State<MyApp> {
         'client/orders/list' : (BuildContext context) => ClientOrdersListPage(),
         'client/orders/map' : (BuildContext context) => ClientOrdersMapPage(),
         'client/payments/create' : (BuildContext context) => ClientPaymentsCreatePage(),
+        'client/payments/existing' : (BuildContext context) => ClientPaymentsExistingCardsPage(),
+        'client/payments/pay' : (BuildContext context) => ClientPay(),
         'client/payments/installments' : (BuildContext context) => ClientPaymentsInstallmentsPage(),
         'client/payments/status' : (BuildContext context) => ClientPaymentsStatusPage(),
         'restaurant/orders/list' : (BuildContext context) => RestaurantOrdersListPage(),

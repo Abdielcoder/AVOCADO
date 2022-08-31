@@ -167,9 +167,9 @@ google_maps_flutter_platform_interface
 file:///Users/abdiels/development/flutter300/.pub-cache/hosted/pub.dartlang.org/google_maps_flutter_platform_interface-2.2.2/
 file:///Users/abdiels/development/flutter300/.pub-cache/hosted/pub.dartlang.org/google_maps_flutter_platform_interface-2.2.2/lib/
 http
-2.14
-file:///Users/abdiels/development/flutter300/.pub-cache/hosted/pub.dartlang.org/http-0.13.5/
-file:///Users/abdiels/development/flutter300/.pub-cache/hosted/pub.dartlang.org/http-0.13.5/lib/
+2.12
+file:///Users/abdiels/development/flutter300/.pub-cache/hosted/pub.dartlang.org/http-0.13.1/
+file:///Users/abdiels/development/flutter300/.pub-cache/hosted/pub.dartlang.org/http-0.13.1/lib/
 http_parser
 2.12
 file:///Users/abdiels/development/flutter300/.pub-cache/hosted/pub.dartlang.org/http_parser-4.0.1/
@@ -246,6 +246,10 @@ path_provider_windows
 2.17
 file:///Users/abdiels/development/flutter300/.pub-cache/hosted/pub.dartlang.org/path_provider_windows-2.1.2/
 file:///Users/abdiels/development/flutter300/.pub-cache/hosted/pub.dartlang.org/path_provider_windows-2.1.2/lib/
+pedantic
+2.12
+file:///Users/abdiels/development/flutter300/.pub-cache/hosted/pub.dartlang.org/pedantic-1.11.1/
+file:///Users/abdiels/development/flutter300/.pub-cache/hosted/pub.dartlang.org/pedantic-1.11.1/lib/
 platform
 2.12
 file:///Users/abdiels/development/flutter300/.pub-cache/hosted/pub.dartlang.org/platform-3.1.0/
@@ -258,6 +262,10 @@ process
 2.14
 file:///Users/abdiels/development/flutter300/.pub-cache/hosted/pub.dartlang.org/process-4.2.4/
 file:///Users/abdiels/development/flutter300/.pub-cache/hosted/pub.dartlang.org/process-4.2.4/lib/
+progress_dialog
+2.7
+file:///Users/abdiels/development/flutter300/.pub-cache/hosted/pub.dartlang.org/progress_dialog-1.2.4/
+file:///Users/abdiels/development/flutter300/.pub-cache/hosted/pub.dartlang.org/progress_dialog-1.2.4/lib/
 shared_preferences
 2.14
 file:///Users/abdiels/development/flutter300/.pub-cache/hosted/pub.dartlang.org/shared_preferences-2.0.15/
@@ -322,6 +330,10 @@ string_scanner
 2.12
 file:///Users/abdiels/development/flutter300/.pub-cache/hosted/pub.dartlang.org/string_scanner-1.1.0/
 file:///Users/abdiels/development/flutter300/.pub-cache/hosted/pub.dartlang.org/string_scanner-1.1.0/lib/
+stripe_payment
+2.12
+file:///Users/abdiels/development/flutter300/.pub-cache/hosted/pub.dartlang.org/stripe_payment-1.1.4/
+file:///Users/abdiels/development/flutter300/.pub-cache/hosted/pub.dartlang.org/stripe_payment-1.1.4/lib/
 term_glyph
 2.12
 file:///Users/abdiels/development/flutter300/.pub-cache/hosted/pub.dartlang.org/term_glyph-1.2.0/

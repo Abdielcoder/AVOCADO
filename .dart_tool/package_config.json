@@ -267,9 +267,9 @@
     },
     {
       "name": "http",
-      "rootUri": "file:///Users/abdiels/development/flutter300/.pub-cache/hosted/pub.dartlang.org/http-0.13.5",
+      "rootUri": "file:///Users/abdiels/development/flutter300/.pub-cache/hosted/pub.dartlang.org/http-0.13.1",
       "packageUri": "lib/",
-      "languageVersion": "2.14"
+      "languageVersion": "2.12"
     },
     {
       "name": "http_parser",
@@ -386,6 +386,12 @@
       "languageVersion": "2.17"
     },
     {
+      "name": "pedantic",
+      "rootUri": "file:///Users/abdiels/development/flutter300/.pub-cache/hosted/pub.dartlang.org/pedantic-1.11.1",
+      "packageUri": "lib/",
+      "languageVersion": "2.12"
+    },
+    {
       "name": "platform",
       "rootUri": "file:///Users/abdiels/development/flutter300/.pub-cache/hosted/pub.dartlang.org/platform-3.1.0",
       "packageUri": "lib/",
@@ -402,6 +408,12 @@
       "rootUri": "file:///Users/abdiels/development/flutter300/.pub-cache/hosted/pub.dartlang.org/process-4.2.4",
       "packageUri": "lib/",
       "languageVersion": "2.14"
+    },
+    {
+      "name": "progress_dialog",
+      "rootUri": "file:///Users/abdiels/development/flutter300/.pub-cache/hosted/pub.dartlang.org/progress_dialog-1.2.4",
+      "packageUri": "lib/",
+      "languageVersion": "2.7"
     },
     {
       "name": "shared_preferences",
@@ -506,6 +518,12 @@
       "languageVersion": "2.12"
     },
     {
+      "name": "stripe_payment",
+      "rootUri": "file:///Users/abdiels/development/flutter300/.pub-cache/hosted/pub.dartlang.org/stripe_payment-1.1.4",
+      "packageUri": "lib/",
+      "languageVersion": "2.12"
+    },
+    {
       "name": "term_glyph",
       "rootUri": "file:///Users/abdiels/development/flutter300/.pub-cache/hosted/pub.dartlang.org/term_glyph-1.2.0",
       "packageUri": "lib/",
@@ -602,7 +620,7 @@
       "languageVersion": "2.7"
     }
   ],
-  "generated": "2022-08-28T22:55:54.600827Z",
+  "generated": "2022-08-31T20:36:00.420797Z",
   "generator": "pub",
   "generatorVersion": "2.17.0"
 }
