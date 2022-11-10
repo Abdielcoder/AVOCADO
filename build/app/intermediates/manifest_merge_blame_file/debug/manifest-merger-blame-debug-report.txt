@@ -75,8 +75,8 @@
 41        android:debuggable="true"
 42        android:icon="@mipmap/ic_launcher"
 42-->/Users/abdiels/Documents/developer/Aguacate App/android/app/src/main/AndroidManifest.xml:5:13-47
-43        android:label="flutter_delivery_udemy"
-43-->/Users/abdiels/Documents/developer/Aguacate App/android/app/src/main/AndroidManifest.xml:4:13-51
+43        android:label="Aguacate"
+43-->/Users/abdiels/Documents/developer/Aguacate App/android/app/src/main/AndroidManifest.xml:4:13-37
 44        android:theme="@style/Theme.AppCompat.Light.NoActionBar" >
 44-->[:stripe_payment] /Users/abdiels/Documents/developer/Aguacate App/build/stripe_payment/intermediates/library_manifest/debug/AndroidManifest.xml:11:18-74
 45        <activity

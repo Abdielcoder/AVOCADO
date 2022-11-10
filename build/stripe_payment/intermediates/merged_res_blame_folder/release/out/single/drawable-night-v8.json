@@ -1,0 +1,54 @@
+[
+    {
+        "merged": "/Users/abdiels/Documents/developer/Aguacate App/build/stripe_payment/intermediates/res/merged/release/drawable-night-v8/stripe_ic_paymentsheet_card_unknown.xml",
+        "source": "/Users/abdiels/.gradle/caches/transforms-2/files-2.1/6e33c061a82d65da1817d9853125a913/jetified-payments-core-16.10.0/res/drawable-night-v8/stripe_ic_paymentsheet_card_unknown.xml"
+    },
+    {
+        "merged": "/Users/abdiels/Documents/developer/Aguacate App/build/stripe_payment/intermediates/res/merged/release/drawable-night-v8/stripe_ic_paymentsheet_card_jcb.xml",
+        "source": "/Users/abdiels/.gradle/caches/transforms-2/files-2.1/6e33c061a82d65da1817d9853125a913/jetified-payments-core-16.10.0/res/drawable-night-v8/stripe_ic_paymentsheet_card_jcb.xml"
+    },
+    {
+        "merged": "/Users/abdiels/Documents/developer/Aguacate App/build/stripe_payment/intermediates/res/merged/release/drawable-night-v8/stripe_googlepay_button_content.xml",
+        "source": "/Users/abdiels/.gradle/caches/transforms-2/files-2.1/6e33c061a82d65da1817d9853125a913/jetified-payments-core-16.10.0/res/drawable-night-v8/stripe_googlepay_button_content.xml"
+    },
+    {
+        "merged": "/Users/abdiels/Documents/developer/Aguacate App/build/stripe_payment/intermediates/res/merged/release/drawable-night-v8/stripe_googlepay_button_overlay.xml",
+        "source": "/Users/abdiels/.gradle/caches/transforms-2/files-2.1/6e33c061a82d65da1817d9853125a913/jetified-payments-core-16.10.0/res/drawable-night-v8/stripe_googlepay_button_overlay.xml"
+    },
+    {
+        "merged": "/Users/abdiels/Documents/developer/Aguacate App/build/stripe_payment/intermediates/res/merged/release/drawable-night-v8/stripe_ic_paymentsheet_card_unionpay.xml",
+        "source": "/Users/abdiels/.gradle/caches/transforms-2/files-2.1/6e33c061a82d65da1817d9853125a913/jetified-payments-core-16.10.0/res/drawable-night-v8/stripe_ic_paymentsheet_card_unionpay.xml"
+    },
+    {
+        "merged": "/Users/abdiels/Documents/developer/Aguacate App/build/stripe_payment/intermediates/res/merged/release/drawable-night-v8/stripe_ic_paymentsheet_card_amex.xml",
+        "source": "/Users/abdiels/.gradle/caches/transforms-2/files-2.1/6e33c061a82d65da1817d9853125a913/jetified-payments-core-16.10.0/res/drawable-night-v8/stripe_ic_paymentsheet_card_amex.xml"
+    },
+    {
+        "merged": "/Users/abdiels/Documents/developer/Aguacate App/build/stripe_payment/intermediates/res/merged/release/drawable-night-v8/stripe_ic_paymentsheet_cvc.xml",
+        "source": "/Users/abdiels/.gradle/caches/transforms-2/files-2.1/6e33c061a82d65da1817d9853125a913/jetified-payments-core-16.10.0/res/drawable-night-v8/stripe_ic_paymentsheet_cvc.xml"
+    },
+    {
+        "merged": "/Users/abdiels/Documents/developer/Aguacate App/build/stripe_payment/intermediates/res/merged/release/drawable-night-v8/stripe_ic_paymentsheet_card_dinersclub.xml",
+        "source": "/Users/abdiels/.gradle/caches/transforms-2/files-2.1/6e33c061a82d65da1817d9853125a913/jetified-payments-core-16.10.0/res/drawable-night-v8/stripe_ic_paymentsheet_card_dinersclub.xml"
+    },
+    {
+        "merged": "/Users/abdiels/Documents/developer/Aguacate App/build/stripe_payment/intermediates/res/merged/release/drawable-night-v8/stripe_ic_paymentsheet_card_mastercard.xml",
+        "source": "/Users/abdiels/.gradle/caches/transforms-2/files-2.1/6e33c061a82d65da1817d9853125a913/jetified-payments-core-16.10.0/res/drawable-night-v8/stripe_ic_paymentsheet_card_mastercard.xml"
+    },
+    {
+        "merged": "/Users/abdiels/Documents/developer/Aguacate App/build/stripe_payment/intermediates/res/merged/release/drawable-night-v8/stripe_ic_paymentsheet_add.xml",
+        "source": "/Users/abdiels/.gradle/caches/transforms-2/files-2.1/6e33c061a82d65da1817d9853125a913/jetified-payments-core-16.10.0/res/drawable-night-v8/stripe_ic_paymentsheet_add.xml"
+    },
+    {
+        "merged": "/Users/abdiels/Documents/developer/Aguacate App/build/stripe_payment/intermediates/res/merged/release/drawable-night-v8/ic_arrow.xml",
+        "source": "/Users/abdiels/.gradle/caches/transforms-2/files-2.1/e064d61cb58a534ae7ff47685c569da3/jetified-stripe-3ds2-android-5.3.1/res/drawable-night-v8/ic_arrow.xml"
+    },
+    {
+        "merged": "/Users/abdiels/Documents/developer/Aguacate App/build/stripe_payment/intermediates/res/merged/release/drawable-night-v8/stripe_ic_paymentsheet_card_discover.xml",
+        "source": "/Users/abdiels/.gradle/caches/transforms-2/files-2.1/6e33c061a82d65da1817d9853125a913/jetified-payments-core-16.10.0/res/drawable-night-v8/stripe_ic_paymentsheet_card_discover.xml"
+    },
+    {
+        "merged": "/Users/abdiels/Documents/developer/Aguacate App/build/stripe_payment/intermediates/res/merged/release/drawable-night-v8/stripe_ic_paymentsheet_card_visa.xml",
+        "source": "/Users/abdiels/.gradle/caches/transforms-2/files-2.1/6e33c061a82d65da1817d9853125a913/jetified-payments-core-16.10.0/res/drawable-night-v8/stripe_ic_paymentsheet_card_visa.xml"
+    }
+]

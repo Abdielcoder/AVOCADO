@@ -1,0 +1,888 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/abdiels/Documents/developer/Aguacate App/android/app/src/main/AndroidManifest.xml:1:1-54:12
+INJECTED from /Users/abdiels/Documents/developer/Aguacate App/android/app/src/main/AndroidManifest.xml:1:1-54:12
+INJECTED from /Users/abdiels/Documents/developer/Aguacate App/android/app/src/main/AndroidManifest.xml:1:1-54:12
+INJECTED from /Users/abdiels/Documents/developer/Aguacate App/android/app/src/main/AndroidManifest.xml:1:1-54:12
+MERGED from [:firebase_messaging] /Users/abdiels/Documents/developer/Aguacate App/build/firebase_messaging/intermediates/library_manifest/release/AndroidManifest.xml:2:1-46:12
+MERGED from [:firebase_core] /Users/abdiels/Documents/developer/Aguacate App/build/firebase_core/intermediates/library_manifest/release/AndroidManifest.xml:2:1-15:12
+MERGED from [:stripe_payment] /Users/abdiels/Documents/developer/Aguacate App/build/stripe_payment/intermediates/library_manifest/release/AndroidManifest.xml:2:1-37:12
+MERGED from [:geolocator_android] /Users/abdiels/Documents/developer/Aguacate App/build/geolocator_android/intermediates/library_manifest/release/AndroidManifest.xml:2:1-7:12
+MERGED from [:image_picker] /Users/abdiels/Documents/developer/Aguacate App/build/image_picker/intermediates/library_manifest/release/AndroidManifest.xml:2:1-22:12
+MERGED from [:google_maps_flutter_android] /Users/abdiels/Documents/developer/Aguacate App/build/google_maps_flutter_android/intermediates/library_manifest/release/AndroidManifest.xml:2:1-7:12
+MERGED from [:flutter_plugin_android_lifecycle] /Users/abdiels/Documents/developer/Aguacate App/build/flutter_plugin_android_lifecycle/intermediates/library_manifest/release/AndroidManifest.xml:2:1-7:12
+MERGED from [:flutter_local_notifications] /Users/abdiels/Documents/developer/Aguacate App/build/flutter_local_notifications/intermediates/library_manifest/release/AndroidManifest.xml:2:1-23:12
+MERGED from [:url_launcher_android] /Users/abdiels/Documents/developer/Aguacate App/build/url_launcher_android/intermediates/library_manifest/release/AndroidManifest.xml:2:1-14:12
+MERGED from [:geocoder] /Users/abdiels/Documents/developer/Aguacate App/build/geocoder/intermediates/library_manifest/release/AndroidManifest.xml:2:1-7:12
+MERGED from [:shared_preferences_android] /Users/abdiels/Documents/developer/Aguacate App/build/shared_preferences_android/intermediates/library_manifest/release/AndroidManifest.xml:2:1-7:12
+MERGED from [:geocoding] /Users/abdiels/Documents/developer/Aguacate App/build/geocoding/intermediates/library_manifest/release/AndroidManifest.xml:2:1-7:12
+MERGED from [:fluttertoast] /Users/abdiels/Documents/developer/Aguacate App/build/fluttertoast/intermediates/library_manifest/release/AndroidManifest.xml:2:1-7:12
+MERGED from [:location] /Users/abdiels/Documents/developer/Aguacate App/build/location/intermediates/library_manifest/release/AndroidManifest.xml:2:1-18:12
+MERGED from [com.stripe:stripe-android:16.10.0] /Users/abdiels/.gradle/caches/transforms-2/files-2.1/45a0f31b2be8e23d6958bf5bba139fc1/jetified-stripe-android-16.10.0/AndroidManifest.xml:2:1-9:12
+MERGED from [com.stripe:payments-core:16.10.0] /Users/abdiels/.gradle/caches/transforms-2/files-2.1/6e33c061a82d65da1817d9853125a913/jetified-payments-core-16.10.0/AndroidManifest.xml:2:1-69:12
+MERGED from [com.stripe:stripe-3ds2-android:5.3.1] /Users/abdiels/.gradle/caches/transforms-2/files-2.1/e064d61cb58a534ae7ff47685c569da3/jetified-stripe-3ds2-android-5.3.1/AndroidManifest.xml:2:1-18:12
+MERGED from [androidx.window:window-java:1.0.0-beta04] /Users/abdiels/.gradle/caches/transforms-2/files-2.1/0296a96e5055d2ccf5ccf6d5578aa555/jetified-window-java-1.0.0-beta04/AndroidManifest.xml:17:1-23:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-ktx:2.3.1] /Users/abdiels/.gradle/caches/transforms-2/files-2.1/b06eaf93ade592a03c0f42bf864e58e1/jetified-lifecycle-livedata-ktx-2.3.1/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.window:window:1.0.0-beta04] /Users/abdiels/.gradle/caches/transforms-2/files-2.1/5da4d6c0c4aaffc06d9f4d4ebdf129c2/jetified-window-1.0.0-beta04/AndroidManifest.xml:17:1-33:12
+MERGED from [androidx.fragment:fragment-ktx:1.3.4] /Users/abdiels/.gradle/caches/transforms-2/files-2.1/65f734c0f5ea7c426e8477d42645baac/jetified-fragment-ktx-1.3.4/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.activity:activity-ktx:1.2.3] /Users/abdiels/.gradle/caches/transforms-2/files-2.1/78c02447e6dcac9e77a057f77874b72d/jetified-activity-ktx-1.2.3/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-ktx:2.3.1] /Users/abdiels/.gradle/caches/transforms-2/files-2.1/84bbf0f6b52db28ae67924814b888c3d/jetified-lifecycle-viewmodel-ktx-2.3.1/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-runtime-ktx:2.3.1] /Users/abdiels/.gradle/caches/transforms-2/files-2.1/3d0ca8c344c5275561e3b50ad5791d2b/jetified-lifecycle-runtime-ktx-2.3.1/AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.firebase:firebase-messaging:23.0.7] /Users/abdiels/.gradle/caches/transforms-2/files-2.1/b763de6615e343422a620914593f1c0f/jetified-firebase-messaging-23.0.7/AndroidManifest.xml:17:1-62:12
+MERGED from [com.google.firebase:firebase-datatransport:18.1.5] /Users/abdiels/.gradle/caches/transforms-2/files-2.1/134388aeda336d7f2b8661271d167b24/jetified-firebase-datatransport-18.1.5/AndroidManifest.xml:15:1-34:12
+MERGED from [com.google.firebase:firebase-installations:17.0.1] /Users/abdiels/.gradle/caches/transforms-2/files-2.1/5127b1b9abef3f63b510b6c3568c5243/jetified-firebase-installations-17.0.1/AndroidManifest.xml:2:1-24:12
+MERGED from [com.google.firebase:firebase-common:20.1.1] /Users/abdiels/.gradle/caches/transforms-2/files-2.1/f171c4c18d4a919f6a39a92d6e98e425/jetified-firebase-common-20.1.1/AndroidManifest.xml:15:1-40:12
+MERGED from [androidx.exifinterface:exifinterface:1.3.0] /Users/abdiels/.gradle/caches/transforms-2/files-2.1/386649549e907c24241ae46504d0d58c/exifinterface-1.3.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.core:core-ktx:1.3.2] /Users/abdiels/.gradle/caches/transforms-2/files-2.1/886b93b6dcbbe14b9fa92de51bd9698e/jetified-core-ktx-1.3.2/AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.gms:play-services-stats:17.0.2] /Users/abdiels/.gradle/caches/transforms-2/files-2.1/5b2da455ff8f008fcc674d5a2013c8c4/jetified-play-services-stats-17.0.2/AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.material:material:1.3.0] /Users/abdiels/.gradle/caches/transforms-2/files-2.1/4a6c9748f5247bec5f5766c4aa713ecb/material-1.3.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.dynamicanimation:dynamicanimation:1.0.0] /Users/abdiels/.gradle/caches/transforms-2/files-2.1/8ba9cdf8f5fc57a9eb07f0bd7e3bce7d/dynamicanimation-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /Users/abdiels/.gradle/caches/transforms-2/files-2.1/eef02c516d2736c23d562554d0f7996d/legacy-support-core-utils-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /Users/abdiels/.gradle/caches/transforms-2/files-2.1/1048fe704b4032ff0511f4a2cef397be/localbroadcastmanager-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.media:media:1.1.0] /Users/abdiels/.gradle/caches/transforms-2/files-2.1/ce8a95fdbda5d8dcbc31dc68afaee93c/media-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-location:17.0.0] /Users/abdiels/.gradle/caches/transforms-2/files-2.1/9a1b03ef5df950ea3f459d5ce04b721f/jetified-play-services-location-17.0.0/AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.gms:play-services-wallet:18.1.3] /Users/abdiels/.gradle/caches/transforms-2/files-2.1/99d2f37f7f0f49aaa0382a13da7e421c/jetified-play-services-wallet-18.1.3/AndroidManifest.xml:17:1-22:12
+MERGED from [com.google.android.gms:play-services-maps:18.0.2] /Users/abdiels/.gradle/caches/transforms-2/files-2.1/bc8930a934b2de461e4c0e56c10cdd3a/jetified-play-services-maps-18.0.2/AndroidManifest.xml:17:1-44:12
+MERGED from [com.google.android.gms:play-services-identity:17.0.0] /Users/abdiels/.gradle/caches/transforms-2/files-2.1/b7ccc6d870c9f2ccef58e60e157a9c49/jetified-play-services-identity-17.0.0/AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-base:18.0.1] /Users/abdiels/.gradle/caches/transforms-2/files-2.1/dd0ef7faf8da662de596beb3e18a0111/jetified-play-services-base-18.0.1/AndroidManifest.xml:16:1-24:12
+MERGED from [com.google.android.gms:play-services-places-placereport:17.0.0] /Users/abdiels/.gradle/caches/transforms-2/files-2.1/db30c3f5831937ce381b2bbc64218e7b/jetified-play-services-places-placereport-17.0.0/AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-cloud-messaging:17.0.1] /Users/abdiels/.gradle/caches/transforms-2/files-2.1/cfe4d1a4a8d843e0c11f9d752c631f43/jetified-play-services-cloud-messaging-17.0.1/AndroidManifest.xml:2:1-13:12
+MERGED from [com.google.firebase:firebase-iid-interop:17.1.0] /Users/abdiels/.gradle/caches/transforms-2/files-2.1/638a7426129924816da5c22baf9576d7/jetified-firebase-iid-interop-17.1.0/AndroidManifest.xml:2:1-10:12
+MERGED from [com.google.firebase:firebase-installations-interop:17.0.1] /Users/abdiels/.gradle/caches/transforms-2/files-2.1/4b6fccde6e7be62856de0505fd78a6d3/jetified-firebase-installations-interop-17.0.1/AndroidManifest.xml:15:1-23:12
+MERGED from [com.google.android.gms:play-services-tasks:18.0.1] /Users/abdiels/.gradle/caches/transforms-2/files-2.1/9c9470d1aed0a28e8c155744a9dcb361/jetified-play-services-tasks-18.0.1/AndroidManifest.xml:2:1-6:12
+MERGED from [com.google.firebase:firebase-measurement-connector:19.0.0] /Users/abdiels/.gradle/caches/transforms-2/files-2.1/e63cc6ee41277585e6c56510d3a41d55/jetified-firebase-measurement-connector-19.0.0/AndroidManifest.xml:17:1-25:12
+MERGED from [com.google.android.gms:play-services-basement:18.0.0] /Users/abdiels/.gradle/caches/transforms-2/files-2.1/13ba28d771ad8c1e3aea7533331bc41c/jetified-play-services-basement-18.0.0/AndroidManifest.xml:16:1-26:12
+MERGED from [androidx.constraintlayout:constraintlayout:2.0.4] /Users/abdiels/.gradle/caches/transforms-2/files-2.1/f99b87beec5a6c68ac3157a4d4d425aa/constraintlayout-2.0.4/AndroidManifest.xml:2:1-11:12
+MERGED from [androidx.appcompat:appcompat:1.3.0] /Users/abdiels/.gradle/caches/transforms-2/files-2.1/0bbf2ad6bf95c03ce412102d285e808e/appcompat-1.3.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.browser:browser:1.3.0] /Users/abdiels/.gradle/caches/transforms-2/files-2.1/836e796aa4de9258b85ac7ad0ccec200/browser-1.3.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] /Users/abdiels/.gradle/caches/transforms-2/files-2.1/c658d22e762b2ac400cc0c5e57d4ad63/jetified-viewpager2-1.0.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.recyclerview:recyclerview:1.2.0] /Users/abdiels/.gradle/caches/transforms-2/files-2.1/cb1c859631f06ce7c8c2b3236edcce84/recyclerview-1.2.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /Users/abdiels/.gradle/caches/transforms-2/files-2.1/6ac730c0b27ed3c39095fd668c4d6ad2/drawerlayout-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] /Users/abdiels/.gradle/caches/transforms-2/files-2.1/83405aaefbfe219112542e9b4f11245c/coordinatorlayout-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.fragment:fragment:1.3.4] /Users/abdiels/.gradle/caches/transforms-2/files-2.1/6edb7e9f2bffc30484a10a28e5cb4b20/fragment-1.3.4/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/abdiels/.gradle/caches/transforms-2/files-2.1/5661a1066b3691b5475bb92cddfbbe78/viewpager-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.customview:customview:1.0.0] /Users/abdiels/.gradle/caches/transforms-2/files-2.1/af91dbd7f877a5d4a533f633a2d6e94f/customview-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.activity:activity:1.2.3] /Users/abdiels/.gradle/caches/transforms-2/files-2.1/3f1a757f317aa985753d2241db290076/jetified-activity-1.2.3/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.appcompat:appcompat-resources:1.3.0] /Users/abdiels/.gradle/caches/transforms-2/files-2.1/15da363b3385f435a2f61d344a809184/jetified-appcompat-resources-1.3.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.transition:transition:1.2.0] /Users/abdiels/.gradle/caches/transforms-2/files-2.1/f0140fcf0de6ca2ccf13654a924fc7c8/transition-1.2.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /Users/abdiels/.gradle/caches/transforms-2/files-2.1/fafc10091b926814a54e79386ad447ea/vectordrawable-animated-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /Users/abdiels/.gradle/caches/transforms-2/files-2.1/6ec8ce6bf70acf1bc232be280ac3e440/vectordrawable-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.loader:loader:1.0.0] /Users/abdiels/.gradle/caches/transforms-2/files-2.1/85c8a370cfe085ad38e9ec048c03d35f/loader-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.core:core:1.6.0] /Users/abdiels/.gradle/caches/transforms-2/files-2.1/674a728e03ccb78ac854080ea6e9699a/core-1.6.0/AndroidManifest.xml:17:1-26:12
+MERGED from [androidx.tracing:tracing:1.0.0] /Users/abdiels/.gradle/caches/transforms-2/files-2.1/e4fbc69e8faf5aa68ab13b17d341a3a3/jetified-tracing-1.0.0/AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.datatransport:transport-backend-cct:3.1.6] /Users/abdiels/.gradle/caches/transforms-2/files-2.1/e0ef78e8cbe081df0d61f0af6b0e141d/jetified-transport-backend-cct-3.1.6/AndroidManifest.xml:15:1-38:12
+MERGED from [com.google.android.datatransport:transport-runtime:3.1.6] /Users/abdiels/.gradle/caches/transforms-2/files-2.1/14396e62ae5babdab0f25dd5ec4da7e5/jetified-transport-runtime-3.1.6/AndroidManifest.xml:15:1-41:12
+MERGED from [com.google.android.datatransport:transport-api:3.0.0] /Users/abdiels/.gradle/caches/transforms-2/files-2.1/1043936214d1675c28766c2c260703a5/jetified-transport-api-3.0.0/AndroidManifest.xml:15:1-22:12
+MERGED from [com.google.firebase:firebase-components:17.0.0] /Users/abdiels/.gradle/caches/transforms-2/files-2.1/d503c1b1a0377af7034b30837963ec7e/jetified-firebase-components-17.0.0/AndroidManifest.xml:15:1-23:12
+MERGED from [com.google.firebase:firebase-encoders-json:18.0.0] /Users/abdiels/.gradle/caches/transforms-2/files-2.1/eb3e05a195b86f0c972fb563746e6aa8/jetified-firebase-encoders-json-18.0.0/AndroidManifest.xml:15:1-23:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /Users/abdiels/.gradle/caches/transforms-2/files-2.1/0d679ec6ed3a76031960220d564e49dd/versionedparcelable-1.1.1/AndroidManifest.xml:17:1-27:12
+MERGED from [androidx.databinding:viewbinding:4.2.1] /Users/abdiels/.gradle/caches/transforms-2/files-2.1/1434d5993e6cd72cee82c2561d0ce5fd/jetified-viewbinding-4.2.1/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.3.1] /Users/abdiels/.gradle/caches/transforms-2/files-2.1/f8e1f84e9f7db565935963ca0024165a/jetified-lifecycle-viewmodel-savedstate-2.3.1/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.3.1] /Users/abdiels/.gradle/caches/transforms-2/files-2.1/3a8d1c5ad01b072130bee073dd1a6b1d/lifecycle-runtime-2.3.1/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.3.1] /Users/abdiels/.gradle/caches/transforms-2/files-2.1/e4c93294cf64aed905d2ba4b36893a26/lifecycle-viewmodel-2.3.1/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/abdiels/.gradle/caches/transforms-2/files-2.1/7f15f910d4db699f97cbc8aae7a4c41c/cursoradapter-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.savedstate:savedstate-ktx:1.1.0] /Users/abdiels/.gradle/caches/transforms-2/files-2.1/36b2169a5166cd3817910cd37d0a07e1/jetified-savedstate-ktx-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.savedstate:savedstate:1.1.0] /Users/abdiels/.gradle/caches/transforms-2/files-2.1/35d813083c10cb99cc6237779bb59dee/jetified-savedstate-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/abdiels/.gradle/caches/transforms-2/files-2.1/d5cf38cc584cf860d0d95b366f9451bd/interpolator-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.cardview:cardview:1.0.0] /Users/abdiels/.gradle/caches/transforms-2/files-2.1/82123223c79ddb40750214dd2a4477ec/cardview-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.documentfile:documentfile:1.0.0] /Users/abdiels/.gradle/caches/transforms-2/files-2.1/321303f4250cb58ad905d27dc232ce97/documentfile-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.print:print:1.0.0] /Users/abdiels/.gradle/caches/transforms-2/files-2.1/aef7a5e3ba9afbc864b4f6a745fe31e7/print-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.3.1] /Users/abdiels/.gradle/caches/transforms-2/files-2.1/35afb62c14b448fcc32fac2103eb0b77/lifecycle-livedata-2.3.1/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core-ktx:2.3.1] /Users/abdiels/.gradle/caches/transforms-2/files-2.1/fb204f7322b2b7cca3afcdc2c1fa5c38/jetified-lifecycle-livedata-core-ktx-2.3.1/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.3.1] /Users/abdiels/.gradle/caches/transforms-2/files-2.1/1152b80ae48275f398190a1753ffc575/lifecycle-livedata-core-2.3.1/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.arch.core:core-runtime:2.1.0] /Users/abdiels/.gradle/caches/transforms-2/files-2.1/e697ae008ed6e31d0d5567c5723a14b0/core-runtime-2.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [com.jakewharton.threetenabp:threetenabp:1.2.3] /Users/abdiels/.gradle/caches/transforms-2/files-2.1/2aaae3e24eb9771d062cd4752bf71405/jetified-threetenabp-1.2.3/AndroidManifest.xml:2:1-9:12
+MERGED from [androidx.annotation:annotation-experimental:1.1.0] /Users/abdiels/.gradle/caches/transforms-2/files-2.1/97721e15e59e69ab90e02fff7114c103/jetified-annotation-experimental-1.1.0/AndroidManifest.xml:17:1-24:12
+INJECTED from /Users/abdiels/Documents/developer/Aguacate App/android/app/src/main/AndroidManifest.xml:1:1-54:12
+INJECTED from /Users/abdiels/Documents/developer/Aguacate App/android/app/src/main/AndroidManifest.xml:1:1-54:12
+INJECTED from /Users/abdiels/Documents/developer/Aguacate App/android/app/src/main/AndroidManifest.xml:1:1-54:12
+	package
+		ADDED from /Users/abdiels/Documents/developer/Aguacate App/android/app/src/main/AndroidManifest.xml:2:5-47
+		INJECTED from /Users/abdiels/Documents/developer/Aguacate App/android/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/abdiels/Documents/developer/Aguacate App/android/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /Users/abdiels/Documents/developer/Aguacate App/android/app/src/main/AndroidManifest.xml
+		ADDED from /Users/abdiels/Documents/developer/Aguacate App/android/app/src/main/AndroidManifest.xml:1:1-54:12
+		INJECTED from /Users/abdiels/Documents/developer/Aguacate App/android/app/src/main/AndroidManifest.xml
+	android:versionCode
+		INJECTED from /Users/abdiels/Documents/developer/Aguacate App/android/app/src/main/AndroidManifest.xml
+		ADDED from /Users/abdiels/Documents/developer/Aguacate App/android/app/src/main/AndroidManifest.xml:1:1-54:12
+		INJECTED from /Users/abdiels/Documents/developer/Aguacate App/android/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/abdiels/Documents/developer/Aguacate App/android/app/src/main/AndroidManifest.xml:1:11-69
+application
+ADDED from /Users/abdiels/Documents/developer/Aguacate App/android/app/src/main/AndroidManifest.xml:3:8-53:19
+MERGED from [:firebase_messaging] /Users/abdiels/Documents/developer/Aguacate App/build/firebase_messaging/intermediates/library_manifest/release/AndroidManifest.xml:11:5-44:19
+MERGED from [:firebase_messaging] /Users/abdiels/Documents/developer/Aguacate App/build/firebase_messaging/intermediates/library_manifest/release/AndroidManifest.xml:11:5-44:19
+MERGED from [:firebase_core] /Users/abdiels/Documents/developer/Aguacate App/build/firebase_core/intermediates/library_manifest/release/AndroidManifest.xml:7:5-13:19
+MERGED from [:firebase_core] /Users/abdiels/Documents/developer/Aguacate App/build/firebase_core/intermediates/library_manifest/release/AndroidManifest.xml:7:5-13:19
+MERGED from [:stripe_payment] /Users/abdiels/Documents/developer/Aguacate App/build/stripe_payment/intermediates/library_manifest/release/AndroidManifest.xml:11:5-35:19
+MERGED from [:stripe_payment] /Users/abdiels/Documents/developer/Aguacate App/build/stripe_payment/intermediates/library_manifest/release/AndroidManifest.xml:11:5-35:19
+MERGED from [:image_picker] /Users/abdiels/Documents/developer/Aguacate App/build/image_picker/intermediates/library_manifest/release/AndroidManifest.xml:10:5-20:19
+MERGED from [:image_picker] /Users/abdiels/Documents/developer/Aguacate App/build/image_picker/intermediates/library_manifest/release/AndroidManifest.xml:10:5-20:19
+MERGED from [:flutter_local_notifications] /Users/abdiels/Documents/developer/Aguacate App/build/flutter_local_notifications/intermediates/library_manifest/release/AndroidManifest.xml:11:5-21:19
+MERGED from [:flutter_local_notifications] /Users/abdiels/Documents/developer/Aguacate App/build/flutter_local_notifications/intermediates/library_manifest/release/AndroidManifest.xml:11:5-21:19
+MERGED from [:url_launcher_android] /Users/abdiels/Documents/developer/Aguacate App/build/url_launcher_android/intermediates/library_manifest/release/AndroidManifest.xml:7:5-12:19
+MERGED from [:url_launcher_android] /Users/abdiels/Documents/developer/Aguacate App/build/url_launcher_android/intermediates/library_manifest/release/AndroidManifest.xml:7:5-12:19
+MERGED from [:location] /Users/abdiels/Documents/developer/Aguacate App/build/location/intermediates/library_manifest/release/AndroidManifest.xml:10:5-16:19
+MERGED from [:location] /Users/abdiels/Documents/developer/Aguacate App/build/location/intermediates/library_manifest/release/AndroidManifest.xml:10:5-16:19
+MERGED from [com.stripe:payments-core:16.10.0] /Users/abdiels/.gradle/caches/transforms-2/files-2.1/6e33c061a82d65da1817d9853125a913/jetified-payments-core-16.10.0/AndroidManifest.xml:16:5-67:19
+MERGED from [com.stripe:payments-core:16.10.0] /Users/abdiels/.gradle/caches/transforms-2/files-2.1/6e33c061a82d65da1817d9853125a913/jetified-payments-core-16.10.0/AndroidManifest.xml:16:5-67:19
+MERGED from [com.stripe:stripe-3ds2-android:5.3.1] /Users/abdiels/.gradle/caches/transforms-2/files-2.1/e064d61cb58a534ae7ff47685c569da3/jetified-stripe-3ds2-android-5.3.1/AndroidManifest.xml:9:5-16:19
+MERGED from [com.stripe:stripe-3ds2-android:5.3.1] /Users/abdiels/.gradle/caches/transforms-2/files-2.1/e064d61cb58a534ae7ff47685c569da3/jetified-stripe-3ds2-android-5.3.1/AndroidManifest.xml:9:5-16:19
+MERGED from [androidx.window:window:1.0.0-beta04] /Users/abdiels/.gradle/caches/transforms-2/files-2.1/5da4d6c0c4aaffc06d9f4d4ebdf129c2/jetified-window-1.0.0-beta04/AndroidManifest.xml:24:5-31:19
+MERGED from [androidx.window:window:1.0.0-beta04] /Users/abdiels/.gradle/caches/transforms-2/files-2.1/5da4d6c0c4aaffc06d9f4d4ebdf129c2/jetified-window-1.0.0-beta04/AndroidManifest.xml:24:5-31:19
+MERGED from [com.google.firebase:firebase-messaging:23.0.7] /Users/abdiels/.gradle/caches/transforms-2/files-2.1/b763de6615e343422a620914593f1c0f/jetified-firebase-messaging-23.0.7/AndroidManifest.xml:31:5-60:19
+MERGED from [com.google.firebase:firebase-messaging:23.0.7] /Users/abdiels/.gradle/caches/transforms-2/files-2.1/b763de6615e343422a620914593f1c0f/jetified-firebase-messaging-23.0.7/AndroidManifest.xml:31:5-60:19
+MERGED from [com.google.firebase:firebase-datatransport:18.1.5] /Users/abdiels/.gradle/caches/transforms-2/files-2.1/134388aeda336d7f2b8661271d167b24/jetified-firebase-datatransport-18.1.5/AndroidManifest.xml:24:5-32:19
+MERGED from [com.google.firebase:firebase-datatransport:18.1.5] /Users/abdiels/.gradle/caches/transforms-2/files-2.1/134388aeda336d7f2b8661271d167b24/jetified-firebase-datatransport-18.1.5/AndroidManifest.xml:24:5-32:19
+MERGED from [com.google.firebase:firebase-installations:17.0.1] /Users/abdiels/.gradle/caches/transforms-2/files-2.1/5127b1b9abef3f63b510b6c3568c5243/jetified-firebase-installations-17.0.1/AndroidManifest.xml:14:5-22:19
+MERGED from [com.google.firebase:firebase-installations:17.0.1] /Users/abdiels/.gradle/caches/transforms-2/files-2.1/5127b1b9abef3f63b510b6c3568c5243/jetified-firebase-installations-17.0.1/AndroidManifest.xml:14:5-22:19
+MERGED from [com.google.firebase:firebase-common:20.1.1] /Users/abdiels/.gradle/caches/transforms-2/files-2.1/f171c4c18d4a919f6a39a92d6e98e425/jetified-firebase-common-20.1.1/AndroidManifest.xml:25:5-38:19
+MERGED from [com.google.firebase:firebase-common:20.1.1] /Users/abdiels/.gradle/caches/transforms-2/files-2.1/f171c4c18d4a919f6a39a92d6e98e425/jetified-firebase-common-20.1.1/AndroidManifest.xml:25:5-38:19
+MERGED from [com.google.android.gms:play-services-stats:17.0.2] /Users/abdiels/.gradle/caches/transforms-2/files-2.1/5b2da455ff8f008fcc674d5a2013c8c4/jetified-play-services-stats-17.0.2/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-stats:17.0.2] /Users/abdiels/.gradle/caches/transforms-2/files-2.1/5b2da455ff8f008fcc674d5a2013c8c4/jetified-play-services-stats-17.0.2/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.material:material:1.3.0] /Users/abdiels/.gradle/caches/transforms-2/files-2.1/4a6c9748f5247bec5f5766c4aa713ecb/material-1.3.0/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.material:material:1.3.0] /Users/abdiels/.gradle/caches/transforms-2/files-2.1/4a6c9748f5247bec5f5766c4aa713ecb/material-1.3.0/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-location:17.0.0] /Users/abdiels/.gradle/caches/transforms-2/files-2.1/9a1b03ef5df950ea3f459d5ce04b721f/jetified-play-services-location-17.0.0/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-location:17.0.0] /Users/abdiels/.gradle/caches/transforms-2/files-2.1/9a1b03ef5df950ea3f459d5ce04b721f/jetified-play-services-location-17.0.0/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-maps:18.0.2] /Users/abdiels/.gradle/caches/transforms-2/files-2.1/bc8930a934b2de461e4c0e56c10cdd3a/jetified-play-services-maps-18.0.2/AndroidManifest.xml:36:5-42:19
+MERGED from [com.google.android.gms:play-services-maps:18.0.2] /Users/abdiels/.gradle/caches/transforms-2/files-2.1/bc8930a934b2de461e4c0e56c10cdd3a/jetified-play-services-maps-18.0.2/AndroidManifest.xml:36:5-42:19
+MERGED from [com.google.android.gms:play-services-identity:17.0.0] /Users/abdiels/.gradle/caches/transforms-2/files-2.1/b7ccc6d870c9f2ccef58e60e157a9c49/jetified-play-services-identity-17.0.0/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-identity:17.0.0] /Users/abdiels/.gradle/caches/transforms-2/files-2.1/b7ccc6d870c9f2ccef58e60e157a9c49/jetified-play-services-identity-17.0.0/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-base:18.0.1] /Users/abdiels/.gradle/caches/transforms-2/files-2.1/dd0ef7faf8da662de596beb3e18a0111/jetified-play-services-base-18.0.1/AndroidManifest.xml:19:5-23:19
+MERGED from [com.google.android.gms:play-services-base:18.0.1] /Users/abdiels/.gradle/caches/transforms-2/files-2.1/dd0ef7faf8da662de596beb3e18a0111/jetified-play-services-base-18.0.1/AndroidManifest.xml:19:5-23:19
+MERGED from [com.google.android.gms:play-services-places-placereport:17.0.0] /Users/abdiels/.gradle/caches/transforms-2/files-2.1/db30c3f5831937ce381b2bbc64218e7b/jetified-play-services-places-placereport-17.0.0/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-places-placereport:17.0.0] /Users/abdiels/.gradle/caches/transforms-2/files-2.1/db30c3f5831937ce381b2bbc64218e7b/jetified-play-services-places-placereport-17.0.0/AndroidManifest.xml:22:5-20
+MERGED from [com.google.firebase:firebase-iid-interop:17.1.0] /Users/abdiels/.gradle/caches/transforms-2/files-2.1/638a7426129924816da5c22baf9576d7/jetified-firebase-iid-interop-17.1.0/AndroidManifest.xml:7:5-8:19
+MERGED from [com.google.firebase:firebase-iid-interop:17.1.0] /Users/abdiels/.gradle/caches/transforms-2/files-2.1/638a7426129924816da5c22baf9576d7/jetified-firebase-iid-interop-17.1.0/AndroidManifest.xml:7:5-8:19
+MERGED from [com.google.android.gms:play-services-tasks:18.0.1] /Users/abdiels/.gradle/caches/transforms-2/files-2.1/9c9470d1aed0a28e8c155744a9dcb361/jetified-play-services-tasks-18.0.1/AndroidManifest.xml:5:5-20
+MERGED from [com.google.android.gms:play-services-tasks:18.0.1] /Users/abdiels/.gradle/caches/transforms-2/files-2.1/9c9470d1aed0a28e8c155744a9dcb361/jetified-play-services-tasks-18.0.1/AndroidManifest.xml:5:5-20
+MERGED from [com.google.firebase:firebase-measurement-connector:19.0.0] /Users/abdiels/.gradle/caches/transforms-2/files-2.1/e63cc6ee41277585e6c56510d3a41d55/jetified-firebase-measurement-connector-19.0.0/AndroidManifest.xml:22:5-23:19
+MERGED from [com.google.firebase:firebase-measurement-connector:19.0.0] /Users/abdiels/.gradle/caches/transforms-2/files-2.1/e63cc6ee41277585e6c56510d3a41d55/jetified-firebase-measurement-connector-19.0.0/AndroidManifest.xml:22:5-23:19
+MERGED from [com.google.android.gms:play-services-basement:18.0.0] /Users/abdiels/.gradle/caches/transforms-2/files-2.1/13ba28d771ad8c1e3aea7533331bc41c/jetified-play-services-basement-18.0.0/AndroidManifest.xml:20:5-24:19
+MERGED from [com.google.android.gms:play-services-basement:18.0.0] /Users/abdiels/.gradle/caches/transforms-2/files-2.1/13ba28d771ad8c1e3aea7533331bc41c/jetified-play-services-basement-18.0.0/AndroidManifest.xml:20:5-24:19
+MERGED from [androidx.constraintlayout:constraintlayout:2.0.4] /Users/abdiels/.gradle/caches/transforms-2/files-2.1/f99b87beec5a6c68ac3157a4d4d425aa/constraintlayout-2.0.4/AndroidManifest.xml:9:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:2.0.4] /Users/abdiels/.gradle/caches/transforms-2/files-2.1/f99b87beec5a6c68ac3157a4d4d425aa/constraintlayout-2.0.4/AndroidManifest.xml:9:5-20
+MERGED from [androidx.core:core:1.6.0] /Users/abdiels/.gradle/caches/transforms-2/files-2.1/674a728e03ccb78ac854080ea6e9699a/core-1.6.0/AndroidManifest.xml:24:5-89
+MERGED from [androidx.core:core:1.6.0] /Users/abdiels/.gradle/caches/transforms-2/files-2.1/674a728e03ccb78ac854080ea6e9699a/core-1.6.0/AndroidManifest.xml:24:5-89
+MERGED from [com.google.android.datatransport:transport-backend-cct:3.1.6] /Users/abdiels/.gradle/caches/transforms-2/files-2.1/e0ef78e8cbe081df0d61f0af6b0e141d/jetified-transport-backend-cct-3.1.6/AndroidManifest.xml:28:5-36:19
+MERGED from [com.google.android.datatransport:transport-backend-cct:3.1.6] /Users/abdiels/.gradle/caches/transforms-2/files-2.1/e0ef78e8cbe081df0d61f0af6b0e141d/jetified-transport-backend-cct-3.1.6/AndroidManifest.xml:28:5-36:19
+MERGED from [com.google.android.datatransport:transport-runtime:3.1.6] /Users/abdiels/.gradle/caches/transforms-2/files-2.1/14396e62ae5babdab0f25dd5ec4da7e5/jetified-transport-runtime-3.1.6/AndroidManifest.xml:25:5-39:19
+MERGED from [com.google.android.datatransport:transport-runtime:3.1.6] /Users/abdiels/.gradle/caches/transforms-2/files-2.1/14396e62ae5babdab0f25dd5ec4da7e5/jetified-transport-runtime-3.1.6/AndroidManifest.xml:25:5-39:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /Users/abdiels/.gradle/caches/transforms-2/files-2.1/0d679ec6ed3a76031960220d564e49dd/versionedparcelable-1.1.1/AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /Users/abdiels/.gradle/caches/transforms-2/files-2.1/0d679ec6ed3a76031960220d564e49dd/versionedparcelable-1.1.1/AndroidManifest.xml:24:5-25:19
+MERGED from [com.jakewharton.threetenabp:threetenabp:1.2.3] /Users/abdiels/.gradle/caches/transforms-2/files-2.1/2aaae3e24eb9771d062cd4752bf71405/jetified-threetenabp-1.2.3/AndroidManifest.xml:7:5-20
+MERGED from [com.jakewharton.threetenabp:threetenabp:1.2.3] /Users/abdiels/.gradle/caches/transforms-2/files-2.1/2aaae3e24eb9771d062cd4752bf71405/jetified-threetenabp-1.2.3/AndroidManifest.xml:7:5-20
+	android:appComponentFactory
+		ADDED from [androidx.core:core:1.6.0] /Users/abdiels/.gradle/caches/transforms-2/files-2.1/674a728e03ccb78ac854080ea6e9699a/core-1.6.0/AndroidManifest.xml:24:18-86
+	android:label
+		ADDED from /Users/abdiels/Documents/developer/Aguacate App/android/app/src/main/AndroidManifest.xml:4:13-37
+	android:icon
+		ADDED from /Users/abdiels/Documents/developer/Aguacate App/android/app/src/main/AndroidManifest.xml:5:13-47
+	android:theme
+		ADDED from [:stripe_payment] /Users/abdiels/Documents/developer/Aguacate App/build/stripe_payment/intermediates/library_manifest/release/AndroidManifest.xml:11:18-74
+activity#com.optic.flutter_delivery_udemy.MainActivity
+ADDED from /Users/abdiels/Documents/developer/Aguacate App/android/app/src/main/AndroidManifest.xml:8:8-43:20
+	android:launchMode
+		ADDED from /Users/abdiels/Documents/developer/Aguacate App/android/app/src/main/AndroidManifest.xml:10:13-43
+	android:hardwareAccelerated
+		ADDED from /Users/abdiels/Documents/developer/Aguacate App/android/app/src/main/AndroidManifest.xml:13:13-47
+	android:windowSoftInputMode
+		ADDED from /Users/abdiels/Documents/developer/Aguacate App/android/app/src/main/AndroidManifest.xml:14:13-55
+	android:configChanges
+		ADDED from /Users/abdiels/Documents/developer/Aguacate App/android/app/src/main/AndroidManifest.xml:12:13-163
+	android:theme
+		ADDED from /Users/abdiels/Documents/developer/Aguacate App/android/app/src/main/AndroidManifest.xml:11:13-47
+	android:name
+		ADDED from /Users/abdiels/Documents/developer/Aguacate App/android/app/src/main/AndroidManifest.xml:9:13-41
+meta-data#io.flutter.embedding.android.NormalTheme
+ADDED from /Users/abdiels/Documents/developer/Aguacate App/android/app/src/main/AndroidManifest.xml:19:13-22:17
+	android:resource
+		ADDED from /Users/abdiels/Documents/developer/Aguacate App/android/app/src/main/AndroidManifest.xml:21:15-52
+	android:name
+		ADDED from /Users/abdiels/Documents/developer/Aguacate App/android/app/src/main/AndroidManifest.xml:20:15-70
+meta-data#io.flutter.embedding.android.SplashScreenDrawable
+ADDED from /Users/abdiels/Documents/developer/Aguacate App/android/app/src/main/AndroidManifest.xml:28:13-31:17
+	android:resource
+		ADDED from /Users/abdiels/Documents/developer/Aguacate App/android/app/src/main/AndroidManifest.xml:30:15-61
+	android:name
+		ADDED from /Users/abdiels/Documents/developer/Aguacate App/android/app/src/main/AndroidManifest.xml:29:15-79
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /Users/abdiels/Documents/developer/Aguacate App/android/app/src/main/AndroidManifest.xml:33:13-36:29
+action#android.intent.action.MAIN
+ADDED from /Users/abdiels/Documents/developer/Aguacate App/android/app/src/main/AndroidManifest.xml:34:17-68
+	android:name
+		ADDED from /Users/abdiels/Documents/developer/Aguacate App/android/app/src/main/AndroidManifest.xml:34:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /Users/abdiels/Documents/developer/Aguacate App/android/app/src/main/AndroidManifest.xml:35:17-76
+	android:name
+		ADDED from /Users/abdiels/Documents/developer/Aguacate App/android/app/src/main/AndroidManifest.xml:35:27-74
+intent-filter#action:name:FLUTTER_NOTIFICATION_CLICK+category:name:android.intent.category.DEFAULT
+ADDED from /Users/abdiels/Documents/developer/Aguacate App/android/app/src/main/AndroidManifest.xml:38:12-41:28
+action#FLUTTER_NOTIFICATION_CLICK
+ADDED from /Users/abdiels/Documents/developer/Aguacate App/android/app/src/main/AndroidManifest.xml:39:16-68
+	android:name
+		ADDED from /Users/abdiels/Documents/developer/Aguacate App/android/app/src/main/AndroidManifest.xml:39:24-65
+category#android.intent.category.DEFAULT
+ADDED from /Users/abdiels/Documents/developer/Aguacate App/android/app/src/main/AndroidManifest.xml:40:16-75
+	android:name
+		ADDED from /Users/abdiels/Documents/developer/Aguacate App/android/app/src/main/AndroidManifest.xml:40:26-72
+meta-data#flutterEmbedding
+ADDED from /Users/abdiels/Documents/developer/Aguacate App/android/app/src/main/AndroidManifest.xml:46:9-48:33
+	android:value
+		ADDED from /Users/abdiels/Documents/developer/Aguacate App/android/app/src/main/AndroidManifest.xml:48:13-30
+	android:name
+		ADDED from /Users/abdiels/Documents/developer/Aguacate App/android/app/src/main/AndroidManifest.xml:47:13-44
+meta-data#com.google.android.geo.API_KEY
+ADDED from /Users/abdiels/Documents/developer/Aguacate App/android/app/src/main/AndroidManifest.xml:50:8-51:69
+	android:value
+		ADDED from /Users/abdiels/Documents/developer/Aguacate App/android/app/src/main/AndroidManifest.xml:51:12-67
+	android:name
+		ADDED from /Users/abdiels/Documents/developer/Aguacate App/android/app/src/main/AndroidManifest.xml:50:19-64
+uses-sdk
+INJECTED from /Users/abdiels/Documents/developer/Aguacate App/android/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /Users/abdiels/Documents/developer/Aguacate App/android/app/src/main/AndroidManifest.xml
+INJECTED from /Users/abdiels/Documents/developer/Aguacate App/android/app/src/main/AndroidManifest.xml
+MERGED from [:firebase_messaging] /Users/abdiels/Documents/developer/Aguacate App/build/firebase_messaging/intermediates/library_manifest/release/AndroidManifest.xml:5:5-44
+MERGED from [:firebase_messaging] /Users/abdiels/Documents/developer/Aguacate App/build/firebase_messaging/intermediates/library_manifest/release/AndroidManifest.xml:5:5-44
+MERGED from [:firebase_core] /Users/abdiels/Documents/developer/Aguacate App/build/firebase_core/intermediates/library_manifest/release/AndroidManifest.xml:5:5-44
+MERGED from [:firebase_core] /Users/abdiels/Documents/developer/Aguacate App/build/firebase_core/intermediates/library_manifest/release/AndroidManifest.xml:5:5-44
+MERGED from [:stripe_payment] /Users/abdiels/Documents/developer/Aguacate App/build/stripe_payment/intermediates/library_manifest/release/AndroidManifest.xml:7:5-9:41
+MERGED from [:stripe_payment] /Users/abdiels/Documents/developer/Aguacate App/build/stripe_payment/intermediates/library_manifest/release/AndroidManifest.xml:7:5-9:41
+MERGED from [:geolocator_android] /Users/abdiels/Documents/developer/Aguacate App/build/geolocator_android/intermediates/library_manifest/release/AndroidManifest.xml:5:5-44
+MERGED from [:geolocator_android] /Users/abdiels/Documents/developer/Aguacate App/build/geolocator_android/intermediates/library_manifest/release/AndroidManifest.xml:5:5-44
+MERGED from [:image_picker] /Users/abdiels/Documents/developer/Aguacate App/build/image_picker/intermediates/library_manifest/release/AndroidManifest.xml:5:5-44
+MERGED from [:image_picker] /Users/abdiels/Documents/developer/Aguacate App/build/image_picker/intermediates/library_manifest/release/AndroidManifest.xml:5:5-44
+MERGED from [:google_maps_flutter_android] /Users/abdiels/Documents/developer/Aguacate App/build/google_maps_flutter_android/intermediates/library_manifest/release/AndroidManifest.xml:5:5-44
+MERGED from [:google_maps_flutter_android] /Users/abdiels/Documents/developer/Aguacate App/build/google_maps_flutter_android/intermediates/library_manifest/release/AndroidManifest.xml:5:5-44
+MERGED from [:flutter_plugin_android_lifecycle] /Users/abdiels/Documents/developer/Aguacate App/build/flutter_plugin_android_lifecycle/intermediates/library_manifest/release/AndroidManifest.xml:5:5-44
+MERGED from [:flutter_plugin_android_lifecycle] /Users/abdiels/Documents/developer/Aguacate App/build/flutter_plugin_android_lifecycle/intermediates/library_manifest/release/AndroidManifest.xml:5:5-44
+MERGED from [:flutter_local_notifications] /Users/abdiels/Documents/developer/Aguacate App/build/flutter_local_notifications/intermediates/library_manifest/release/AndroidManifest.xml:5:5-44
+MERGED from [:flutter_local_notifications] /Users/abdiels/Documents/developer/Aguacate App/build/flutter_local_notifications/intermediates/library_manifest/release/AndroidManifest.xml:5:5-44
+MERGED from [:url_launcher_android] /Users/abdiels/Documents/developer/Aguacate App/build/url_launcher_android/intermediates/library_manifest/release/AndroidManifest.xml:5:5-44
+MERGED from [:url_launcher_android] /Users/abdiels/Documents/developer/Aguacate App/build/url_launcher_android/intermediates/library_manifest/release/AndroidManifest.xml:5:5-44
+MERGED from [:geocoder] /Users/abdiels/Documents/developer/Aguacate App/build/geocoder/intermediates/library_manifest/release/AndroidManifest.xml:5:5-44
+MERGED from [:geocoder] /Users/abdiels/Documents/developer/Aguacate App/build/geocoder/intermediates/library_manifest/release/AndroidManifest.xml:5:5-44
+MERGED from [:shared_preferences_android] /Users/abdiels/Documents/developer/Aguacate App/build/shared_preferences_android/intermediates/library_manifest/release/AndroidManifest.xml:5:5-44
+MERGED from [:shared_preferences_android] /Users/abdiels/Documents/developer/Aguacate App/build/shared_preferences_android/intermediates/library_manifest/release/AndroidManifest.xml:5:5-44
+MERGED from [:geocoding] /Users/abdiels/Documents/developer/Aguacate App/build/geocoding/intermediates/library_manifest/release/AndroidManifest.xml:5:5-44
+MERGED from [:geocoding] /Users/abdiels/Documents/developer/Aguacate App/build/geocoding/intermediates/library_manifest/release/AndroidManifest.xml:5:5-44
+MERGED from [:fluttertoast] /Users/abdiels/Documents/developer/Aguacate App/build/fluttertoast/intermediates/library_manifest/release/AndroidManifest.xml:5:5-44
+MERGED from [:fluttertoast] /Users/abdiels/Documents/developer/Aguacate App/build/fluttertoast/intermediates/library_manifest/release/AndroidManifest.xml:5:5-44
+MERGED from [:location] /Users/abdiels/Documents/developer/Aguacate App/build/location/intermediates/library_manifest/release/AndroidManifest.xml:5:5-44
+MERGED from [:location] /Users/abdiels/Documents/developer/Aguacate App/build/location/intermediates/library_manifest/release/AndroidManifest.xml:5:5-44
+MERGED from [com.stripe:stripe-android:16.10.0] /Users/abdiels/.gradle/caches/transforms-2/files-2.1/45a0f31b2be8e23d6958bf5bba139fc1/jetified-stripe-android-16.10.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.stripe:stripe-android:16.10.0] /Users/abdiels/.gradle/caches/transforms-2/files-2.1/45a0f31b2be8e23d6958bf5bba139fc1/jetified-stripe-android-16.10.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.stripe:payments-core:16.10.0] /Users/abdiels/.gradle/caches/transforms-2/files-2.1/6e33c061a82d65da1817d9853125a913/jetified-payments-core-16.10.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.stripe:payments-core:16.10.0] /Users/abdiels/.gradle/caches/transforms-2/files-2.1/6e33c061a82d65da1817d9853125a913/jetified-payments-core-16.10.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.stripe:stripe-3ds2-android:5.3.1] /Users/abdiels/.gradle/caches/transforms-2/files-2.1/e064d61cb58a534ae7ff47685c569da3/jetified-stripe-3ds2-android-5.3.1/AndroidManifest.xml:5:5-7:41
+MERGED from [com.stripe:stripe-3ds2-android:5.3.1] /Users/abdiels/.gradle/caches/transforms-2/files-2.1/e064d61cb58a534ae7ff47685c569da3/jetified-stripe-3ds2-android-5.3.1/AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.window:window-java:1.0.0-beta04] /Users/abdiels/.gradle/caches/transforms-2/files-2.1/0296a96e5055d2ccf5ccf6d5578aa555/jetified-window-java-1.0.0-beta04/AndroidManifest.xml:19:5-21:41
+MERGED from [androidx.window:window-java:1.0.0-beta04] /Users/abdiels/.gradle/caches/transforms-2/files-2.1/0296a96e5055d2ccf5ccf6d5578aa555/jetified-window-java-1.0.0-beta04/AndroidManifest.xml:19:5-21:41
+MERGED from [androidx.lifecycle:lifecycle-livedata-ktx:2.3.1] /Users/abdiels/.gradle/caches/transforms-2/files-2.1/b06eaf93ade592a03c0f42bf864e58e1/jetified-lifecycle-livedata-ktx-2.3.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata-ktx:2.3.1] /Users/abdiels/.gradle/caches/transforms-2/files-2.1/b06eaf93ade592a03c0f42bf864e58e1/jetified-lifecycle-livedata-ktx-2.3.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.window:window:1.0.0-beta04] /Users/abdiels/.gradle/caches/transforms-2/files-2.1/5da4d6c0c4aaffc06d9f4d4ebdf129c2/jetified-window-1.0.0-beta04/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.window:window:1.0.0-beta04] /Users/abdiels/.gradle/caches/transforms-2/files-2.1/5da4d6c0c4aaffc06d9f4d4ebdf129c2/jetified-window-1.0.0-beta04/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment-ktx:1.3.4] /Users/abdiels/.gradle/caches/transforms-2/files-2.1/65f734c0f5ea7c426e8477d42645baac/jetified-fragment-ktx-1.3.4/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment-ktx:1.3.4] /Users/abdiels/.gradle/caches/transforms-2/files-2.1/65f734c0f5ea7c426e8477d42645baac/jetified-fragment-ktx-1.3.4/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity-ktx:1.2.3] /Users/abdiels/.gradle/caches/transforms-2/files-2.1/78c02447e6dcac9e77a057f77874b72d/jetified-activity-ktx-1.2.3/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity-ktx:1.2.3] /Users/abdiels/.gradle/caches/transforms-2/files-2.1/78c02447e6dcac9e77a057f77874b72d/jetified-activity-ktx-1.2.3/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-ktx:2.3.1] /Users/abdiels/.gradle/caches/transforms-2/files-2.1/84bbf0f6b52db28ae67924814b888c3d/jetified-lifecycle-viewmodel-ktx-2.3.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-ktx:2.3.1] /Users/abdiels/.gradle/caches/transforms-2/files-2.1/84bbf0f6b52db28ae67924814b888c3d/jetified-lifecycle-viewmodel-ktx-2.3.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-runtime-ktx:2.3.1] /Users/abdiels/.gradle/caches/transforms-2/files-2.1/3d0ca8c344c5275561e3b50ad5791d2b/jetified-lifecycle-runtime-ktx-2.3.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-runtime-ktx:2.3.1] /Users/abdiels/.gradle/caches/transforms-2/files-2.1/3d0ca8c344c5275561e3b50ad5791d2b/jetified-lifecycle-runtime-ktx-2.3.1/AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.firebase:firebase-messaging:23.0.7] /Users/abdiels/.gradle/caches/transforms-2/files-2.1/b763de6615e343422a620914593f1c0f/jetified-firebase-messaging-23.0.7/AndroidManifest.xml:21:5-23:41
+MERGED from [com.google.firebase:firebase-messaging:23.0.7] /Users/abdiels/.gradle/caches/transforms-2/files-2.1/b763de6615e343422a620914593f1c0f/jetified-firebase-messaging-23.0.7/AndroidManifest.xml:21:5-23:41
+MERGED from [com.google.firebase:firebase-datatransport:18.1.5] /Users/abdiels/.gradle/caches/transforms-2/files-2.1/134388aeda336d7f2b8661271d167b24/jetified-firebase-datatransport-18.1.5/AndroidManifest.xml:19:5-21:41
+MERGED from [com.google.firebase:firebase-datatransport:18.1.5] /Users/abdiels/.gradle/caches/transforms-2/files-2.1/134388aeda336d7f2b8661271d167b24/jetified-firebase-datatransport-18.1.5/AndroidManifest.xml:19:5-21:41
+MERGED from [com.google.firebase:firebase-installations:17.0.1] /Users/abdiels/.gradle/caches/transforms-2/files-2.1/5127b1b9abef3f63b510b6c3568c5243/jetified-firebase-installations-17.0.1/AndroidManifest.xml:6:5-8:41
+MERGED from [com.google.firebase:firebase-installations:17.0.1] /Users/abdiels/.gradle/caches/transforms-2/files-2.1/5127b1b9abef3f63b510b6c3568c5243/jetified-firebase-installations-17.0.1/AndroidManifest.xml:6:5-8:41
+MERGED from [com.google.firebase:firebase-common:20.1.1] /Users/abdiels/.gradle/caches/transforms-2/files-2.1/f171c4c18d4a919f6a39a92d6e98e425/jetified-firebase-common-20.1.1/AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.firebase:firebase-common:20.1.1] /Users/abdiels/.gradle/caches/transforms-2/files-2.1/f171c4c18d4a919f6a39a92d6e98e425/jetified-firebase-common-20.1.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.exifinterface:exifinterface:1.3.0] /Users/abdiels/.gradle/caches/transforms-2/files-2.1/386649549e907c24241ae46504d0d58c/exifinterface-1.3.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.exifinterface:exifinterface:1.3.0] /Users/abdiels/.gradle/caches/transforms-2/files-2.1/386649549e907c24241ae46504d0d58c/exifinterface-1.3.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core-ktx:1.3.2] /Users/abdiels/.gradle/caches/transforms-2/files-2.1/886b93b6dcbbe14b9fa92de51bd9698e/jetified-core-ktx-1.3.2/AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.core:core-ktx:1.3.2] /Users/abdiels/.gradle/caches/transforms-2/files-2.1/886b93b6dcbbe14b9fa92de51bd9698e/jetified-core-ktx-1.3.2/AndroidManifest.xml:5:5-7:41
+MERGED from [com.google.android.gms:play-services-stats:17.0.2] /Users/abdiels/.gradle/caches/transforms-2/files-2.1/5b2da455ff8f008fcc674d5a2013c8c4/jetified-play-services-stats-17.0.2/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-stats:17.0.2] /Users/abdiels/.gradle/caches/transforms-2/files-2.1/5b2da455ff8f008fcc674d5a2013c8c4/jetified-play-services-stats-17.0.2/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.material:material:1.3.0] /Users/abdiels/.gradle/caches/transforms-2/files-2.1/4a6c9748f5247bec5f5766c4aa713ecb/material-1.3.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.material:material:1.3.0] /Users/abdiels/.gradle/caches/transforms-2/files-2.1/4a6c9748f5247bec5f5766c4aa713ecb/material-1.3.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.dynamicanimation:dynamicanimation:1.0.0] /Users/abdiels/.gradle/caches/transforms-2/files-2.1/8ba9cdf8f5fc57a9eb07f0bd7e3bce7d/dynamicanimation-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.dynamicanimation:dynamicanimation:1.0.0] /Users/abdiels/.gradle/caches/transforms-2/files-2.1/8ba9cdf8f5fc57a9eb07f0bd7e3bce7d/dynamicanimation-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /Users/abdiels/.gradle/caches/transforms-2/files-2.1/eef02c516d2736c23d562554d0f7996d/legacy-support-core-utils-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /Users/abdiels/.gradle/caches/transforms-2/files-2.1/eef02c516d2736c23d562554d0f7996d/legacy-support-core-utils-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /Users/abdiels/.gradle/caches/transforms-2/files-2.1/1048fe704b4032ff0511f4a2cef397be/localbroadcastmanager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /Users/abdiels/.gradle/caches/transforms-2/files-2.1/1048fe704b4032ff0511f4a2cef397be/localbroadcastmanager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.media:media:1.1.0] /Users/abdiels/.gradle/caches/transforms-2/files-2.1/ce8a95fdbda5d8dcbc31dc68afaee93c/media-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.media:media:1.1.0] /Users/abdiels/.gradle/caches/transforms-2/files-2.1/ce8a95fdbda5d8dcbc31dc68afaee93c/media-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.gms:play-services-location:17.0.0] /Users/abdiels/.gradle/caches/transforms-2/files-2.1/9a1b03ef5df950ea3f459d5ce04b721f/jetified-play-services-location-17.0.0/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-location:17.0.0] /Users/abdiels/.gradle/caches/transforms-2/files-2.1/9a1b03ef5df950ea3f459d5ce04b721f/jetified-play-services-location-17.0.0/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-wallet:18.1.3] /Users/abdiels/.gradle/caches/transforms-2/files-2.1/99d2f37f7f0f49aaa0382a13da7e421c/jetified-play-services-wallet-18.1.3/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-wallet:18.1.3] /Users/abdiels/.gradle/caches/transforms-2/files-2.1/99d2f37f7f0f49aaa0382a13da7e421c/jetified-play-services-wallet-18.1.3/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-maps:18.0.2] /Users/abdiels/.gradle/caches/transforms-2/files-2.1/bc8930a934b2de461e4c0e56c10cdd3a/jetified-play-services-maps-18.0.2/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-maps:18.0.2] /Users/abdiels/.gradle/caches/transforms-2/files-2.1/bc8930a934b2de461e4c0e56c10cdd3a/jetified-play-services-maps-18.0.2/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-identity:17.0.0] /Users/abdiels/.gradle/caches/transforms-2/files-2.1/b7ccc6d870c9f2ccef58e60e157a9c49/jetified-play-services-identity-17.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-identity:17.0.0] /Users/abdiels/.gradle/caches/transforms-2/files-2.1/b7ccc6d870c9f2ccef58e60e157a9c49/jetified-play-services-identity-17.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-base:18.0.1] /Users/abdiels/.gradle/caches/transforms-2/files-2.1/dd0ef7faf8da662de596beb3e18a0111/jetified-play-services-base-18.0.1/AndroidManifest.xml:18:5-43
+MERGED from [com.google.android.gms:play-services-base:18.0.1] /Users/abdiels/.gradle/caches/transforms-2/files-2.1/dd0ef7faf8da662de596beb3e18a0111/jetified-play-services-base-18.0.1/AndroidManifest.xml:18:5-43
+MERGED from [com.google.android.gms:play-services-places-placereport:17.0.0] /Users/abdiels/.gradle/caches/transforms-2/files-2.1/db30c3f5831937ce381b2bbc64218e7b/jetified-play-services-places-placereport-17.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-places-placereport:17.0.0] /Users/abdiels/.gradle/caches/transforms-2/files-2.1/db30c3f5831937ce381b2bbc64218e7b/jetified-play-services-places-placereport-17.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-cloud-messaging:17.0.1] /Users/abdiels/.gradle/caches/transforms-2/files-2.1/cfe4d1a4a8d843e0c11f9d752c631f43/jetified-play-services-cloud-messaging-17.0.1/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-cloud-messaging:17.0.1] /Users/abdiels/.gradle/caches/transforms-2/files-2.1/cfe4d1a4a8d843e0c11f9d752c631f43/jetified-play-services-cloud-messaging-17.0.1/AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-iid-interop:17.1.0] /Users/abdiels/.gradle/caches/transforms-2/files-2.1/638a7426129924816da5c22baf9576d7/jetified-firebase-iid-interop-17.1.0/AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-iid-interop:17.1.0] /Users/abdiels/.gradle/caches/transforms-2/files-2.1/638a7426129924816da5c22baf9576d7/jetified-firebase-iid-interop-17.1.0/AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-installations-interop:17.0.1] /Users/abdiels/.gradle/caches/transforms-2/files-2.1/4b6fccde6e7be62856de0505fd78a6d3/jetified-firebase-installations-interop-17.0.1/AndroidManifest.xml:19:5-21:41
+MERGED from [com.google.firebase:firebase-installations-interop:17.0.1] /Users/abdiels/.gradle/caches/transforms-2/files-2.1/4b6fccde6e7be62856de0505fd78a6d3/jetified-firebase-installations-interop-17.0.1/AndroidManifest.xml:19:5-21:41
+MERGED from [com.google.android.gms:play-services-tasks:18.0.1] /Users/abdiels/.gradle/caches/transforms-2/files-2.1/9c9470d1aed0a28e8c155744a9dcb361/jetified-play-services-tasks-18.0.1/AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services-tasks:18.0.1] /Users/abdiels/.gradle/caches/transforms-2/files-2.1/9c9470d1aed0a28e8c155744a9dcb361/jetified-play-services-tasks-18.0.1/AndroidManifest.xml:4:5-43
+MERGED from [com.google.firebase:firebase-measurement-connector:19.0.0] /Users/abdiels/.gradle/caches/transforms-2/files-2.1/e63cc6ee41277585e6c56510d3a41d55/jetified-firebase-measurement-connector-19.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-measurement-connector:19.0.0] /Users/abdiels/.gradle/caches/transforms-2/files-2.1/e63cc6ee41277585e6c56510d3a41d55/jetified-firebase-measurement-connector-19.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-basement:18.0.0] /Users/abdiels/.gradle/caches/transforms-2/files-2.1/13ba28d771ad8c1e3aea7533331bc41c/jetified-play-services-basement-18.0.0/AndroidManifest.xml:18:5-43
+MERGED from [com.google.android.gms:play-services-basement:18.0.0] /Users/abdiels/.gradle/caches/transforms-2/files-2.1/13ba28d771ad8c1e3aea7533331bc41c/jetified-play-services-basement-18.0.0/AndroidManifest.xml:18:5-43
+MERGED from [androidx.constraintlayout:constraintlayout:2.0.4] /Users/abdiels/.gradle/caches/transforms-2/files-2.1/f99b87beec5a6c68ac3157a4d4d425aa/constraintlayout-2.0.4/AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.constraintlayout:constraintlayout:2.0.4] /Users/abdiels/.gradle/caches/transforms-2/files-2.1/f99b87beec5a6c68ac3157a4d4d425aa/constraintlayout-2.0.4/AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.appcompat:appcompat:1.3.0] /Users/abdiels/.gradle/caches/transforms-2/files-2.1/0bbf2ad6bf95c03ce412102d285e808e/appcompat-1.3.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat:1.3.0] /Users/abdiels/.gradle/caches/transforms-2/files-2.1/0bbf2ad6bf95c03ce412102d285e808e/appcompat-1.3.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.browser:browser:1.3.0] /Users/abdiels/.gradle/caches/transforms-2/files-2.1/836e796aa4de9258b85ac7ad0ccec200/browser-1.3.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.browser:browser:1.3.0] /Users/abdiels/.gradle/caches/transforms-2/files-2.1/836e796aa4de9258b85ac7ad0ccec200/browser-1.3.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] /Users/abdiels/.gradle/caches/transforms-2/files-2.1/c658d22e762b2ac400cc0c5e57d4ad63/jetified-viewpager2-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] /Users/abdiels/.gradle/caches/transforms-2/files-2.1/c658d22e762b2ac400cc0c5e57d4ad63/jetified-viewpager2-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.recyclerview:recyclerview:1.2.0] /Users/abdiels/.gradle/caches/transforms-2/files-2.1/cb1c859631f06ce7c8c2b3236edcce84/recyclerview-1.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.recyclerview:recyclerview:1.2.0] /Users/abdiels/.gradle/caches/transforms-2/files-2.1/cb1c859631f06ce7c8c2b3236edcce84/recyclerview-1.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /Users/abdiels/.gradle/caches/transforms-2/files-2.1/6ac730c0b27ed3c39095fd668c4d6ad2/drawerlayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /Users/abdiels/.gradle/caches/transforms-2/files-2.1/6ac730c0b27ed3c39095fd668c4d6ad2/drawerlayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] /Users/abdiels/.gradle/caches/transforms-2/files-2.1/83405aaefbfe219112542e9b4f11245c/coordinatorlayout-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] /Users/abdiels/.gradle/caches/transforms-2/files-2.1/83405aaefbfe219112542e9b4f11245c/coordinatorlayout-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.3.4] /Users/abdiels/.gradle/caches/transforms-2/files-2.1/6edb7e9f2bffc30484a10a28e5cb4b20/fragment-1.3.4/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.3.4] /Users/abdiels/.gradle/caches/transforms-2/files-2.1/6edb7e9f2bffc30484a10a28e5cb4b20/fragment-1.3.4/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/abdiels/.gradle/caches/transforms-2/files-2.1/5661a1066b3691b5475bb92cddfbbe78/viewpager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/abdiels/.gradle/caches/transforms-2/files-2.1/5661a1066b3691b5475bb92cddfbbe78/viewpager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] /Users/abdiels/.gradle/caches/transforms-2/files-2.1/af91dbd7f877a5d4a533f633a2d6e94f/customview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] /Users/abdiels/.gradle/caches/transforms-2/files-2.1/af91dbd7f877a5d4a533f633a2d6e94f/customview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.activity:activity:1.2.3] /Users/abdiels/.gradle/caches/transforms-2/files-2.1/3f1a757f317aa985753d2241db290076/jetified-activity-1.2.3/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity:1.2.3] /Users/abdiels/.gradle/caches/transforms-2/files-2.1/3f1a757f317aa985753d2241db290076/jetified-activity-1.2.3/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat-resources:1.3.0] /Users/abdiels/.gradle/caches/transforms-2/files-2.1/15da363b3385f435a2f61d344a809184/jetified-appcompat-resources-1.3.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat-resources:1.3.0] /Users/abdiels/.gradle/caches/transforms-2/files-2.1/15da363b3385f435a2f61d344a809184/jetified-appcompat-resources-1.3.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.transition:transition:1.2.0] /Users/abdiels/.gradle/caches/transforms-2/files-2.1/f0140fcf0de6ca2ccf13654a924fc7c8/transition-1.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.transition:transition:1.2.0] /Users/abdiels/.gradle/caches/transforms-2/files-2.1/f0140fcf0de6ca2ccf13654a924fc7c8/transition-1.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /Users/abdiels/.gradle/caches/transforms-2/files-2.1/fafc10091b926814a54e79386ad447ea/vectordrawable-animated-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /Users/abdiels/.gradle/caches/transforms-2/files-2.1/fafc10091b926814a54e79386ad447ea/vectordrawable-animated-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /Users/abdiels/.gradle/caches/transforms-2/files-2.1/6ec8ce6bf70acf1bc232be280ac3e440/vectordrawable-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /Users/abdiels/.gradle/caches/transforms-2/files-2.1/6ec8ce6bf70acf1bc232be280ac3e440/vectordrawable-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.loader:loader:1.0.0] /Users/abdiels/.gradle/caches/transforms-2/files-2.1/85c8a370cfe085ad38e9ec048c03d35f/loader-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] /Users/abdiels/.gradle/caches/transforms-2/files-2.1/85c8a370cfe085ad38e9ec048c03d35f/loader-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.6.0] /Users/abdiels/.gradle/caches/transforms-2/files-2.1/674a728e03ccb78ac854080ea6e9699a/core-1.6.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core:1.6.0] /Users/abdiels/.gradle/caches/transforms-2/files-2.1/674a728e03ccb78ac854080ea6e9699a/core-1.6.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.tracing:tracing:1.0.0] /Users/abdiels/.gradle/caches/transforms-2/files-2.1/e4fbc69e8faf5aa68ab13b17d341a3a3/jetified-tracing-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.tracing:tracing:1.0.0] /Users/abdiels/.gradle/caches/transforms-2/files-2.1/e4fbc69e8faf5aa68ab13b17d341a3a3/jetified-tracing-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.datatransport:transport-backend-cct:3.1.6] /Users/abdiels/.gradle/caches/transforms-2/files-2.1/e0ef78e8cbe081df0d61f0af6b0e141d/jetified-transport-backend-cct-3.1.6/AndroidManifest.xml:19:5-21:41
+MERGED from [com.google.android.datatransport:transport-backend-cct:3.1.6] /Users/abdiels/.gradle/caches/transforms-2/files-2.1/e0ef78e8cbe081df0d61f0af6b0e141d/jetified-transport-backend-cct-3.1.6/AndroidManifest.xml:19:5-21:41
+MERGED from [com.google.android.datatransport:transport-runtime:3.1.6] /Users/abdiels/.gradle/caches/transforms-2/files-2.1/14396e62ae5babdab0f25dd5ec4da7e5/jetified-transport-runtime-3.1.6/AndroidManifest.xml:18:5-20:41
+MERGED from [com.google.android.datatransport:transport-runtime:3.1.6] /Users/abdiels/.gradle/caches/transforms-2/files-2.1/14396e62ae5babdab0f25dd5ec4da7e5/jetified-transport-runtime-3.1.6/AndroidManifest.xml:18:5-20:41
+MERGED from [com.google.android.datatransport:transport-api:3.0.0] /Users/abdiels/.gradle/caches/transforms-2/files-2.1/1043936214d1675c28766c2c260703a5/jetified-transport-api-3.0.0/AndroidManifest.xml:18:5-20:41
+MERGED from [com.google.android.datatransport:transport-api:3.0.0] /Users/abdiels/.gradle/caches/transforms-2/files-2.1/1043936214d1675c28766c2c260703a5/jetified-transport-api-3.0.0/AndroidManifest.xml:18:5-20:41
+MERGED from [com.google.firebase:firebase-components:17.0.0] /Users/abdiels/.gradle/caches/transforms-2/files-2.1/d503c1b1a0377af7034b30837963ec7e/jetified-firebase-components-17.0.0/AndroidManifest.xml:19:5-21:41
+MERGED from [com.google.firebase:firebase-components:17.0.0] /Users/abdiels/.gradle/caches/transforms-2/files-2.1/d503c1b1a0377af7034b30837963ec7e/jetified-firebase-components-17.0.0/AndroidManifest.xml:19:5-21:41
+MERGED from [com.google.firebase:firebase-encoders-json:18.0.0] /Users/abdiels/.gradle/caches/transforms-2/files-2.1/eb3e05a195b86f0c972fb563746e6aa8/jetified-firebase-encoders-json-18.0.0/AndroidManifest.xml:19:5-21:41
+MERGED from [com.google.firebase:firebase-encoders-json:18.0.0] /Users/abdiels/.gradle/caches/transforms-2/files-2.1/eb3e05a195b86f0c972fb563746e6aa8/jetified-firebase-encoders-json-18.0.0/AndroidManifest.xml:19:5-21:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /Users/abdiels/.gradle/caches/transforms-2/files-2.1/0d679ec6ed3a76031960220d564e49dd/versionedparcelable-1.1.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /Users/abdiels/.gradle/caches/transforms-2/files-2.1/0d679ec6ed3a76031960220d564e49dd/versionedparcelable-1.1.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.databinding:viewbinding:4.2.1] /Users/abdiels/.gradle/caches/transforms-2/files-2.1/1434d5993e6cd72cee82c2561d0ce5fd/jetified-viewbinding-4.2.1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.databinding:viewbinding:4.2.1] /Users/abdiels/.gradle/caches/transforms-2/files-2.1/1434d5993e6cd72cee82c2561d0ce5fd/jetified-viewbinding-4.2.1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.3.1] /Users/abdiels/.gradle/caches/transforms-2/files-2.1/f8e1f84e9f7db565935963ca0024165a/jetified-lifecycle-viewmodel-savedstate-2.3.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.3.1] /Users/abdiels/.gradle/caches/transforms-2/files-2.1/f8e1f84e9f7db565935963ca0024165a/jetified-lifecycle-viewmodel-savedstate-2.3.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.3.1] /Users/abdiels/.gradle/caches/transforms-2/files-2.1/3a8d1c5ad01b072130bee073dd1a6b1d/lifecycle-runtime-2.3.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.3.1] /Users/abdiels/.gradle/caches/transforms-2/files-2.1/3a8d1c5ad01b072130bee073dd1a6b1d/lifecycle-runtime-2.3.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.3.1] /Users/abdiels/.gradle/caches/transforms-2/files-2.1/e4c93294cf64aed905d2ba4b36893a26/lifecycle-viewmodel-2.3.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.3.1] /Users/abdiels/.gradle/caches/transforms-2/files-2.1/e4c93294cf64aed905d2ba4b36893a26/lifecycle-viewmodel-2.3.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/abdiels/.gradle/caches/transforms-2/files-2.1/7f15f910d4db699f97cbc8aae7a4c41c/cursoradapter-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/abdiels/.gradle/caches/transforms-2/files-2.1/7f15f910d4db699f97cbc8aae7a4c41c/cursoradapter-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.savedstate:savedstate-ktx:1.1.0] /Users/abdiels/.gradle/caches/transforms-2/files-2.1/36b2169a5166cd3817910cd37d0a07e1/jetified-savedstate-ktx-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate-ktx:1.1.0] /Users/abdiels/.gradle/caches/transforms-2/files-2.1/36b2169a5166cd3817910cd37d0a07e1/jetified-savedstate-ktx-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate:1.1.0] /Users/abdiels/.gradle/caches/transforms-2/files-2.1/35d813083c10cb99cc6237779bb59dee/jetified-savedstate-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate:1.1.0] /Users/abdiels/.gradle/caches/transforms-2/files-2.1/35d813083c10cb99cc6237779bb59dee/jetified-savedstate-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/abdiels/.gradle/caches/transforms-2/files-2.1/d5cf38cc584cf860d0d95b366f9451bd/interpolator-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/abdiels/.gradle/caches/transforms-2/files-2.1/d5cf38cc584cf860d0d95b366f9451bd/interpolator-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cardview:cardview:1.0.0] /Users/abdiels/.gradle/caches/transforms-2/files-2.1/82123223c79ddb40750214dd2a4477ec/cardview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cardview:cardview:1.0.0] /Users/abdiels/.gradle/caches/transforms-2/files-2.1/82123223c79ddb40750214dd2a4477ec/cardview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] /Users/abdiels/.gradle/caches/transforms-2/files-2.1/321303f4250cb58ad905d27dc232ce97/documentfile-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] /Users/abdiels/.gradle/caches/transforms-2/files-2.1/321303f4250cb58ad905d27dc232ce97/documentfile-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] /Users/abdiels/.gradle/caches/transforms-2/files-2.1/aef7a5e3ba9afbc864b4f6a745fe31e7/print-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] /Users/abdiels/.gradle/caches/transforms-2/files-2.1/aef7a5e3ba9afbc864b4f6a745fe31e7/print-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.3.1] /Users/abdiels/.gradle/caches/transforms-2/files-2.1/35afb62c14b448fcc32fac2103eb0b77/lifecycle-livedata-2.3.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.3.1] /Users/abdiels/.gradle/caches/transforms-2/files-2.1/35afb62c14b448fcc32fac2103eb0b77/lifecycle-livedata-2.3.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata-core-ktx:2.3.1] /Users/abdiels/.gradle/caches/transforms-2/files-2.1/fb204f7322b2b7cca3afcdc2c1fa5c38/jetified-lifecycle-livedata-core-ktx-2.3.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata-core-ktx:2.3.1] /Users/abdiels/.gradle/caches/transforms-2/files-2.1/fb204f7322b2b7cca3afcdc2c1fa5c38/jetified-lifecycle-livedata-core-ktx-2.3.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.3.1] /Users/abdiels/.gradle/caches/transforms-2/files-2.1/1152b80ae48275f398190a1753ffc575/lifecycle-livedata-core-2.3.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.3.1] /Users/abdiels/.gradle/caches/transforms-2/files-2.1/1152b80ae48275f398190a1753ffc575/lifecycle-livedata-core-2.3.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.arch.core:core-runtime:2.1.0] /Users/abdiels/.gradle/caches/transforms-2/files-2.1/e697ae008ed6e31d0d5567c5723a14b0/core-runtime-2.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.arch.core:core-runtime:2.1.0] /Users/abdiels/.gradle/caches/transforms-2/files-2.1/e697ae008ed6e31d0d5567c5723a14b0/core-runtime-2.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [com.jakewharton.threetenabp:threetenabp:1.2.3] /Users/abdiels/.gradle/caches/transforms-2/files-2.1/2aaae3e24eb9771d062cd4752bf71405/jetified-threetenabp-1.2.3/AndroidManifest.xml:5:5-44
+MERGED from [com.jakewharton.threetenabp:threetenabp:1.2.3] /Users/abdiels/.gradle/caches/transforms-2/files-2.1/2aaae3e24eb9771d062cd4752bf71405/jetified-threetenabp-1.2.3/AndroidManifest.xml:5:5-44
+MERGED from [androidx.annotation:annotation-experimental:1.1.0] /Users/abdiels/.gradle/caches/transforms-2/files-2.1/97721e15e59e69ab90e02fff7114c103/jetified-annotation-experimental-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.annotation:annotation-experimental:1.1.0] /Users/abdiels/.gradle/caches/transforms-2/files-2.1/97721e15e59e69ab90e02fff7114c103/jetified-annotation-experimental-1.1.0/AndroidManifest.xml:20:5-22:41
+INJECTED from /Users/abdiels/Documents/developer/Aguacate App/android/app/src/main/AndroidManifest.xml
+INJECTED from /Users/abdiels/Documents/developer/Aguacate App/android/app/src/main/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /Users/abdiels/Documents/developer/Aguacate App/android/app/src/main/AndroidManifest.xml
+		ADDED from /Users/abdiels/Documents/developer/Aguacate App/android/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/abdiels/Documents/developer/Aguacate App/android/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /Users/abdiels/Documents/developer/Aguacate App/android/app/src/main/AndroidManifest.xml
+		ADDED from /Users/abdiels/Documents/developer/Aguacate App/android/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/abdiels/Documents/developer/Aguacate App/android/app/src/main/AndroidManifest.xml
+uses-permission#android.permission.INTERNET
+ADDED from [:firebase_messaging] /Users/abdiels/Documents/developer/Aguacate App/build/firebase_messaging/intermediates/library_manifest/release/AndroidManifest.xml:7:5-67
+MERGED from [com.google.firebase:firebase-installations:17.0.1] /Users/abdiels/.gradle/caches/transforms-2/files-2.1/5127b1b9abef3f63b510b6c3568c5243/jetified-firebase-installations-17.0.1/AndroidManifest.xml:11:5-67
+MERGED from [com.google.firebase:firebase-installations:17.0.1] /Users/abdiels/.gradle/caches/transforms-2/files-2.1/5127b1b9abef3f63b510b6c3568c5243/jetified-firebase-installations-17.0.1/AndroidManifest.xml:11:5-67
+MERGED from [com.google.android.gms:play-services-maps:18.0.2] /Users/abdiels/.gradle/caches/transforms-2/files-2.1/bc8930a934b2de461e4c0e56c10cdd3a/jetified-play-services-maps-18.0.2/AndroidManifest.xml:24:5-67
+MERGED from [com.google.android.gms:play-services-maps:18.0.2] /Users/abdiels/.gradle/caches/transforms-2/files-2.1/bc8930a934b2de461e4c0e56c10cdd3a/jetified-play-services-maps-18.0.2/AndroidManifest.xml:24:5-67
+MERGED from [com.google.android.gms:play-services-cloud-messaging:17.0.1] /Users/abdiels/.gradle/caches/transforms-2/files-2.1/cfe4d1a4a8d843e0c11f9d752c631f43/jetified-play-services-cloud-messaging-17.0.1/AndroidManifest.xml:8:5-67
+MERGED from [com.google.android.gms:play-services-cloud-messaging:17.0.1] /Users/abdiels/.gradle/caches/transforms-2/files-2.1/cfe4d1a4a8d843e0c11f9d752c631f43/jetified-play-services-cloud-messaging-17.0.1/AndroidManifest.xml:8:5-67
+MERGED from [com.google.android.datatransport:transport-backend-cct:3.1.6] /Users/abdiels/.gradle/caches/transforms-2/files-2.1/e0ef78e8cbe081df0d61f0af6b0e141d/jetified-transport-backend-cct-3.1.6/AndroidManifest.xml:26:5-67
+MERGED from [com.google.android.datatransport:transport-backend-cct:3.1.6] /Users/abdiels/.gradle/caches/transforms-2/files-2.1/e0ef78e8cbe081df0d61f0af6b0e141d/jetified-transport-backend-cct-3.1.6/AndroidManifest.xml:26:5-67
+	android:name
+		ADDED from [:firebase_messaging] /Users/abdiels/Documents/developer/Aguacate App/build/firebase_messaging/intermediates/library_manifest/release/AndroidManifest.xml:7:22-64
+uses-permission#android.permission.WAKE_LOCK
+ADDED from [:firebase_messaging] /Users/abdiels/Documents/developer/Aguacate App/build/firebase_messaging/intermediates/library_manifest/release/AndroidManifest.xml:8:5-68
+MERGED from [com.google.firebase:firebase-messaging:23.0.7] /Users/abdiels/.gradle/caches/transforms-2/files-2.1/b763de6615e343422a620914593f1c0f/jetified-firebase-messaging-23.0.7/AndroidManifest.xml:27:5-68
+MERGED from [com.google.firebase:firebase-messaging:23.0.7] /Users/abdiels/.gradle/caches/transforms-2/files-2.1/b763de6615e343422a620914593f1c0f/jetified-firebase-messaging-23.0.7/AndroidManifest.xml:27:5-68
+MERGED from [com.google.android.gms:play-services-cloud-messaging:17.0.1] /Users/abdiels/.gradle/caches/transforms-2/files-2.1/cfe4d1a4a8d843e0c11f9d752c631f43/jetified-play-services-cloud-messaging-17.0.1/AndroidManifest.xml:9:5-68
+MERGED from [com.google.android.gms:play-services-cloud-messaging:17.0.1] /Users/abdiels/.gradle/caches/transforms-2/files-2.1/cfe4d1a4a8d843e0c11f9d752c631f43/jetified-play-services-cloud-messaging-17.0.1/AndroidManifest.xml:9:5-68
+	android:name
+		ADDED from [:firebase_messaging] /Users/abdiels/Documents/developer/Aguacate App/build/firebase_messaging/intermediates/library_manifest/release/AndroidManifest.xml:8:22-65
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from [:firebase_messaging] /Users/abdiels/Documents/developer/Aguacate App/build/firebase_messaging/intermediates/library_manifest/release/AndroidManifest.xml:9:5-79
+MERGED from [com.google.firebase:firebase-messaging:23.0.7] /Users/abdiels/.gradle/caches/transforms-2/files-2.1/b763de6615e343422a620914593f1c0f/jetified-firebase-messaging-23.0.7/AndroidManifest.xml:25:5-79
+MERGED from [com.google.firebase:firebase-messaging:23.0.7] /Users/abdiels/.gradle/caches/transforms-2/files-2.1/b763de6615e343422a620914593f1c0f/jetified-firebase-messaging-23.0.7/AndroidManifest.xml:25:5-79
+MERGED from [com.google.firebase:firebase-installations:17.0.1] /Users/abdiels/.gradle/caches/transforms-2/files-2.1/5127b1b9abef3f63b510b6c3568c5243/jetified-firebase-installations-17.0.1/AndroidManifest.xml:10:5-79
+MERGED from [com.google.firebase:firebase-installations:17.0.1] /Users/abdiels/.gradle/caches/transforms-2/files-2.1/5127b1b9abef3f63b510b6c3568c5243/jetified-firebase-installations-17.0.1/AndroidManifest.xml:10:5-79
+MERGED from [com.google.android.gms:play-services-maps:18.0.2] /Users/abdiels/.gradle/caches/transforms-2/files-2.1/bc8930a934b2de461e4c0e56c10cdd3a/jetified-play-services-maps-18.0.2/AndroidManifest.xml:23:5-79
+MERGED from [com.google.android.gms:play-services-maps:18.0.2] /Users/abdiels/.gradle/caches/transforms-2/files-2.1/bc8930a934b2de461e4c0e56c10cdd3a/jetified-play-services-maps-18.0.2/AndroidManifest.xml:23:5-79
+MERGED from [com.google.android.gms:play-services-cloud-messaging:17.0.1] /Users/abdiels/.gradle/caches/transforms-2/files-2.1/cfe4d1a4a8d843e0c11f9d752c631f43/jetified-play-services-cloud-messaging-17.0.1/AndroidManifest.xml:7:5-79
+MERGED from [com.google.android.gms:play-services-cloud-messaging:17.0.1] /Users/abdiels/.gradle/caches/transforms-2/files-2.1/cfe4d1a4a8d843e0c11f9d752c631f43/jetified-play-services-cloud-messaging-17.0.1/AndroidManifest.xml:7:5-79
+MERGED from [com.google.android.datatransport:transport-backend-cct:3.1.6] /Users/abdiels/.gradle/caches/transforms-2/files-2.1/e0ef78e8cbe081df0d61f0af6b0e141d/jetified-transport-backend-cct-3.1.6/AndroidManifest.xml:25:5-79
+MERGED from [com.google.android.datatransport:transport-backend-cct:3.1.6] /Users/abdiels/.gradle/caches/transforms-2/files-2.1/e0ef78e8cbe081df0d61f0af6b0e141d/jetified-transport-backend-cct-3.1.6/AndroidManifest.xml:25:5-79
+MERGED from [com.google.android.datatransport:transport-runtime:3.1.6] /Users/abdiels/.gradle/caches/transforms-2/files-2.1/14396e62ae5babdab0f25dd5ec4da7e5/jetified-transport-runtime-3.1.6/AndroidManifest.xml:22:5-79
+MERGED from [com.google.android.datatransport:transport-runtime:3.1.6] /Users/abdiels/.gradle/caches/transforms-2/files-2.1/14396e62ae5babdab0f25dd5ec4da7e5/jetified-transport-runtime-3.1.6/AndroidManifest.xml:22:5-79
+	android:name
+		ADDED from [:firebase_messaging] /Users/abdiels/Documents/developer/Aguacate App/build/firebase_messaging/intermediates/library_manifest/release/AndroidManifest.xml:9:22-76
+service#io.flutter.plugins.firebase.messaging.FlutterFirebaseMessagingBackgroundService
+ADDED from [:firebase_messaging] /Users/abdiels/Documents/developer/Aguacate App/build/firebase_messaging/intermediates/library_manifest/release/AndroidManifest.xml:12:9-15:72
+	android:exported
+		ADDED from [:firebase_messaging] /Users/abdiels/Documents/developer/Aguacate App/build/firebase_messaging/intermediates/library_manifest/release/AndroidManifest.xml:14:13-37
+	android:permission
+		ADDED from [:firebase_messaging] /Users/abdiels/Documents/developer/Aguacate App/build/firebase_messaging/intermediates/library_manifest/release/AndroidManifest.xml:15:13-69
+	android:name
+		ADDED from [:firebase_messaging] /Users/abdiels/Documents/developer/Aguacate App/build/firebase_messaging/intermediates/library_manifest/release/AndroidManifest.xml:13:13-107
+service#io.flutter.plugins.firebase.messaging.FlutterFirebaseMessagingService
+ADDED from [:firebase_messaging] /Users/abdiels/Documents/developer/Aguacate App/build/firebase_messaging/intermediates/library_manifest/release/AndroidManifest.xml:16:9-22:19
+	android:exported
+		ADDED from [:firebase_messaging] /Users/abdiels/Documents/developer/Aguacate App/build/firebase_messaging/intermediates/library_manifest/release/AndroidManifest.xml:18:13-37
+	android:name
+		ADDED from [:firebase_messaging] /Users/abdiels/Documents/developer/Aguacate App/build/firebase_messaging/intermediates/library_manifest/release/AndroidManifest.xml:17:13-97
+intent-filter#action:name:com.google.firebase.MESSAGING_EVENT
+ADDED from [:firebase_messaging] /Users/abdiels/Documents/developer/Aguacate App/build/firebase_messaging/intermediates/library_manifest/release/AndroidManifest.xml:19:13-21:29
+action#com.google.firebase.MESSAGING_EVENT
+ADDED from [:firebase_messaging] /Users/abdiels/Documents/developer/Aguacate App/build/firebase_messaging/intermediates/library_manifest/release/AndroidManifest.xml:20:17-78
+	android:name
+		ADDED from [:firebase_messaging] /Users/abdiels/Documents/developer/Aguacate App/build/firebase_messaging/intermediates/library_manifest/release/AndroidManifest.xml:20:25-75
+receiver#io.flutter.plugins.firebase.messaging.FlutterFirebaseMessagingReceiver
+ADDED from [:firebase_messaging] /Users/abdiels/Documents/developer/Aguacate App/build/firebase_messaging/intermediates/library_manifest/release/AndroidManifest.xml:24:9-31:20
+	android:exported
+		ADDED from [:firebase_messaging] /Users/abdiels/Documents/developer/Aguacate App/build/firebase_messaging/intermediates/library_manifest/release/AndroidManifest.xml:26:13-36
+	android:permission
+		ADDED from [:firebase_messaging] /Users/abdiels/Documents/developer/Aguacate App/build/firebase_messaging/intermediates/library_manifest/release/AndroidManifest.xml:27:13-73
+	android:name
+		ADDED from [:firebase_messaging] /Users/abdiels/Documents/developer/Aguacate App/build/firebase_messaging/intermediates/library_manifest/release/AndroidManifest.xml:25:13-98
+intent-filter#action:name:com.google.android.c2dm.intent.RECEIVE
+ADDED from [:firebase_messaging] /Users/abdiels/Documents/developer/Aguacate App/build/firebase_messaging/intermediates/library_manifest/release/AndroidManifest.xml:28:13-30:29
+action#com.google.android.c2dm.intent.RECEIVE
+ADDED from [:firebase_messaging] /Users/abdiels/Documents/developer/Aguacate App/build/firebase_messaging/intermediates/library_manifest/release/AndroidManifest.xml:29:17-81
+	android:name
+		ADDED from [:firebase_messaging] /Users/abdiels/Documents/developer/Aguacate App/build/firebase_messaging/intermediates/library_manifest/release/AndroidManifest.xml:29:25-78
+service#com.google.firebase.components.ComponentDiscoveryService
+ADDED from [:firebase_messaging] /Users/abdiels/Documents/developer/Aguacate App/build/firebase_messaging/intermediates/library_manifest/release/AndroidManifest.xml:33:9-37:19
+MERGED from [:firebase_core] /Users/abdiels/Documents/developer/Aguacate App/build/firebase_core/intermediates/library_manifest/release/AndroidManifest.xml:8:9-12:19
+MERGED from [:firebase_core] /Users/abdiels/Documents/developer/Aguacate App/build/firebase_core/intermediates/library_manifest/release/AndroidManifest.xml:8:9-12:19
+MERGED from [com.google.firebase:firebase-messaging:23.0.7] /Users/abdiels/.gradle/caches/transforms-2/files-2.1/b763de6615e343422a620914593f1c0f/jetified-firebase-messaging-23.0.7/AndroidManifest.xml:53:9-59:19
+MERGED from [com.google.firebase:firebase-messaging:23.0.7] /Users/abdiels/.gradle/caches/transforms-2/files-2.1/b763de6615e343422a620914593f1c0f/jetified-firebase-messaging-23.0.7/AndroidManifest.xml:53:9-59:19
+MERGED from [com.google.firebase:firebase-datatransport:18.1.5] /Users/abdiels/.gradle/caches/transforms-2/files-2.1/134388aeda336d7f2b8661271d167b24/jetified-firebase-datatransport-18.1.5/AndroidManifest.xml:25:9-31:19
+MERGED from [com.google.firebase:firebase-datatransport:18.1.5] /Users/abdiels/.gradle/caches/transforms-2/files-2.1/134388aeda336d7f2b8661271d167b24/jetified-firebase-datatransport-18.1.5/AndroidManifest.xml:25:9-31:19
+MERGED from [com.google.firebase:firebase-installations:17.0.1] /Users/abdiels/.gradle/caches/transforms-2/files-2.1/5127b1b9abef3f63b510b6c3568c5243/jetified-firebase-installations-17.0.1/AndroidManifest.xml:15:9-21:19
+MERGED from [com.google.firebase:firebase-installations:17.0.1] /Users/abdiels/.gradle/caches/transforms-2/files-2.1/5127b1b9abef3f63b510b6c3568c5243/jetified-firebase-installations-17.0.1/AndroidManifest.xml:15:9-21:19
+MERGED from [com.google.firebase:firebase-common:20.1.1] /Users/abdiels/.gradle/caches/transforms-2/files-2.1/f171c4c18d4a919f6a39a92d6e98e425/jetified-firebase-common-20.1.1/AndroidManifest.xml:33:9-37:35
+MERGED from [com.google.firebase:firebase-common:20.1.1] /Users/abdiels/.gradle/caches/transforms-2/files-2.1/f171c4c18d4a919f6a39a92d6e98e425/jetified-firebase-common-20.1.1/AndroidManifest.xml:33:9-37:35
+	android:exported
+		ADDED from [com.google.firebase:firebase-messaging:23.0.7] /Users/abdiels/.gradle/caches/transforms-2/files-2.1/b763de6615e343422a620914593f1c0f/jetified-firebase-messaging-23.0.7/AndroidManifest.xml:55:13-37
+	tools:targetApi
+		ADDED from [com.google.firebase:firebase-common:20.1.1] /Users/abdiels/.gradle/caches/transforms-2/files-2.1/f171c4c18d4a919f6a39a92d6e98e425/jetified-firebase-common-20.1.1/AndroidManifest.xml:37:13-32
+	android:directBootAware
+		ADDED from [com.google.firebase:firebase-common:20.1.1] /Users/abdiels/.gradle/caches/transforms-2/files-2.1/f171c4c18d4a919f6a39a92d6e98e425/jetified-firebase-common-20.1.1/AndroidManifest.xml:35:13-43
+	android:name
+		ADDED from [:firebase_messaging] /Users/abdiels/Documents/developer/Aguacate App/build/firebase_messaging/intermediates/library_manifest/release/AndroidManifest.xml:33:18-89
+meta-data#com.google.firebase.components:io.flutter.plugins.firebase.messaging.FlutterFirebaseAppRegistrar
+ADDED from [:firebase_messaging] /Users/abdiels/Documents/developer/Aguacate App/build/firebase_messaging/intermediates/library_manifest/release/AndroidManifest.xml:34:13-36:85
+	android:value
+		ADDED from [:firebase_messaging] /Users/abdiels/Documents/developer/Aguacate App/build/firebase_messaging/intermediates/library_manifest/release/AndroidManifest.xml:36:17-82
+	android:name
+		ADDED from [:firebase_messaging] /Users/abdiels/Documents/developer/Aguacate App/build/firebase_messaging/intermediates/library_manifest/release/AndroidManifest.xml:35:17-128
+provider#io.flutter.plugins.firebase.messaging.FlutterFirebaseMessagingInitProvider
+ADDED from [:firebase_messaging] /Users/abdiels/Documents/developer/Aguacate App/build/firebase_messaging/intermediates/library_manifest/release/AndroidManifest.xml:39:9-43:38
+	android:authorities
+		ADDED from [:firebase_messaging] /Users/abdiels/Documents/developer/Aguacate App/build/firebase_messaging/intermediates/library_manifest/release/AndroidManifest.xml:41:13-88
+	android:exported
+		ADDED from [:firebase_messaging] /Users/abdiels/Documents/developer/Aguacate App/build/firebase_messaging/intermediates/library_manifest/release/AndroidManifest.xml:42:13-37
+	android:initOrder
+		ADDED from [:firebase_messaging] /Users/abdiels/Documents/developer/Aguacate App/build/firebase_messaging/intermediates/library_manifest/release/AndroidManifest.xml:43:13-35
+	android:name
+		ADDED from [:firebase_messaging] /Users/abdiels/Documents/developer/Aguacate App/build/firebase_messaging/intermediates/library_manifest/release/AndroidManifest.xml:40:13-102
+meta-data#com.google.firebase.components:io.flutter.plugins.firebase.core.FlutterFirebaseCoreRegistrar
+ADDED from [:firebase_core] /Users/abdiels/Documents/developer/Aguacate App/build/firebase_core/intermediates/library_manifest/release/AndroidManifest.xml:9:13-11:85
+	android:value
+		ADDED from [:firebase_core] /Users/abdiels/Documents/developer/Aguacate App/build/firebase_core/intermediates/library_manifest/release/AndroidManifest.xml:11:17-82
+	android:name
+		ADDED from [:firebase_core] /Users/abdiels/Documents/developer/Aguacate App/build/firebase_core/intermediates/library_manifest/release/AndroidManifest.xml:10:17-124
+meta-data#com.google.android.gms.wallet.api.enabled
+ADDED from [:stripe_payment] /Users/abdiels/Documents/developer/Aguacate App/build/stripe_payment/intermediates/library_manifest/release/AndroidManifest.xml:12:9-14:36
+	android:value
+		ADDED from [:stripe_payment] /Users/abdiels/Documents/developer/Aguacate App/build/stripe_payment/intermediates/library_manifest/release/AndroidManifest.xml:14:13-33
+	android:name
+		ADDED from [:stripe_payment] /Users/abdiels/Documents/developer/Aguacate App/build/stripe_payment/intermediates/library_manifest/release/AndroidManifest.xml:13:13-69
+activity#com.gettipsi.stripe.OpenBrowserActivity
+ADDED from [:stripe_payment] /Users/abdiels/Documents/developer/Aguacate App/build/stripe_payment/intermediates/library_manifest/release/AndroidManifest.xml:16:9-20:75
+	android:launchMode
+		ADDED from [:stripe_payment] /Users/abdiels/Documents/developer/Aguacate App/build/stripe_payment/intermediates/library_manifest/release/AndroidManifest.xml:19:13-44
+	android:exported
+		ADDED from [:stripe_payment] /Users/abdiels/Documents/developer/Aguacate App/build/stripe_payment/intermediates/library_manifest/release/AndroidManifest.xml:18:13-37
+	android:theme
+		ADDED from [:stripe_payment] /Users/abdiels/Documents/developer/Aguacate App/build/stripe_payment/intermediates/library_manifest/release/AndroidManifest.xml:20:13-72
+	android:name
+		ADDED from [:stripe_payment] /Users/abdiels/Documents/developer/Aguacate App/build/stripe_payment/intermediates/library_manifest/release/AndroidManifest.xml:17:13-67
+activity#com.gettipsi.stripe.RedirectUriReceiver
+ADDED from [:stripe_payment] /Users/abdiels/Documents/developer/Aguacate App/build/stripe_payment/intermediates/library_manifest/release/AndroidManifest.xml:21:9-34:20
+	android:launchMode
+		ADDED from [:stripe_payment] /Users/abdiels/Documents/developer/Aguacate App/build/stripe_payment/intermediates/library_manifest/release/AndroidManifest.xml:24:13-44
+	android:exported
+		ADDED from [:stripe_payment] /Users/abdiels/Documents/developer/Aguacate App/build/stripe_payment/intermediates/library_manifest/release/AndroidManifest.xml:23:13-36
+	android:theme
+		ADDED from [:stripe_payment] /Users/abdiels/Documents/developer/Aguacate App/build/stripe_payment/intermediates/library_manifest/release/AndroidManifest.xml:25:13-83
+	android:name
+		ADDED from [:stripe_payment] /Users/abdiels/Documents/developer/Aguacate App/build/stripe_payment/intermediates/library_manifest/release/AndroidManifest.xml:22:13-67
+intent-filter#action:name:android.intent.action.VIEW+category:name:android.intent.category.BROWSABLE+category:name:android.intent.category.DEFAULT+data:scheme:example
+ADDED from [:stripe_payment] /Users/abdiels/Documents/developer/Aguacate App/build/stripe_payment/intermediates/library_manifest/release/AndroidManifest.xml:26:13-33:29
+action#android.intent.action.VIEW
+ADDED from [:stripe_payment] /Users/abdiels/Documents/developer/Aguacate App/build/stripe_payment/intermediates/library_manifest/release/AndroidManifest.xml:27:17-69
+	android:name
+		ADDED from [:stripe_payment] /Users/abdiels/Documents/developer/Aguacate App/build/stripe_payment/intermediates/library_manifest/release/AndroidManifest.xml:27:25-66
+category#android.intent.category.BROWSABLE
+ADDED from [:stripe_payment] /Users/abdiels/Documents/developer/Aguacate App/build/stripe_payment/intermediates/library_manifest/release/AndroidManifest.xml:30:17-78
+	android:name
+		ADDED from [:stripe_payment] /Users/abdiels/Documents/developer/Aguacate App/build/stripe_payment/intermediates/library_manifest/release/AndroidManifest.xml:30:27-75
+data
+ADDED from [:stripe_payment] /Users/abdiels/Documents/developer/Aguacate App/build/stripe_payment/intermediates/library_manifest/release/AndroidManifest.xml:32:17-50
+	android:scheme
+		ADDED from [:stripe_payment] /Users/abdiels/Documents/developer/Aguacate App/build/stripe_payment/intermediates/library_manifest/release/AndroidManifest.xml:32:23-47
+uses-permission#android.permission.READ_EXTERNAL_STORAGE
+ADDED from [:image_picker] /Users/abdiels/Documents/developer/Aguacate App/build/image_picker/intermediates/library_manifest/release/AndroidManifest.xml:7:5-80
+	android:name
+		ADDED from [:image_picker] /Users/abdiels/Documents/developer/Aguacate App/build/image_picker/intermediates/library_manifest/release/AndroidManifest.xml:7:22-77
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from [:image_picker] /Users/abdiels/Documents/developer/Aguacate App/build/image_picker/intermediates/library_manifest/release/AndroidManifest.xml:8:5-81
+	android:name
+		ADDED from [:image_picker] /Users/abdiels/Documents/developer/Aguacate App/build/image_picker/intermediates/library_manifest/release/AndroidManifest.xml:8:22-78
+provider#io.flutter.plugins.imagepicker.ImagePickerFileProvider
+ADDED from [:image_picker] /Users/abdiels/Documents/developer/Aguacate App/build/image_picker/intermediates/library_manifest/release/AndroidManifest.xml:11:9-19:20
+	android:grantUriPermissions
+		ADDED from [:image_picker] /Users/abdiels/Documents/developer/Aguacate App/build/image_picker/intermediates/library_manifest/release/AndroidManifest.xml:15:13-47
+	android:authorities
+		ADDED from [:image_picker] /Users/abdiels/Documents/developer/Aguacate App/build/image_picker/intermediates/library_manifest/release/AndroidManifest.xml:13:13-74
+	android:exported
+		ADDED from [:image_picker] /Users/abdiels/Documents/developer/Aguacate App/build/image_picker/intermediates/library_manifest/release/AndroidManifest.xml:14:13-37
+	android:name
+		ADDED from [:image_picker] /Users/abdiels/Documents/developer/Aguacate App/build/image_picker/intermediates/library_manifest/release/AndroidManifest.xml:12:13-82
+meta-data#android.support.FILE_PROVIDER_PATHS
+ADDED from [:image_picker] /Users/abdiels/Documents/developer/Aguacate App/build/image_picker/intermediates/library_manifest/release/AndroidManifest.xml:16:13-18:75
+	android:resource
+		ADDED from [:image_picker] /Users/abdiels/Documents/developer/Aguacate App/build/image_picker/intermediates/library_manifest/release/AndroidManifest.xml:18:17-72
+	android:name
+		ADDED from [:image_picker] /Users/abdiels/Documents/developer/Aguacate App/build/image_picker/intermediates/library_manifest/release/AndroidManifest.xml:17:17-67
+uses-permission#android.permission.RECEIVE_BOOT_COMPLETED
+ADDED from [:flutter_local_notifications] /Users/abdiels/Documents/developer/Aguacate App/build/flutter_local_notifications/intermediates/library_manifest/release/AndroidManifest.xml:7:5-81
+	android:name
+		ADDED from [:flutter_local_notifications] /Users/abdiels/Documents/developer/Aguacate App/build/flutter_local_notifications/intermediates/library_manifest/release/AndroidManifest.xml:7:22-78
+uses-permission#android.permission.VIBRATE
+ADDED from [:flutter_local_notifications] /Users/abdiels/Documents/developer/Aguacate App/build/flutter_local_notifications/intermediates/library_manifest/release/AndroidManifest.xml:8:5-66
+	android:name
+		ADDED from [:flutter_local_notifications] /Users/abdiels/Documents/developer/Aguacate App/build/flutter_local_notifications/intermediates/library_manifest/release/AndroidManifest.xml:8:22-63
+uses-permission#android.permission.USE_FULL_SCREEN_INTENT
+ADDED from [:flutter_local_notifications] /Users/abdiels/Documents/developer/Aguacate App/build/flutter_local_notifications/intermediates/library_manifest/release/AndroidManifest.xml:9:5-81
+	android:name
+		ADDED from [:flutter_local_notifications] /Users/abdiels/Documents/developer/Aguacate App/build/flutter_local_notifications/intermediates/library_manifest/release/AndroidManifest.xml:9:22-78
+receiver#com.dexterous.flutterlocalnotifications.ScheduledNotificationReceiver
+ADDED from [:flutter_local_notifications] /Users/abdiels/Documents/developer/Aguacate App/build/flutter_local_notifications/intermediates/library_manifest/release/AndroidManifest.xml:12:9-106
+	android:name
+		ADDED from [:flutter_local_notifications] /Users/abdiels/Documents/developer/Aguacate App/build/flutter_local_notifications/intermediates/library_manifest/release/AndroidManifest.xml:12:19-103
+receiver#com.dexterous.flutterlocalnotifications.ScheduledNotificationBootReceiver
+ADDED from [:flutter_local_notifications] /Users/abdiels/Documents/developer/Aguacate App/build/flutter_local_notifications/intermediates/library_manifest/release/AndroidManifest.xml:13:9-20:20
+	android:name
+		ADDED from [:flutter_local_notifications] /Users/abdiels/Documents/developer/Aguacate App/build/flutter_local_notifications/intermediates/library_manifest/release/AndroidManifest.xml:13:19-107
+intent-filter#action:name:android.intent.action.BOOT_COMPLETED+action:name:android.intent.action.MY_PACKAGE_REPLACED+action:name:android.intent.action.QUICKBOOT_POWERON+action:name:com.htc.intent.action.QUICKBOOT_POWERON
+ADDED from [:flutter_local_notifications] /Users/abdiels/Documents/developer/Aguacate App/build/flutter_local_notifications/intermediates/library_manifest/release/AndroidManifest.xml:14:13-19:29
+action#android.intent.action.BOOT_COMPLETED
+ADDED from [:flutter_local_notifications] /Users/abdiels/Documents/developer/Aguacate App/build/flutter_local_notifications/intermediates/library_manifest/release/AndroidManifest.xml:15:17-79
+	android:name
+		ADDED from [:flutter_local_notifications] /Users/abdiels/Documents/developer/Aguacate App/build/flutter_local_notifications/intermediates/library_manifest/release/AndroidManifest.xml:15:25-76
+action#android.intent.action.MY_PACKAGE_REPLACED
+ADDED from [:flutter_local_notifications] /Users/abdiels/Documents/developer/Aguacate App/build/flutter_local_notifications/intermediates/library_manifest/release/AndroidManifest.xml:16:17-84
+	android:name
+		ADDED from [:flutter_local_notifications] /Users/abdiels/Documents/developer/Aguacate App/build/flutter_local_notifications/intermediates/library_manifest/release/AndroidManifest.xml:16:25-81
+action#android.intent.action.QUICKBOOT_POWERON
+ADDED from [:flutter_local_notifications] /Users/abdiels/Documents/developer/Aguacate App/build/flutter_local_notifications/intermediates/library_manifest/release/AndroidManifest.xml:17:17-82
+	android:name
+		ADDED from [:flutter_local_notifications] /Users/abdiels/Documents/developer/Aguacate App/build/flutter_local_notifications/intermediates/library_manifest/release/AndroidManifest.xml:17:25-79
+action#com.htc.intent.action.QUICKBOOT_POWERON
+ADDED from [:flutter_local_notifications] /Users/abdiels/Documents/developer/Aguacate App/build/flutter_local_notifications/intermediates/library_manifest/release/AndroidManifest.xml:18:17-82
+	android:name
+		ADDED from [:flutter_local_notifications] /Users/abdiels/Documents/developer/Aguacate App/build/flutter_local_notifications/intermediates/library_manifest/release/AndroidManifest.xml:18:25-79
+activity#io.flutter.plugins.urllauncher.WebViewActivity
+ADDED from [:url_launcher_android] /Users/abdiels/Documents/developer/Aguacate App/build/url_launcher_android/intermediates/library_manifest/release/AndroidManifest.xml:8:9-11:74
+	android:exported
+		ADDED from [:url_launcher_android] /Users/abdiels/Documents/developer/Aguacate App/build/url_launcher_android/intermediates/library_manifest/release/AndroidManifest.xml:10:13-37
+	android:theme
+		ADDED from [:url_launcher_android] /Users/abdiels/Documents/developer/Aguacate App/build/url_launcher_android/intermediates/library_manifest/release/AndroidManifest.xml:11:13-71
+	android:name
+		ADDED from [:url_launcher_android] /Users/abdiels/Documents/developer/Aguacate App/build/url_launcher_android/intermediates/library_manifest/release/AndroidManifest.xml:9:13-74
+uses-permission#android.permission.ACCESS_COARSE_LOCATION
+ADDED from [:location] /Users/abdiels/Documents/developer/Aguacate App/build/location/intermediates/library_manifest/release/AndroidManifest.xml:7:5-81
+	android:name
+		ADDED from [:location] /Users/abdiels/Documents/developer/Aguacate App/build/location/intermediates/library_manifest/release/AndroidManifest.xml:7:22-78
+uses-permission#android.permission.ACCESS_FINE_LOCATION
+ADDED from [:location] /Users/abdiels/Documents/developer/Aguacate App/build/location/intermediates/library_manifest/release/AndroidManifest.xml:8:5-79
+	android:name
+		ADDED from [:location] /Users/abdiels/Documents/developer/Aguacate App/build/location/intermediates/library_manifest/release/AndroidManifest.xml:8:22-76
+service#com.lyokone.location.FlutterLocationService
+ADDED from [:location] /Users/abdiels/Documents/developer/Aguacate App/build/location/intermediates/library_manifest/release/AndroidManifest.xml:11:9-15:56
+	android:enabled
+		ADDED from [:location] /Users/abdiels/Documents/developer/Aguacate App/build/location/intermediates/library_manifest/release/AndroidManifest.xml:13:13-35
+	android:exported
+		ADDED from [:location] /Users/abdiels/Documents/developer/Aguacate App/build/location/intermediates/library_manifest/release/AndroidManifest.xml:14:13-37
+	android:foregroundServiceType
+		ADDED from [:location] /Users/abdiels/Documents/developer/Aguacate App/build/location/intermediates/library_manifest/release/AndroidManifest.xml:15:13-53
+	android:name
+		ADDED from [:location] /Users/abdiels/Documents/developer/Aguacate App/build/location/intermediates/library_manifest/release/AndroidManifest.xml:12:13-71
+queries
+ADDED from [com.stripe:payments-core:16.10.0] /Users/abdiels/.gradle/caches/transforms-2/files-2.1/6e33c061a82d65da1817d9853125a913/jetified-payments-core-16.10.0/AndroidManifest.xml:10:5-14:15
+MERGED from [com.google.android.gms:play-services-maps:18.0.2] /Users/abdiels/.gradle/caches/transforms-2/files-2.1/bc8930a934b2de461e4c0e56c10cdd3a/jetified-play-services-maps-18.0.2/AndroidManifest.xml:30:5-34:15
+MERGED from [com.google.android.gms:play-services-maps:18.0.2] /Users/abdiels/.gradle/caches/transforms-2/files-2.1/bc8930a934b2de461e4c0e56c10cdd3a/jetified-play-services-maps-18.0.2/AndroidManifest.xml:30:5-34:15
+package#com.android.chrome
+ADDED from [com.stripe:payments-core:16.10.0] /Users/abdiels/.gradle/caches/transforms-2/files-2.1/6e33c061a82d65da1817d9853125a913/jetified-payments-core-16.10.0/AndroidManifest.xml:13:9-54
+	android:name
+		ADDED from [com.stripe:payments-core:16.10.0] /Users/abdiels/.gradle/caches/transforms-2/files-2.1/6e33c061a82d65da1817d9853125a913/jetified-payments-core-16.10.0/AndroidManifest.xml:13:18-51
+activity#com.stripe.android.view.AddPaymentMethodActivity
+ADDED from [com.stripe:payments-core:16.10.0] /Users/abdiels/.gradle/caches/transforms-2/files-2.1/6e33c061a82d65da1817d9853125a913/jetified-payments-core-16.10.0/AndroidManifest.xml:17:9-19:57
+	android:theme
+		ADDED from [com.stripe:payments-core:16.10.0] /Users/abdiels/.gradle/caches/transforms-2/files-2.1/6e33c061a82d65da1817d9853125a913/jetified-payments-core-16.10.0/AndroidManifest.xml:19:13-54
+	android:name
+		ADDED from [com.stripe:payments-core:16.10.0] /Users/abdiels/.gradle/caches/transforms-2/files-2.1/6e33c061a82d65da1817d9853125a913/jetified-payments-core-16.10.0/AndroidManifest.xml:18:13-76
+activity#com.stripe.android.view.PaymentMethodsActivity
+ADDED from [com.stripe:payments-core:16.10.0] /Users/abdiels/.gradle/caches/transforms-2/files-2.1/6e33c061a82d65da1817d9853125a913/jetified-payments-core-16.10.0/AndroidManifest.xml:20:9-22:57
+	android:theme
+		ADDED from [com.stripe:payments-core:16.10.0] /Users/abdiels/.gradle/caches/transforms-2/files-2.1/6e33c061a82d65da1817d9853125a913/jetified-payments-core-16.10.0/AndroidManifest.xml:22:13-54
+	android:name
+		ADDED from [com.stripe:payments-core:16.10.0] /Users/abdiels/.gradle/caches/transforms-2/files-2.1/6e33c061a82d65da1817d9853125a913/jetified-payments-core-16.10.0/AndroidManifest.xml:21:13-74
+activity#com.stripe.android.view.PaymentFlowActivity
+ADDED from [com.stripe:payments-core:16.10.0] /Users/abdiels/.gradle/caches/transforms-2/files-2.1/6e33c061a82d65da1817d9853125a913/jetified-payments-core-16.10.0/AndroidManifest.xml:23:9-25:57
+	android:theme
+		ADDED from [com.stripe:payments-core:16.10.0] /Users/abdiels/.gradle/caches/transforms-2/files-2.1/6e33c061a82d65da1817d9853125a913/jetified-payments-core-16.10.0/AndroidManifest.xml:25:13-54
+	android:name
+		ADDED from [com.stripe:payments-core:16.10.0] /Users/abdiels/.gradle/caches/transforms-2/files-2.1/6e33c061a82d65da1817d9853125a913/jetified-payments-core-16.10.0/AndroidManifest.xml:24:13-71
+activity#com.stripe.android.view.PaymentAuthWebViewActivity
+ADDED from [com.stripe:payments-core:16.10.0] /Users/abdiels/.gradle/caches/transforms-2/files-2.1/6e33c061a82d65da1817d9853125a913/jetified-payments-core-16.10.0/AndroidManifest.xml:26:9-29:58
+	android:windowSoftInputMode
+		ADDED from [com.stripe:payments-core:16.10.0] /Users/abdiels/.gradle/caches/transforms-2/files-2.1/6e33c061a82d65da1817d9853125a913/jetified-payments-core-16.10.0/AndroidManifest.xml:29:13-55
+	android:theme
+		ADDED from [com.stripe:payments-core:16.10.0] /Users/abdiels/.gradle/caches/transforms-2/files-2.1/6e33c061a82d65da1817d9853125a913/jetified-payments-core-16.10.0/AndroidManifest.xml:28:13-54
+	android:name
+		ADDED from [com.stripe:payments-core:16.10.0] /Users/abdiels/.gradle/caches/transforms-2/files-2.1/6e33c061a82d65da1817d9853125a913/jetified-payments-core-16.10.0/AndroidManifest.xml:27:13-78
+activity#com.stripe.android.view.PaymentRelayActivity
+ADDED from [com.stripe:payments-core:16.10.0] /Users/abdiels/.gradle/caches/transforms-2/files-2.1/6e33c061a82d65da1817d9853125a913/jetified-payments-core-16.10.0/AndroidManifest.xml:30:9-32:61
+	android:theme
+		ADDED from [com.stripe:payments-core:16.10.0] /Users/abdiels/.gradle/caches/transforms-2/files-2.1/6e33c061a82d65da1817d9853125a913/jetified-payments-core-16.10.0/AndroidManifest.xml:32:13-58
+	android:name
+		ADDED from [com.stripe:payments-core:16.10.0] /Users/abdiels/.gradle/caches/transforms-2/files-2.1/6e33c061a82d65da1817d9853125a913/jetified-payments-core-16.10.0/AndroidManifest.xml:31:13-72
+activity#com.stripe.android.payments.StripeBrowserLauncherActivity
+ADDED from [com.stripe:payments-core:16.10.0] /Users/abdiels/.gradle/caches/transforms-2/files-2.1/6e33c061a82d65da1817d9853125a913/jetified-payments-core-16.10.0/AndroidManifest.xml:38:9-54:20
+	android:launchMode
+		ADDED from [com.stripe:payments-core:16.10.0] /Users/abdiels/.gradle/caches/transforms-2/files-2.1/6e33c061a82d65da1817d9853125a913/jetified-payments-core-16.10.0/AndroidManifest.xml:40:13-43
+	android:theme
+		ADDED from [com.stripe:payments-core:16.10.0] /Users/abdiels/.gradle/caches/transforms-2/files-2.1/6e33c061a82d65da1817d9853125a913/jetified-payments-core-16.10.0/AndroidManifest.xml:41:13-58
+	android:name
+		ADDED from [com.stripe:payments-core:16.10.0] /Users/abdiels/.gradle/caches/transforms-2/files-2.1/6e33c061a82d65da1817d9853125a913/jetified-payments-core-16.10.0/AndroidManifest.xml:39:13-85
+intent-filter#action:name:android.intent.action.VIEW+category:name:android.intent.category.BROWSABLE+category:name:android.intent.category.DEFAULT+data:host:payment_return_url+data:path:/${applicationId}+data:scheme:stripesdk
+ADDED from [com.stripe:payments-core:16.10.0] /Users/abdiels/.gradle/caches/transforms-2/files-2.1/6e33c061a82d65da1817d9853125a913/jetified-payments-core-16.10.0/AndroidManifest.xml:42:13-53:29
+intent-filter#action:name:android.intent.action.VIEW+category:name:android.intent.category.BROWSABLE+category:name:android.intent.category.DEFAULT+data:host:payment_return_url+data:path:/com.optic.flutter_delivery_udemy+data:scheme:stripesdk
+ADDED from [com.stripe:payments-core:16.10.0] /Users/abdiels/.gradle/caches/transforms-2/files-2.1/6e33c061a82d65da1817d9853125a913/jetified-payments-core-16.10.0/AndroidManifest.xml:42:13-53:29
+activity#com.stripe.android.view.Stripe3ds2CompletionActivity
+ADDED from [com.stripe:payments-core:16.10.0] /Users/abdiels/.gradle/caches/transforms-2/files-2.1/6e33c061a82d65da1817d9853125a913/jetified-payments-core-16.10.0/AndroidManifest.xml:55:9-57:57
+	android:theme
+		ADDED from [com.stripe:payments-core:16.10.0] /Users/abdiels/.gradle/caches/transforms-2/files-2.1/6e33c061a82d65da1817d9853125a913/jetified-payments-core-16.10.0/AndroidManifest.xml:57:13-54
+	android:name
+		ADDED from [com.stripe:payments-core:16.10.0] /Users/abdiels/.gradle/caches/transforms-2/files-2.1/6e33c061a82d65da1817d9853125a913/jetified-payments-core-16.10.0/AndroidManifest.xml:56:13-80
+activity#com.stripe.android.paymentsheet.PaymentSheetActivity
+ADDED from [com.stripe:payments-core:16.10.0] /Users/abdiels/.gradle/caches/transforms-2/files-2.1/6e33c061a82d65da1817d9853125a913/jetified-payments-core-16.10.0/AndroidManifest.xml:58:9-60:69
+	android:theme
+		ADDED from [com.stripe:payments-core:16.10.0] /Users/abdiels/.gradle/caches/transforms-2/files-2.1/6e33c061a82d65da1817d9853125a913/jetified-payments-core-16.10.0/AndroidManifest.xml:60:13-66
+	android:name
+		ADDED from [com.stripe:payments-core:16.10.0] /Users/abdiels/.gradle/caches/transforms-2/files-2.1/6e33c061a82d65da1817d9853125a913/jetified-payments-core-16.10.0/AndroidManifest.xml:59:13-80
+activity#com.stripe.android.paymentsheet.PaymentOptionsActivity
+ADDED from [com.stripe:payments-core:16.10.0] /Users/abdiels/.gradle/caches/transforms-2/files-2.1/6e33c061a82d65da1817d9853125a913/jetified-payments-core-16.10.0/AndroidManifest.xml:61:9-63:69
+	android:theme
+		ADDED from [com.stripe:payments-core:16.10.0] /Users/abdiels/.gradle/caches/transforms-2/files-2.1/6e33c061a82d65da1817d9853125a913/jetified-payments-core-16.10.0/AndroidManifest.xml:63:13-66
+	android:name
+		ADDED from [com.stripe:payments-core:16.10.0] /Users/abdiels/.gradle/caches/transforms-2/files-2.1/6e33c061a82d65da1817d9853125a913/jetified-payments-core-16.10.0/AndroidManifest.xml:62:13-82
+activity#com.stripe.android.googlepay.StripeGooglePayActivity
+ADDED from [com.stripe:payments-core:16.10.0] /Users/abdiels/.gradle/caches/transforms-2/files-2.1/6e33c061a82d65da1817d9853125a913/jetified-payments-core-16.10.0/AndroidManifest.xml:64:9-66:66
+	android:theme
+		ADDED from [com.stripe:payments-core:16.10.0] /Users/abdiels/.gradle/caches/transforms-2/files-2.1/6e33c061a82d65da1817d9853125a913/jetified-payments-core-16.10.0/AndroidManifest.xml:66:13-63
+	android:name
+		ADDED from [com.stripe:payments-core:16.10.0] /Users/abdiels/.gradle/caches/transforms-2/files-2.1/6e33c061a82d65da1817d9853125a913/jetified-payments-core-16.10.0/AndroidManifest.xml:65:13-80
+activity#com.stripe.android.stripe3ds2.views.ChallengeActivity
+ADDED from [com.stripe:stripe-3ds2-android:5.3.1] /Users/abdiels/.gradle/caches/transforms-2/files-2.1/e064d61cb58a534ae7ff47685c569da3/jetified-stripe-3ds2-android-5.3.1/AndroidManifest.xml:10:9-12:54
+	android:theme
+		ADDED from [com.stripe:stripe-3ds2-android:5.3.1] /Users/abdiels/.gradle/caches/transforms-2/files-2.1/e064d61cb58a534ae7ff47685c569da3/jetified-stripe-3ds2-android-5.3.1/AndroidManifest.xml:12:13-51
+	android:name
+		ADDED from [com.stripe:stripe-3ds2-android:5.3.1] /Users/abdiels/.gradle/caches/transforms-2/files-2.1/e064d61cb58a534ae7ff47685c569da3/jetified-stripe-3ds2-android-5.3.1/AndroidManifest.xml:11:13-81
+activity#com.stripe.android.stripe3ds2.views.ChallengeProgressActivity
+ADDED from [com.stripe:stripe-3ds2-android:5.3.1] /Users/abdiels/.gradle/caches/transforms-2/files-2.1/e064d61cb58a534ae7ff47685c569da3/jetified-stripe-3ds2-android-5.3.1/AndroidManifest.xml:13:9-15:54
+	android:theme
+		ADDED from [com.stripe:stripe-3ds2-android:5.3.1] /Users/abdiels/.gradle/caches/transforms-2/files-2.1/e064d61cb58a534ae7ff47685c569da3/jetified-stripe-3ds2-android-5.3.1/AndroidManifest.xml:15:13-51
+	android:name
+		ADDED from [com.stripe:stripe-3ds2-android:5.3.1] /Users/abdiels/.gradle/caches/transforms-2/files-2.1/e064d61cb58a534ae7ff47685c569da3/jetified-stripe-3ds2-android-5.3.1/AndroidManifest.xml:14:13-89
+uses-library#androidx.window.extensions
+ADDED from [androidx.window:window:1.0.0-beta04] /Users/abdiels/.gradle/caches/transforms-2/files-2.1/5da4d6c0c4aaffc06d9f4d4ebdf129c2/jetified-window-1.0.0-beta04/AndroidManifest.xml:25:9-27:40
+	android:required
+		ADDED from [androidx.window:window:1.0.0-beta04] /Users/abdiels/.gradle/caches/transforms-2/files-2.1/5da4d6c0c4aaffc06d9f4d4ebdf129c2/jetified-window-1.0.0-beta04/AndroidManifest.xml:27:13-37
+	android:name
+		ADDED from [androidx.window:window:1.0.0-beta04] /Users/abdiels/.gradle/caches/transforms-2/files-2.1/5da4d6c0c4aaffc06d9f4d4ebdf129c2/jetified-window-1.0.0-beta04/AndroidManifest.xml:26:13-54
+uses-library#androidx.window.sidecar
+ADDED from [androidx.window:window:1.0.0-beta04] /Users/abdiels/.gradle/caches/transforms-2/files-2.1/5da4d6c0c4aaffc06d9f4d4ebdf129c2/jetified-window-1.0.0-beta04/AndroidManifest.xml:28:9-30:40
+	android:required
+		ADDED from [androidx.window:window:1.0.0-beta04] /Users/abdiels/.gradle/caches/transforms-2/files-2.1/5da4d6c0c4aaffc06d9f4d4ebdf129c2/jetified-window-1.0.0-beta04/AndroidManifest.xml:30:13-37
+	android:name
+		ADDED from [androidx.window:window:1.0.0-beta04] /Users/abdiels/.gradle/caches/transforms-2/files-2.1/5da4d6c0c4aaffc06d9f4d4ebdf129c2/jetified-window-1.0.0-beta04/AndroidManifest.xml:29:13-51
+uses-permission#android.permission.POST_NOTIFICATIONS
+ADDED from [com.google.firebase:firebase-messaging:23.0.7] /Users/abdiels/.gradle/caches/transforms-2/files-2.1/b763de6615e343422a620914593f1c0f/jetified-firebase-messaging-23.0.7/AndroidManifest.xml:26:5-77
+	android:name
+		ADDED from [com.google.firebase:firebase-messaging:23.0.7] /Users/abdiels/.gradle/caches/transforms-2/files-2.1/b763de6615e343422a620914593f1c0f/jetified-firebase-messaging-23.0.7/AndroidManifest.xml:26:22-74
+uses-permission#com.google.android.c2dm.permission.RECEIVE
+ADDED from [com.google.firebase:firebase-messaging:23.0.7] /Users/abdiels/.gradle/caches/transforms-2/files-2.1/b763de6615e343422a620914593f1c0f/jetified-firebase-messaging-23.0.7/AndroidManifest.xml:29:5-82
+MERGED from [com.google.android.gms:play-services-cloud-messaging:17.0.1] /Users/abdiels/.gradle/caches/transforms-2/files-2.1/cfe4d1a4a8d843e0c11f9d752c631f43/jetified-play-services-cloud-messaging-17.0.1/AndroidManifest.xml:11:5-82
+MERGED from [com.google.android.gms:play-services-cloud-messaging:17.0.1] /Users/abdiels/.gradle/caches/transforms-2/files-2.1/cfe4d1a4a8d843e0c11f9d752c631f43/jetified-play-services-cloud-messaging-17.0.1/AndroidManifest.xml:11:5-82
+	android:name
+		ADDED from [com.google.firebase:firebase-messaging:23.0.7] /Users/abdiels/.gradle/caches/transforms-2/files-2.1/b763de6615e343422a620914593f1c0f/jetified-firebase-messaging-23.0.7/AndroidManifest.xml:29:22-79
+receiver#com.google.firebase.iid.FirebaseInstanceIdReceiver
+ADDED from [com.google.firebase:firebase-messaging:23.0.7] /Users/abdiels/.gradle/caches/transforms-2/files-2.1/b763de6615e343422a620914593f1c0f/jetified-firebase-messaging-23.0.7/AndroidManifest.xml:32:9-39:20
+	android:exported
+		ADDED from [com.google.firebase:firebase-messaging:23.0.7] /Users/abdiels/.gradle/caches/transforms-2/files-2.1/b763de6615e343422a620914593f1c0f/jetified-firebase-messaging-23.0.7/AndroidManifest.xml:34:13-36
+	android:permission
+		ADDED from [com.google.firebase:firebase-messaging:23.0.7] /Users/abdiels/.gradle/caches/transforms-2/files-2.1/b763de6615e343422a620914593f1c0f/jetified-firebase-messaging-23.0.7/AndroidManifest.xml:35:13-73
+	android:name
+		ADDED from [com.google.firebase:firebase-messaging:23.0.7] /Users/abdiels/.gradle/caches/transforms-2/files-2.1/b763de6615e343422a620914593f1c0f/jetified-firebase-messaging-23.0.7/AndroidManifest.xml:33:13-78
+service#com.google.firebase.messaging.FirebaseMessagingService
+ADDED from [com.google.firebase:firebase-messaging:23.0.7] /Users/abdiels/.gradle/caches/transforms-2/files-2.1/b763de6615e343422a620914593f1c0f/jetified-firebase-messaging-23.0.7/AndroidManifest.xml:45:9-52:19
+	android:exported
+		ADDED from [com.google.firebase:firebase-messaging:23.0.7] /Users/abdiels/.gradle/caches/transforms-2/files-2.1/b763de6615e343422a620914593f1c0f/jetified-firebase-messaging-23.0.7/AndroidManifest.xml:48:13-37
+	android:directBootAware
+		ADDED from [com.google.firebase:firebase-messaging:23.0.7] /Users/abdiels/.gradle/caches/transforms-2/files-2.1/b763de6615e343422a620914593f1c0f/jetified-firebase-messaging-23.0.7/AndroidManifest.xml:47:13-43
+	android:name
+		ADDED from [com.google.firebase:firebase-messaging:23.0.7] /Users/abdiels/.gradle/caches/transforms-2/files-2.1/b763de6615e343422a620914593f1c0f/jetified-firebase-messaging-23.0.7/AndroidManifest.xml:46:13-82
+meta-data#com.google.firebase.components:com.google.firebase.messaging.FirebaseMessagingRegistrar
+ADDED from [com.google.firebase:firebase-messaging:23.0.7] /Users/abdiels/.gradle/caches/transforms-2/files-2.1/b763de6615e343422a620914593f1c0f/jetified-firebase-messaging-23.0.7/AndroidManifest.xml:56:13-58:85
+	android:value
+		ADDED from [com.google.firebase:firebase-messaging:23.0.7] /Users/abdiels/.gradle/caches/transforms-2/files-2.1/b763de6615e343422a620914593f1c0f/jetified-firebase-messaging-23.0.7/AndroidManifest.xml:58:17-82
+	android:name
+		ADDED from [com.google.firebase:firebase-messaging:23.0.7] /Users/abdiels/.gradle/caches/transforms-2/files-2.1/b763de6615e343422a620914593f1c0f/jetified-firebase-messaging-23.0.7/AndroidManifest.xml:57:17-119
+meta-data#com.google.firebase.components:com.google.firebase.datatransport.TransportRegistrar
+ADDED from [com.google.firebase:firebase-datatransport:18.1.5] /Users/abdiels/.gradle/caches/transforms-2/files-2.1/134388aeda336d7f2b8661271d167b24/jetified-firebase-datatransport-18.1.5/AndroidManifest.xml:28:13-30:85
+	android:value
+		ADDED from [com.google.firebase:firebase-datatransport:18.1.5] /Users/abdiels/.gradle/caches/transforms-2/files-2.1/134388aeda336d7f2b8661271d167b24/jetified-firebase-datatransport-18.1.5/AndroidManifest.xml:30:17-82
+	android:name
+		ADDED from [com.google.firebase:firebase-datatransport:18.1.5] /Users/abdiels/.gradle/caches/transforms-2/files-2.1/134388aeda336d7f2b8661271d167b24/jetified-firebase-datatransport-18.1.5/AndroidManifest.xml:29:17-115
+meta-data#com.google.firebase.components:com.google.firebase.installations.FirebaseInstallationsRegistrar
+ADDED from [com.google.firebase:firebase-installations:17.0.1] /Users/abdiels/.gradle/caches/transforms-2/files-2.1/5127b1b9abef3f63b510b6c3568c5243/jetified-firebase-installations-17.0.1/AndroidManifest.xml:18:13-20:85
+	android:value
+		ADDED from [com.google.firebase:firebase-installations:17.0.1] /Users/abdiels/.gradle/caches/transforms-2/files-2.1/5127b1b9abef3f63b510b6c3568c5243/jetified-firebase-installations-17.0.1/AndroidManifest.xml:20:17-82
+	android:name
+		ADDED from [com.google.firebase:firebase-installations:17.0.1] /Users/abdiels/.gradle/caches/transforms-2/files-2.1/5127b1b9abef3f63b510b6c3568c5243/jetified-firebase-installations-17.0.1/AndroidManifest.xml:19:17-127
+provider#com.google.firebase.provider.FirebaseInitProvider
+ADDED from [com.google.firebase:firebase-common:20.1.1] /Users/abdiels/.gradle/caches/transforms-2/files-2.1/f171c4c18d4a919f6a39a92d6e98e425/jetified-firebase-common-20.1.1/AndroidManifest.xml:26:9-31:39
+	android:authorities
+		ADDED from [com.google.firebase:firebase-common:20.1.1] /Users/abdiels/.gradle/caches/transforms-2/files-2.1/f171c4c18d4a919f6a39a92d6e98e425/jetified-firebase-common-20.1.1/AndroidManifest.xml:28:13-72
+	android:exported
+		ADDED from [com.google.firebase:firebase-common:20.1.1] /Users/abdiels/.gradle/caches/transforms-2/files-2.1/f171c4c18d4a919f6a39a92d6e98e425/jetified-firebase-common-20.1.1/AndroidManifest.xml:30:13-37
+	android:directBootAware
+		ADDED from [com.google.firebase:firebase-common:20.1.1] /Users/abdiels/.gradle/caches/transforms-2/files-2.1/f171c4c18d4a919f6a39a92d6e98e425/jetified-firebase-common-20.1.1/AndroidManifest.xml:29:13-43
+	android:initOrder
+		ADDED from [com.google.firebase:firebase-common:20.1.1] /Users/abdiels/.gradle/caches/transforms-2/files-2.1/f171c4c18d4a919f6a39a92d6e98e425/jetified-firebase-common-20.1.1/AndroidManifest.xml:31:13-36
+	android:name
+		ADDED from [com.google.firebase:firebase-common:20.1.1] /Users/abdiels/.gradle/caches/transforms-2/files-2.1/f171c4c18d4a919f6a39a92d6e98e425/jetified-firebase-common-20.1.1/AndroidManifest.xml:27:13-77
+uses-feature#0x00020000
+ADDED from [com.google.android.gms:play-services-maps:18.0.2] /Users/abdiels/.gradle/caches/transforms-2/files-2.1/bc8930a934b2de461e4c0e56c10cdd3a/jetified-play-services-maps-18.0.2/AndroidManifest.xml:26:5-28:35
+	android:glEsVersion
+		ADDED from [com.google.android.gms:play-services-maps:18.0.2] /Users/abdiels/.gradle/caches/transforms-2/files-2.1/bc8930a934b2de461e4c0e56c10cdd3a/jetified-play-services-maps-18.0.2/AndroidManifest.xml:27:9-41
+	android:required
+		ADDED from [com.google.android.gms:play-services-maps:18.0.2] /Users/abdiels/.gradle/caches/transforms-2/files-2.1/bc8930a934b2de461e4c0e56c10cdd3a/jetified-play-services-maps-18.0.2/AndroidManifest.xml:28:9-32
+package#com.google.android.apps.maps
+ADDED from [com.google.android.gms:play-services-maps:18.0.2] /Users/abdiels/.gradle/caches/transforms-2/files-2.1/bc8930a934b2de461e4c0e56c10cdd3a/jetified-play-services-maps-18.0.2/AndroidManifest.xml:33:9-64
+	android:name
+		ADDED from [com.google.android.gms:play-services-maps:18.0.2] /Users/abdiels/.gradle/caches/transforms-2/files-2.1/bc8930a934b2de461e4c0e56c10cdd3a/jetified-play-services-maps-18.0.2/AndroidManifest.xml:33:18-61
+uses-library#org.apache.http.legacy
+ADDED from [com.google.android.gms:play-services-maps:18.0.2] /Users/abdiels/.gradle/caches/transforms-2/files-2.1/bc8930a934b2de461e4c0e56c10cdd3a/jetified-play-services-maps-18.0.2/AndroidManifest.xml:39:9-41:40
+	android:required
+		ADDED from [com.google.android.gms:play-services-maps:18.0.2] /Users/abdiels/.gradle/caches/transforms-2/files-2.1/bc8930a934b2de461e4c0e56c10cdd3a/jetified-play-services-maps-18.0.2/AndroidManifest.xml:41:13-37
+	android:name
+		ADDED from [com.google.android.gms:play-services-maps:18.0.2] /Users/abdiels/.gradle/caches/transforms-2/files-2.1/bc8930a934b2de461e4c0e56c10cdd3a/jetified-play-services-maps-18.0.2/AndroidManifest.xml:40:13-50
+activity#com.google.android.gms.common.api.GoogleApiActivity
+ADDED from [com.google.android.gms:play-services-base:18.0.1] /Users/abdiels/.gradle/caches/transforms-2/files-2.1/dd0ef7faf8da662de596beb3e18a0111/jetified-play-services-base-18.0.1/AndroidManifest.xml:20:9-22:45
+	android:exported
+		ADDED from [com.google.android.gms:play-services-base:18.0.1] /Users/abdiels/.gradle/caches/transforms-2/files-2.1/dd0ef7faf8da662de596beb3e18a0111/jetified-play-services-base-18.0.1/AndroidManifest.xml:22:19-43
+	android:theme
+		ADDED from [com.google.android.gms:play-services-base:18.0.1] /Users/abdiels/.gradle/caches/transforms-2/files-2.1/dd0ef7faf8da662de596beb3e18a0111/jetified-play-services-base-18.0.1/AndroidManifest.xml:21:19-78
+	android:name
+		ADDED from [com.google.android.gms:play-services-base:18.0.1] /Users/abdiels/.gradle/caches/transforms-2/files-2.1/dd0ef7faf8da662de596beb3e18a0111/jetified-play-services-base-18.0.1/AndroidManifest.xml:20:19-85
+meta-data#com.google.android.gms.version
+ADDED from [com.google.android.gms:play-services-basement:18.0.0] /Users/abdiels/.gradle/caches/transforms-2/files-2.1/13ba28d771ad8c1e3aea7533331bc41c/jetified-play-services-basement-18.0.0/AndroidManifest.xml:21:9-23:69
+	android:value
+		ADDED from [com.google.android.gms:play-services-basement:18.0.0] /Users/abdiels/.gradle/caches/transforms-2/files-2.1/13ba28d771ad8c1e3aea7533331bc41c/jetified-play-services-basement-18.0.0/AndroidManifest.xml:23:13-66
+	android:name
+		ADDED from [com.google.android.gms:play-services-basement:18.0.0] /Users/abdiels/.gradle/caches/transforms-2/files-2.1/13ba28d771ad8c1e3aea7533331bc41c/jetified-play-services-basement-18.0.0/AndroidManifest.xml:22:13-58
+service#com.google.android.datatransport.runtime.backends.TransportBackendDiscovery
+ADDED from [com.google.android.datatransport:transport-backend-cct:3.1.6] /Users/abdiels/.gradle/caches/transforms-2/files-2.1/e0ef78e8cbe081df0d61f0af6b0e141d/jetified-transport-backend-cct-3.1.6/AndroidManifest.xml:29:9-35:19
+MERGED from [com.google.android.datatransport:transport-runtime:3.1.6] /Users/abdiels/.gradle/caches/transforms-2/files-2.1/14396e62ae5babdab0f25dd5ec4da7e5/jetified-transport-runtime-3.1.6/AndroidManifest.xml:36:9-38:40
+MERGED from [com.google.android.datatransport:transport-runtime:3.1.6] /Users/abdiels/.gradle/caches/transforms-2/files-2.1/14396e62ae5babdab0f25dd5ec4da7e5/jetified-transport-runtime-3.1.6/AndroidManifest.xml:36:9-38:40
+	android:exported
+		ADDED from [com.google.android.datatransport:transport-backend-cct:3.1.6] /Users/abdiels/.gradle/caches/transforms-2/files-2.1/e0ef78e8cbe081df0d61f0af6b0e141d/jetified-transport-backend-cct-3.1.6/AndroidManifest.xml:31:13-37
+	android:name
+		ADDED from [com.google.android.datatransport:transport-backend-cct:3.1.6] /Users/abdiels/.gradle/caches/transforms-2/files-2.1/e0ef78e8cbe081df0d61f0af6b0e141d/jetified-transport-backend-cct-3.1.6/AndroidManifest.xml:30:13-103
+meta-data#backend:com.google.android.datatransport.cct.CctBackendFactory
+ADDED from [com.google.android.datatransport:transport-backend-cct:3.1.6] /Users/abdiels/.gradle/caches/transforms-2/files-2.1/e0ef78e8cbe081df0d61f0af6b0e141d/jetified-transport-backend-cct-3.1.6/AndroidManifest.xml:32:13-34:39
+	android:value
+		ADDED from [com.google.android.datatransport:transport-backend-cct:3.1.6] /Users/abdiels/.gradle/caches/transforms-2/files-2.1/e0ef78e8cbe081df0d61f0af6b0e141d/jetified-transport-backend-cct-3.1.6/AndroidManifest.xml:34:17-36
+	android:name
+		ADDED from [com.google.android.datatransport:transport-backend-cct:3.1.6] /Users/abdiels/.gradle/caches/transforms-2/files-2.1/e0ef78e8cbe081df0d61f0af6b0e141d/jetified-transport-backend-cct-3.1.6/AndroidManifest.xml:33:17-94
+service#com.google.android.datatransport.runtime.scheduling.jobscheduling.JobInfoSchedulerService
+ADDED from [com.google.android.datatransport:transport-runtime:3.1.6] /Users/abdiels/.gradle/caches/transforms-2/files-2.1/14396e62ae5babdab0f25dd5ec4da7e5/jetified-transport-runtime-3.1.6/AndroidManifest.xml:26:9-30:19
+	android:exported
+		ADDED from [com.google.android.datatransport:transport-runtime:3.1.6] /Users/abdiels/.gradle/caches/transforms-2/files-2.1/14396e62ae5babdab0f25dd5ec4da7e5/jetified-transport-runtime-3.1.6/AndroidManifest.xml:28:13-37
+	android:permission
+		ADDED from [com.google.android.datatransport:transport-runtime:3.1.6] /Users/abdiels/.gradle/caches/transforms-2/files-2.1/14396e62ae5babdab0f25dd5ec4da7e5/jetified-transport-runtime-3.1.6/AndroidManifest.xml:29:13-69
+	android:name
+		ADDED from [com.google.android.datatransport:transport-runtime:3.1.6] /Users/abdiels/.gradle/caches/transforms-2/files-2.1/14396e62ae5babdab0f25dd5ec4da7e5/jetified-transport-runtime-3.1.6/AndroidManifest.xml:27:13-117
+receiver#com.google.android.datatransport.runtime.scheduling.jobscheduling.AlarmManagerSchedulerBroadcastReceiver
+ADDED from [com.google.android.datatransport:transport-runtime:3.1.6] /Users/abdiels/.gradle/caches/transforms-2/files-2.1/14396e62ae5babdab0f25dd5ec4da7e5/jetified-transport-runtime-3.1.6/AndroidManifest.xml:32:9-34:40
+	android:exported
+		ADDED from [com.google.android.datatransport:transport-runtime:3.1.6] /Users/abdiels/.gradle/caches/transforms-2/files-2.1/14396e62ae5babdab0f25dd5ec4da7e5/jetified-transport-runtime-3.1.6/AndroidManifest.xml:34:13-37
+	android:name
+		ADDED from [com.google.android.datatransport:transport-runtime:3.1.6] /Users/abdiels/.gradle/caches/transforms-2/files-2.1/14396e62ae5babdab0f25dd5ec4da7e5/jetified-transport-runtime-3.1.6/AndroidManifest.xml:33:13-132

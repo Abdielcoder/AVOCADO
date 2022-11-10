@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "/Users/abdiels/Documents/developer/Aguacate App/build/firebase_messaging/intermediates/res/merged/release/color/common_google_signin_btn_text_light.xml",
+        "source": "/Users/abdiels/.gradle/caches/transforms-2/files-2.1/dd0ef7faf8da662de596beb3e18a0111/jetified-play-services-base-18.0.1/res/color/common_google_signin_btn_text_light.xml"
+    },
+    {
+        "merged": "/Users/abdiels/Documents/developer/Aguacate App/build/firebase_messaging/intermediates/res/merged/release/color/common_google_signin_btn_tint.xml",
+        "source": "/Users/abdiels/.gradle/caches/transforms-2/files-2.1/dd0ef7faf8da662de596beb3e18a0111/jetified-play-services-base-18.0.1/res/color/common_google_signin_btn_tint.xml"
+    },
+    {
+        "merged": "/Users/abdiels/Documents/developer/Aguacate App/build/firebase_messaging/intermediates/res/merged/release/color/common_google_signin_btn_text_dark.xml",
+        "source": "/Users/abdiels/.gradle/caches/transforms-2/files-2.1/dd0ef7faf8da662de596beb3e18a0111/jetified-play-services-base-18.0.1/res/color/common_google_signin_btn_text_dark.xml"
+    }
+]

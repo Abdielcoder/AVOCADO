@@ -26,12 +26,13 @@ class _ClientProductsListPageState extends State<ClientProductsListPage> {
       _con.init(context, refresh);
     });
   }
-
+  String item = '';
   @override
   Widget build(BuildContext context) {
     return DefaultTabController(
       length: _con.categories?.length,
       child: Scaffold(
+        
         key: _con.key,
         appBar: PreferredSize(
           preferredSize: Size.fromHeight(170),
@@ -40,10 +41,12 @@ class _ClientProductsListPageState extends State<ClientProductsListPage> {
             backgroundColor: Colors.white,
             actions: [
               _shoppingBag()
+
             ],
+
             flexibleSpace: Column(
               children: [
-                SizedBox(height: 40),
+                SizedBox(height: 60),
                 _menuDrawer(),
                 SizedBox(height: 20),
                 _textFieldSearch()
@@ -55,7 +58,9 @@ class _ClientProductsListPageState extends State<ClientProductsListPage> {
               unselectedLabelColor: Colors.grey[400],
               isScrollable: true,
               tabs: List<Widget>.generate(_con.categories.length, (index) {
+
                 return Tab(
+
                   child: Text(_con.categories[index].name ?? ''),
                 );
               }),
@@ -63,38 +68,51 @@ class _ClientProductsListPageState extends State<ClientProductsListPage> {
           ),
         ),
         drawer: _drawer(),
-        body: TabBarView(
-          children: _con.categories.map((Category category) {
-            return FutureBuilder(
-                future:_con.getProducts(category.id, _con.productName),
-                builder: (context, AsyncSnapshot<List<Product>> snapshot) {
+        body: Stack(
+          children: <Widget>[
+        Image.asset(
+        "assets/img/avocadow.jpeg",
+          height: MediaQuery.of(context).size.height,
+          width: MediaQuery.of(context).size.width,
+          fit: BoxFit.cover,
+          opacity: const AlwaysStoppedAnimation(.3),
+        ),
 
-                  if (snapshot.hasData) {
+          TabBarView(
+            children: _con.categories.map((Category category) {
+              return FutureBuilder(
+                  future:_con.getProducts(category.id, _con.productName),
+                  builder: (context, AsyncSnapshot<List<Product>> snapshot) {
 
-                    if (snapshot.data.length > 0) {
-                      return GridView.builder(
-                          padding: EdgeInsets.symmetric(horizontal: 10, vertical: 20),
-                          gridDelegate: SliverGridDelegateWithFixedCrossAxisCount(
-                              crossAxisCount: 2,
-                              childAspectRatio: 0.7
-                          ),
-                          itemCount: snapshot.data?.length ?? 0,
-                          itemBuilder: (_, index) {
-                            return _cardProduct(snapshot.data[index]);
-                          }
-                      );
+                    if (snapshot.hasData) {
+
+                      if (snapshot.data.length > 0) {
+                        return GridView.builder(
+                            padding: EdgeInsets.symmetric(horizontal: 10, vertical: 20),
+                            gridDelegate: SliverGridDelegateWithFixedCrossAxisCount(
+                                crossAxisCount: 2,
+                                childAspectRatio: 0.7
+                            ),
+                            itemCount: snapshot.data?.length ?? 0,
+                            itemBuilder: (_, index) {
+
+
+                              return _cardProduct(snapshot.data[index]);
+                            }
+                        );
+                      }
+                      else {
+                        return NoDataWidget(text: 'No hay productos');
+                      }
                     }
                     else {
                       return NoDataWidget(text: 'No hay productos');
                     }
                   }
-                  else {
-                    return NoDataWidget(text: 'No hay productos');
-                  }
-                }
-            );
-          }).toList(),
-        ),
+              );
+            }).toList(),
+          ),
+        ]),
       ),
     );
   }
@@ -105,8 +123,10 @@ class _ClientProductsListPageState extends State<ClientProductsListPage> {
         _con.openBottomSheet(product);
       },
       child: Container(
-        height: 250,
+        height: 100,
+
         child: Card(
+          color: Colors.black,
           elevation: 3.0,
           shape: RoundedRectangleBorder(
             borderRadius: BorderRadius.circular(15)
@@ -117,7 +137,7 @@ class _ClientProductsListPageState extends State<ClientProductsListPage> {
                   top: -1.0,
                   right: -1.0,
                   child: Container(
-                    width: 40,
+                    width: 100,
                     height: 40,
                     decoration: BoxDecoration(
                       color: MyColors.primaryColor,
@@ -133,11 +153,12 @@ class _ClientProductsListPageState extends State<ClientProductsListPage> {
                 crossAxisAlignment: CrossAxisAlignment.start,
                 children: [
                   Container(
-                    height: 150,
-                    margin: EdgeInsets.only(top: 20),
-                    width: MediaQuery.of(context).size.width * 0.45,
-                    padding: EdgeInsets.all(20),
+                    height: 170,
+                    margin: EdgeInsets.only(top: 60),
+                    width: MediaQuery.of(context).size.width * 9.85,
+                    padding: EdgeInsets.all(0),
                     child: FadeInImage(
+                      width: MediaQuery.of(context).size.width * 15.85,
                       image: product.image1 != null
                           ? NetworkImage(product.image1)
                           : AssetImage('assets/img/pizza2.png'),
@@ -146,28 +167,38 @@ class _ClientProductsListPageState extends State<ClientProductsListPage> {
                       placeholder: AssetImage('assets/img/no-image.png'),
                     ),
                   ),
-                  Container(
-                    margin: EdgeInsets.symmetric(horizontal: 20),
-                    height: 33,
-                    child: Text(
-                      product.name ?? '',
-                      maxLines: 2,
-                      overflow: TextOverflow.ellipsis,
-                      style: TextStyle(
-                        fontSize: 15,
-                        fontFamily: 'NimbusSans'
+                  Align(
+                    alignment: Alignment.center,
+                    child: Container(
+                      margin: EdgeInsets.symmetric(horizontal: 20,vertical: 20),
+                      height: 33,
+
+                      child: Text(
+                        product.name ?? '',
+                        maxLines: 2,
+                        overflow: TextOverflow.ellipsis,
+                        style: TextStyle(
+                          fontSize: 26,
+                            fontWeight: FontWeight.bold,
+                          color: Colors.green,
+                          fontFamily: 'Shadow'
+                        ),
                       ),
                     ),
                   ),
-                  Spacer(),
-                  Container(
-                    margin: EdgeInsets.symmetric(horizontal: 20, vertical: 12),
-                    child: Text(
-                      '${product.price ?? 0}\$',
-                      style: TextStyle(
-                        fontSize: 15,
-                        fontWeight: FontWeight.bold,
-                        fontFamily: 'NimbusSans'
+                  /*Spacer(),*/
+                  Align(
+                    alignment: Alignment.centerRight,
+                    child: Container(
+                      margin: EdgeInsets.symmetric(horizontal: 20, vertical: 12),
+                      child: Text(
+                        '${product.price ?? 0}\$',
+                        style: TextStyle(
+                          fontSize: 22,
+                          fontWeight: FontWeight.bold,
+                          color: Colors.white,
+                          fontFamily: 'NimbusSans'
+                        ),
                       ),
                     ),
                   )
@@ -186,11 +217,12 @@ class _ClientProductsListPageState extends State<ClientProductsListPage> {
       child: Stack(
         children: [
           Container(
-            margin: EdgeInsets.only(right: 15, top: 13),
-            child: Icon(
-              Icons.shopping_bag_outlined,
-              color: Colors.black,
-            ),
+            width: 40,
+            height: 40,
+            margin: EdgeInsets.only(right: 15, top: 13,bottom: 1),
+            child:  CircleAvatar(
+              backgroundImage: AssetImage('assets/img/bag.jpeg'),
+            )
           ),
           Positioned(
             right: 16,

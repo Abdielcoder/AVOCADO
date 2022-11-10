@@ -1,0 +1,662 @@
+[
+    {
+        "merged": "/Users/abdiels/Documents/developer/Aguacate App/build/stripe_payment/intermediates/res/merged/release/layout/stripe_challenge_activity.xml",
+        "source": "/Users/abdiels/.gradle/caches/transforms-2/files-2.1/e064d61cb58a534ae7ff47685c569da3/jetified-stripe-3ds2-android-5.3.1/res/layout/stripe_challenge_activity.xml"
+    },
+    {
+        "merged": "/Users/abdiels/Documents/developer/Aguacate App/build/stripe_payment/intermediates/res/merged/release/layout/text_view_with_theme_line_height.xml",
+        "source": "/Users/abdiels/.gradle/caches/transforms-2/files-2.1/4a6c9748f5247bec5f5766c4aa713ecb/material-1.3.0/res/layout/text_view_with_theme_line_height.xml"
+    },
+    {
+        "merged": "/Users/abdiels/Documents/developer/Aguacate App/build/stripe_payment/intermediates/res/merged/release/layout/material_timepicker_dialog.xml",
+        "source": "/Users/abdiels/.gradle/caches/transforms-2/files-2.1/4a6c9748f5247bec5f5766c4aa713ecb/material-1.3.0/res/layout/material_timepicker_dialog.xml"
+    },
+    {
+        "merged": "/Users/abdiels/Documents/developer/Aguacate App/build/stripe_payment/intermediates/res/merged/release/layout/abc_screen_simple_overlay_action_mode.xml",
+        "source": "/Users/abdiels/.gradle/caches/transforms-2/files-2.1/0bbf2ad6bf95c03ce412102d285e808e/appcompat-1.3.0/res/layout/abc_screen_simple_overlay_action_mode.xml"
+    },
+    {
+        "merged": "/Users/abdiels/Documents/developer/Aguacate App/build/stripe_payment/intermediates/res/merged/release/layout/test_toolbar_custom_background.xml",
+        "source": "/Users/abdiels/.gradle/caches/transforms-2/files-2.1/4a6c9748f5247bec5f5766c4aa713ecb/material-1.3.0/res/layout/test_toolbar_custom_background.xml"
+    },
+    {
+        "merged": "/Users/abdiels/Documents/developer/Aguacate App/build/stripe_payment/intermediates/res/merged/release/layout/google_pay_row.xml",
+        "source": "/Users/abdiels/.gradle/caches/transforms-2/files-2.1/6e33c061a82d65da1817d9853125a913/jetified-payments-core-16.10.0/res/layout/google_pay_row.xml"
+    },
+    {
+        "merged": "/Users/abdiels/Documents/developer/Aguacate App/build/stripe_payment/intermediates/res/merged/release/layout/becs_debit_widget.xml",
+        "source": "/Users/abdiels/.gradle/caches/transforms-2/files-2.1/6e33c061a82d65da1817d9853125a913/jetified-payments-core-16.10.0/res/layout/becs_debit_widget.xml"
+    },
+    {
+        "merged": "/Users/abdiels/Documents/developer/Aguacate App/build/stripe_payment/intermediates/res/merged/release/layout/card_brand_spinner_main.xml",
+        "source": "/Users/abdiels/.gradle/caches/transforms-2/files-2.1/6e33c061a82d65da1817d9853125a913/jetified-payments-core-16.10.0/res/layout/card_brand_spinner_main.xml"
+    },
+    {
+        "merged": "/Users/abdiels/Documents/developer/Aguacate App/build/stripe_payment/intermediates/res/merged/release/layout/text_view_with_line_height_from_layout.xml",
+        "source": "/Users/abdiels/.gradle/caches/transforms-2/files-2.1/4a6c9748f5247bec5f5766c4aa713ecb/material-1.3.0/res/layout/text_view_with_line_height_from_layout.xml"
+    },
+    {
+        "merged": "/Users/abdiels/Documents/developer/Aguacate App/build/stripe_payment/intermediates/res/merged/release/layout/mtrl_layout_snackbar_include.xml",
+        "source": "/Users/abdiels/.gradle/caches/transforms-2/files-2.1/4a6c9748f5247bec5f5766c4aa713ecb/material-1.3.0/res/layout/mtrl_layout_snackbar_include.xml"
+    },
+    {
+        "merged": "/Users/abdiels/Documents/developer/Aguacate App/build/stripe_payment/intermediates/res/merged/release/layout/shipping_method_widget.xml",
+        "source": "/Users/abdiels/.gradle/caches/transforms-2/files-2.1/6e33c061a82d65da1817d9853125a913/jetified-payments-core-16.10.0/res/layout/shipping_method_widget.xml"
+    },
+    {
+        "merged": "/Users/abdiels/Documents/developer/Aguacate App/build/stripe_payment/intermediates/res/merged/release/layout/abc_action_menu_item_layout.xml",
+        "source": "/Users/abdiels/.gradle/caches/transforms-2/files-2.1/0bbf2ad6bf95c03ce412102d285e808e/appcompat-1.3.0/res/layout/abc_action_menu_item_layout.xml"
+    },
+    {
+        "merged": "/Users/abdiels/Documents/developer/Aguacate App/build/stripe_payment/intermediates/res/merged/release/layout/abc_search_view.xml",
+        "source": "/Users/abdiels/.gradle/caches/transforms-2/files-2.1/0bbf2ad6bf95c03ce412102d285e808e/appcompat-1.3.0/res/layout/abc_search_view.xml"
+    },
+    {
+        "merged": "/Users/abdiels/Documents/developer/Aguacate App/build/stripe_payment/intermediates/res/merged/release/layout/abc_action_mode_bar.xml",
+        "source": "/Users/abdiels/.gradle/caches/transforms-2/files-2.1/0bbf2ad6bf95c03ce412102d285e808e/appcompat-1.3.0/res/layout/abc_action_mode_bar.xml"
+    },
+    {
+        "merged": "/Users/abdiels/Documents/developer/Aguacate App/build/stripe_payment/intermediates/res/merged/release/layout/mtrl_picker_actions.xml",
+        "source": "/Users/abdiels/.gradle/caches/transforms-2/files-2.1/4a6c9748f5247bec5f5766c4aa713ecb/material-1.3.0/res/layout/mtrl_picker_actions.xml"
+    },
+    {
+        "merged": "/Users/abdiels/Documents/developer/Aguacate App/build/stripe_payment/intermediates/res/merged/release/layout/design_navigation_item_subheader.xml",
+        "source": "/Users/abdiels/.gradle/caches/transforms-2/files-2.1/4a6c9748f5247bec5f5766c4aa713ecb/material-1.3.0/res/layout/design_navigation_item_subheader.xml"
+    },
+    {
+        "merged": "/Users/abdiels/Documents/developer/Aguacate App/build/stripe_payment/intermediates/res/merged/release/layout/browser_actions_context_menu_page.xml",
+        "source": "/Users/abdiels/.gradle/caches/transforms-2/files-2.1/836e796aa4de9258b85ac7ad0ccec200/browser-1.3.0/res/layout/browser_actions_context_menu_page.xml"
+    },
+    {
+        "merged": "/Users/abdiels/Documents/developer/Aguacate App/build/stripe_payment/intermediates/res/merged/release/layout/mtrl_alert_dialog_title.xml",
+        "source": "/Users/abdiels/.gradle/caches/transforms-2/files-2.1/4a6c9748f5247bec5f5766c4aa713ecb/material-1.3.0/res/layout/mtrl_alert_dialog_title.xml"
+    },
+    {
+        "merged": "/Users/abdiels/Documents/developer/Aguacate App/build/stripe_payment/intermediates/res/merged/release/layout/bank_item.xml",
+        "source": "/Users/abdiels/.gradle/caches/transforms-2/files-2.1/6e33c061a82d65da1817d9853125a913/jetified-payments-core-16.10.0/res/layout/bank_item.xml"
+    },
+    {
+        "merged": "/Users/abdiels/Documents/developer/Aguacate App/build/stripe_payment/intermediates/res/merged/release/layout/stripe_horizontal_divider.xml",
+        "source": "/Users/abdiels/.gradle/caches/transforms-2/files-2.1/6e33c061a82d65da1817d9853125a913/jetified-payments-core-16.10.0/res/layout/stripe_horizontal_divider.xml"
+    },
+    {
+        "merged": "/Users/abdiels/Documents/developer/Aguacate App/build/stripe_payment/intermediates/res/merged/release/layout/abc_screen_simple.xml",
+        "source": "/Users/abdiels/.gradle/caches/transforms-2/files-2.1/0bbf2ad6bf95c03ce412102d285e808e/appcompat-1.3.0/res/layout/abc_screen_simple.xml"
+    },
+    {
+        "merged": "/Users/abdiels/Documents/developer/Aguacate App/build/stripe_payment/intermediates/res/merged/release/layout/test_design_radiobutton.xml",
+        "source": "/Users/abdiels/.gradle/caches/transforms-2/files-2.1/4a6c9748f5247bec5f5766c4aa713ecb/material-1.3.0/res/layout/test_design_radiobutton.xml"
+    },
+    {
+        "merged": "/Users/abdiels/Documents/developer/Aguacate App/build/stripe_payment/intermediates/res/merged/release/layout/test_toolbar.xml",
+        "source": "/Users/abdiels/.gradle/caches/transforms-2/files-2.1/4a6c9748f5247bec5f5766c4aa713ecb/material-1.3.0/res/layout/test_toolbar.xml"
+    },
+    {
+        "merged": "/Users/abdiels/Documents/developer/Aguacate App/build/stripe_payment/intermediates/res/merged/release/layout/mtrl_calendar_day.xml",
+        "source": "/Users/abdiels/.gradle/caches/transforms-2/files-2.1/4a6c9748f5247bec5f5766c4aa713ecb/material-1.3.0/res/layout/mtrl_calendar_day.xml"
+    },
+    {
+        "merged": "/Users/abdiels/Documents/developer/Aguacate App/build/stripe_payment/intermediates/res/merged/release/layout/design_layout_snackbar_include.xml",
+        "source": "/Users/abdiels/.gradle/caches/transforms-2/files-2.1/4a6c9748f5247bec5f5766c4aa713ecb/material-1.3.0/res/layout/design_layout_snackbar_include.xml"
+    },
+    {
+        "merged": "/Users/abdiels/Documents/developer/Aguacate App/build/stripe_payment/intermediates/res/merged/release/layout/abc_list_menu_item_icon.xml",
+        "source": "/Users/abdiels/.gradle/caches/transforms-2/files-2.1/0bbf2ad6bf95c03ce412102d285e808e/appcompat-1.3.0/res/layout/abc_list_menu_item_icon.xml"
+    },
+    {
+        "merged": "/Users/abdiels/Documents/developer/Aguacate App/build/stripe_payment/intermediates/res/merged/release/layout/abc_action_bar_up_container.xml",
+        "source": "/Users/abdiels/.gradle/caches/transforms-2/files-2.1/0bbf2ad6bf95c03ce412102d285e808e/appcompat-1.3.0/res/layout/abc_action_bar_up_container.xml"
+    },
+    {
+        "merged": "/Users/abdiels/Documents/developer/Aguacate App/build/stripe_payment/intermediates/res/merged/release/layout/abc_search_dropdown_item_icons_2line.xml",
+        "source": "/Users/abdiels/.gradle/caches/transforms-2/files-2.1/0bbf2ad6bf95c03ce412102d285e808e/appcompat-1.3.0/res/layout/abc_search_dropdown_item_icons_2line.xml"
+    },
+    {
+        "merged": "/Users/abdiels/Documents/developer/Aguacate App/build/stripe_payment/intermediates/res/merged/release/layout/card_brand_spinner_dropdown.xml",
+        "source": "/Users/abdiels/.gradle/caches/transforms-2/files-2.1/6e33c061a82d65da1817d9853125a913/jetified-payments-core-16.10.0/res/layout/card_brand_spinner_dropdown.xml"
+    },
+    {
+        "merged": "/Users/abdiels/Documents/developer/Aguacate App/build/stripe_payment/intermediates/res/merged/release/layout/text_view_without_line_height.xml",
+        "source": "/Users/abdiels/.gradle/caches/transforms-2/files-2.1/4a6c9748f5247bec5f5766c4aa713ecb/material-1.3.0/res/layout/text_view_without_line_height.xml"
+    },
+    {
+        "merged": "/Users/abdiels/Documents/developer/Aguacate App/build/stripe_payment/intermediates/res/merged/release/layout/design_layout_snackbar.xml",
+        "source": "/Users/abdiels/.gradle/caches/transforms-2/files-2.1/4a6c9748f5247bec5f5766c4aa713ecb/material-1.3.0/res/layout/design_layout_snackbar.xml"
+    },
+    {
+        "merged": "/Users/abdiels/Documents/developer/Aguacate App/build/stripe_payment/intermediates/res/merged/release/layout/material_clock_display.xml",
+        "source": "/Users/abdiels/.gradle/caches/transforms-2/files-2.1/4a6c9748f5247bec5f5766c4aa713ecb/material-1.3.0/res/layout/material_clock_display.xml"
+    },
+    {
+        "merged": "/Users/abdiels/Documents/developer/Aguacate App/build/stripe_payment/intermediates/res/merged/release/layout/support_simple_spinner_dropdown_item.xml",
+        "source": "/Users/abdiels/.gradle/caches/transforms-2/files-2.1/0bbf2ad6bf95c03ce412102d285e808e/appcompat-1.3.0/res/layout/support_simple_spinner_dropdown_item.xml"
+    },
+    {
+        "merged": "/Users/abdiels/Documents/developer/Aguacate App/build/stripe_payment/intermediates/res/merged/release/layout/shipping_method_view.xml",
+        "source": "/Users/abdiels/.gradle/caches/transforms-2/files-2.1/6e33c061a82d65da1817d9853125a913/jetified-payments-core-16.10.0/res/layout/shipping_method_view.xml"
+    },
+    {
+        "merged": "/Users/abdiels/Documents/developer/Aguacate App/build/stripe_payment/intermediates/res/merged/release/layout/text_view_with_line_height_from_style.xml",
+        "source": "/Users/abdiels/.gradle/caches/transforms-2/files-2.1/4a6c9748f5247bec5f5766c4aa713ecb/material-1.3.0/res/layout/text_view_with_line_height_from_style.xml"
+    },
+    {
+        "merged": "/Users/abdiels/Documents/developer/Aguacate App/build/stripe_payment/intermediates/res/merged/release/layout/mtrl_layout_snackbar.xml",
+        "source": "/Users/abdiels/.gradle/caches/transforms-2/files-2.1/4a6c9748f5247bec5f5766c4aa713ecb/material-1.3.0/res/layout/mtrl_layout_snackbar.xml"
+    },
+    {
+        "merged": "/Users/abdiels/Documents/developer/Aguacate App/build/stripe_payment/intermediates/res/merged/release/layout/test_design_checkbox.xml",
+        "source": "/Users/abdiels/.gradle/caches/transforms-2/files-2.1/4a6c9748f5247bec5f5766c4aa713ecb/material-1.3.0/res/layout/test_design_checkbox.xml"
+    },
+    {
+        "merged": "/Users/abdiels/Documents/developer/Aguacate App/build/stripe_payment/intermediates/res/merged/release/layout/stripe_google_pay_button.xml",
+        "source": "/Users/abdiels/.gradle/caches/transforms-2/files-2.1/6e33c061a82d65da1817d9853125a913/jetified-payments-core-16.10.0/res/layout/stripe_google_pay_button.xml"
+    },
+    {
+        "merged": "/Users/abdiels/Documents/developer/Aguacate App/build/stripe_payment/intermediates/res/merged/release/layout/material_timepicker_textinput_display.xml",
+        "source": "/Users/abdiels/.gradle/caches/transforms-2/files-2.1/4a6c9748f5247bec5f5766c4aa713ecb/material-1.3.0/res/layout/material_timepicker_textinput_display.xml"
+    },
+    {
+        "merged": "/Users/abdiels/Documents/developer/Aguacate App/build/stripe_payment/intermediates/res/merged/release/layout/mtrl_picker_text_input_date.xml",
+        "source": "/Users/abdiels/.gradle/caches/transforms-2/files-2.1/4a6c9748f5247bec5f5766c4aa713ecb/material-1.3.0/res/layout/mtrl_picker_text_input_date.xml"
+    },
+    {
+        "merged": "/Users/abdiels/Documents/developer/Aguacate App/build/stripe_payment/intermediates/res/merged/release/layout/activity_payment_sheet.xml",
+        "source": "/Users/abdiels/.gradle/caches/transforms-2/files-2.1/6e33c061a82d65da1817d9853125a913/jetified-payments-core-16.10.0/res/layout/activity_payment_sheet.xml"
+    },
+    {
+        "merged": "/Users/abdiels/Documents/developer/Aguacate App/build/stripe_payment/intermediates/res/merged/release/layout/design_navigation_item_separator.xml",
+        "source": "/Users/abdiels/.gradle/caches/transforms-2/files-2.1/4a6c9748f5247bec5f5766c4aa713ecb/material-1.3.0/res/layout/design_navigation_item_separator.xml"
+    },
+    {
+        "merged": "/Users/abdiels/Documents/developer/Aguacate App/build/stripe_payment/intermediates/res/merged/release/layout/mtrl_calendar_year.xml",
+        "source": "/Users/abdiels/.gradle/caches/transforms-2/files-2.1/4a6c9748f5247bec5f5766c4aa713ecb/material-1.3.0/res/layout/mtrl_calendar_year.xml"
+    },
+    {
+        "merged": "/Users/abdiels/Documents/developer/Aguacate App/build/stripe_payment/intermediates/res/merged/release/layout/design_bottom_sheet_dialog.xml",
+        "source": "/Users/abdiels/.gradle/caches/transforms-2/files-2.1/4a6c9748f5247bec5f5766c4aa713ecb/material-1.3.0/res/layout/design_bottom_sheet_dialog.xml"
+    },
+    {
+        "merged": "/Users/abdiels/Documents/developer/Aguacate App/build/stripe_payment/intermediates/res/merged/release/layout/mtrl_picker_header_toggle.xml",
+        "source": "/Users/abdiels/.gradle/caches/transforms-2/files-2.1/4a6c9748f5247bec5f5766c4aa713ecb/material-1.3.0/res/layout/mtrl_picker_header_toggle.xml"
+    },
+    {
+        "merged": "/Users/abdiels/Documents/developer/Aguacate App/build/stripe_payment/intermediates/res/merged/release/layout/abc_tooltip.xml",
+        "source": "/Users/abdiels/.gradle/caches/transforms-2/files-2.1/0bbf2ad6bf95c03ce412102d285e808e/appcompat-1.3.0/res/layout/abc_tooltip.xml"
+    },
+    {
+        "merged": "/Users/abdiels/Documents/developer/Aguacate App/build/stripe_payment/intermediates/res/merged/release/layout/stripe_billing_address_layout.xml",
+        "source": "/Users/abdiels/.gradle/caches/transforms-2/files-2.1/6e33c061a82d65da1817d9853125a913/jetified-payments-core-16.10.0/res/layout/stripe_billing_address_layout.xml"
+    },
+    {
+        "merged": "/Users/abdiels/Documents/developer/Aguacate App/build/stripe_payment/intermediates/res/merged/release/layout/mtrl_calendar_days_of_week.xml",
+        "source": "/Users/abdiels/.gradle/caches/transforms-2/files-2.1/4a6c9748f5247bec5f5766c4aa713ecb/material-1.3.0/res/layout/mtrl_calendar_days_of_week.xml"
+    },
+    {
+        "merged": "/Users/abdiels/Documents/developer/Aguacate App/build/stripe_payment/intermediates/res/merged/release/layout/abc_alert_dialog_material.xml",
+        "source": "/Users/abdiels/.gradle/caches/transforms-2/files-2.1/0bbf2ad6bf95c03ce412102d285e808e/appcompat-1.3.0/res/layout/abc_alert_dialog_material.xml"
+    },
+    {
+        "merged": "/Users/abdiels/Documents/developer/Aguacate App/build/stripe_payment/intermediates/res/merged/release/layout/mtrl_alert_select_dialog_multichoice.xml",
+        "source": "/Users/abdiels/.gradle/caches/transforms-2/files-2.1/4a6c9748f5247bec5f5766c4aa713ecb/material-1.3.0/res/layout/mtrl_alert_select_dialog_multichoice.xml"
+    },
+    {
+        "merged": "/Users/abdiels/Documents/developer/Aguacate App/build/stripe_payment/intermediates/res/merged/release/layout/mtrl_alert_select_dialog_singlechoice.xml",
+        "source": "/Users/abdiels/.gradle/caches/transforms-2/files-2.1/4a6c9748f5247bec5f5766c4aa713ecb/material-1.3.0/res/layout/mtrl_alert_select_dialog_singlechoice.xml"
+    },
+    {
+        "merged": "/Users/abdiels/Documents/developer/Aguacate App/build/stripe_payment/intermediates/res/merged/release/layout/layout_paymentsheet_payment_method_item.xml",
+        "source": "/Users/abdiels/.gradle/caches/transforms-2/files-2.1/6e33c061a82d65da1817d9853125a913/jetified-payments-core-16.10.0/res/layout/layout_paymentsheet_payment_method_item.xml"
+    },
+    {
+        "merged": "/Users/abdiels/Documents/developer/Aguacate App/build/stripe_payment/intermediates/res/merged/release/layout/primary_button.xml",
+        "source": "/Users/abdiels/.gradle/caches/transforms-2/files-2.1/6e33c061a82d65da1817d9853125a913/jetified-payments-core-16.10.0/res/layout/primary_button.xml"
+    },
+    {
+        "merged": "/Users/abdiels/Documents/developer/Aguacate App/build/stripe_payment/intermediates/res/merged/release/layout/card_input_widget.xml",
+        "source": "/Users/abdiels/.gradle/caches/transforms-2/files-2.1/6e33c061a82d65da1817d9853125a913/jetified-payments-core-16.10.0/res/layout/card_input_widget.xml"
+    },
+    {
+        "merged": "/Users/abdiels/Documents/developer/Aguacate App/build/stripe_payment/intermediates/res/merged/release/layout/notification_template_icon_group.xml",
+        "source": "/Users/abdiels/.gradle/caches/transforms-2/files-2.1/674a728e03ccb78ac854080ea6e9699a/core-1.6.0/res/layout/notification_template_icon_group.xml"
+    },
+    {
+        "merged": "/Users/abdiels/Documents/developer/Aguacate App/build/stripe_payment/intermediates/res/merged/release/layout/abc_cascading_menu_item_layout.xml",
+        "source": "/Users/abdiels/.gradle/caches/transforms-2/files-2.1/0bbf2ad6bf95c03ce412102d285e808e/appcompat-1.3.0/res/layout/abc_cascading_menu_item_layout.xml"
+    },
+    {
+        "merged": "/Users/abdiels/Documents/developer/Aguacate App/build/stripe_payment/intermediates/res/merged/release/layout/payment_auth_web_view_activity.xml",
+        "source": "/Users/abdiels/.gradle/caches/transforms-2/files-2.1/6e33c061a82d65da1817d9853125a913/jetified-payments-core-16.10.0/res/layout/payment_auth_web_view_activity.xml"
+    },
+    {
+        "merged": "/Users/abdiels/Documents/developer/Aguacate App/build/stripe_payment/intermediates/res/merged/release/layout/material_clock_display_divider.xml",
+        "source": "/Users/abdiels/.gradle/caches/transforms-2/files-2.1/4a6c9748f5247bec5f5766c4aa713ecb/material-1.3.0/res/layout/material_clock_display_divider.xml"
+    },
+    {
+        "merged": "/Users/abdiels/Documents/developer/Aguacate App/build/stripe_payment/intermediates/res/merged/release/layout/stripe_challenge_zone_view.xml",
+        "source": "/Users/abdiels/.gradle/caches/transforms-2/files-2.1/e064d61cb58a534ae7ff47685c569da3/jetified-stripe-3ds2-android-5.3.1/res/layout/stripe_challenge_zone_view.xml"
+    },
+    {
+        "merged": "/Users/abdiels/Documents/developer/Aguacate App/build/stripe_payment/intermediates/res/merged/release/layout/abc_popup_menu_item_layout.xml",
+        "source": "/Users/abdiels/.gradle/caches/transforms-2/files-2.1/0bbf2ad6bf95c03ce412102d285e808e/appcompat-1.3.0/res/layout/abc_popup_menu_item_layout.xml"
+    },
+    {
+        "merged": "/Users/abdiels/Documents/developer/Aguacate App/build/stripe_payment/intermediates/res/merged/release/layout/mtrl_picker_text_input_date_range.xml",
+        "source": "/Users/abdiels/.gradle/caches/transforms-2/files-2.1/4a6c9748f5247bec5f5766c4aa713ecb/material-1.3.0/res/layout/mtrl_picker_text_input_date_range.xml"
+    },
+    {
+        "merged": "/Users/abdiels/Documents/developer/Aguacate App/build/stripe_payment/intermediates/res/merged/release/layout/mtrl_calendar_months.xml",
+        "source": "/Users/abdiels/.gradle/caches/transforms-2/files-2.1/4a6c9748f5247bec5f5766c4aa713ecb/material-1.3.0/res/layout/mtrl_calendar_months.xml"
+    },
+    {
+        "merged": "/Users/abdiels/Documents/developer/Aguacate App/build/stripe_payment/intermediates/res/merged/release/layout/custom_dialog.xml",
+        "source": "/Users/abdiels/.gradle/caches/transforms-2/files-2.1/674a728e03ccb78ac854080ea6e9699a/core-1.6.0/res/layout/custom_dialog.xml"
+    },
+    {
+        "merged": "/Users/abdiels/Documents/developer/Aguacate App/build/stripe_payment/intermediates/res/merged/release/layout/material_clockface_textview.xml",
+        "source": "/Users/abdiels/.gradle/caches/transforms-2/files-2.1/4a6c9748f5247bec5f5766c4aa713ecb/material-1.3.0/res/layout/material_clockface_textview.xml"
+    },
+    {
+        "merged": "/Users/abdiels/Documents/developer/Aguacate App/build/stripe_payment/intermediates/res/merged/release/layout/abc_alert_dialog_button_bar_material.xml",
+        "source": "/Users/abdiels/.gradle/caches/transforms-2/files-2.1/0bbf2ad6bf95c03ce412102d285e808e/appcompat-1.3.0/res/layout/abc_alert_dialog_button_bar_material.xml"
+    },
+    {
+        "merged": "/Users/abdiels/Documents/developer/Aguacate App/build/stripe_payment/intermediates/res/merged/release/layout/abc_activity_chooser_view_list_item.xml",
+        "source": "/Users/abdiels/.gradle/caches/transforms-2/files-2.1/0bbf2ad6bf95c03ce412102d285e808e/appcompat-1.3.0/res/layout/abc_activity_chooser_view_list_item.xml"
+    },
+    {
+        "merged": "/Users/abdiels/Documents/developer/Aguacate App/build/stripe_payment/intermediates/res/merged/release/layout/bank_list_payment_method.xml",
+        "source": "/Users/abdiels/.gradle/caches/transforms-2/files-2.1/6e33c061a82d65da1817d9853125a913/jetified-payments-core-16.10.0/res/layout/bank_list_payment_method.xml"
+    },
+    {
+        "merged": "/Users/abdiels/Documents/developer/Aguacate App/build/stripe_payment/intermediates/res/merged/release/layout/shipping_method_page.xml",
+        "source": "/Users/abdiels/.gradle/caches/transforms-2/files-2.1/6e33c061a82d65da1817d9853125a913/jetified-payments-core-16.10.0/res/layout/shipping_method_page.xml"
+    },
+    {
+        "merged": "/Users/abdiels/Documents/developer/Aguacate App/build/stripe_payment/intermediates/res/merged/release/layout/select_dialog_item_material.xml",
+        "source": "/Users/abdiels/.gradle/caches/transforms-2/files-2.1/0bbf2ad6bf95c03ce412102d285e808e/appcompat-1.3.0/res/layout/select_dialog_item_material.xml"
+    },
+    {
+        "merged": "/Users/abdiels/Documents/developer/Aguacate App/build/stripe_payment/intermediates/res/merged/release/layout/stripe_brand_zone_view.xml",
+        "source": "/Users/abdiels/.gradle/caches/transforms-2/files-2.1/e064d61cb58a534ae7ff47685c569da3/jetified-stripe-3ds2-android-5.3.1/res/layout/stripe_brand_zone_view.xml"
+    },
+    {
+        "merged": "/Users/abdiels/Documents/developer/Aguacate App/build/stripe_payment/intermediates/res/merged/release/layout/stripe_activity.xml",
+        "source": "/Users/abdiels/.gradle/caches/transforms-2/files-2.1/6e33c061a82d65da1817d9853125a913/jetified-payments-core-16.10.0/res/layout/stripe_activity.xml"
+    },
+    {
+        "merged": "/Users/abdiels/Documents/developer/Aguacate App/build/stripe_payment/intermediates/res/merged/release/layout/abc_dialog_title_material.xml",
+        "source": "/Users/abdiels/.gradle/caches/transforms-2/files-2.1/0bbf2ad6bf95c03ce412102d285e808e/appcompat-1.3.0/res/layout/abc_dialog_title_material.xml"
+    },
+    {
+        "merged": "/Users/abdiels/Documents/developer/Aguacate App/build/stripe_payment/intermediates/res/merged/release/layout/select_dialog_multichoice_material.xml",
+        "source": "/Users/abdiels/.gradle/caches/transforms-2/files-2.1/0bbf2ad6bf95c03ce412102d285e808e/appcompat-1.3.0/res/layout/select_dialog_multichoice_material.xml"
+    },
+    {
+        "merged": "/Users/abdiels/Documents/developer/Aguacate App/build/stripe_payment/intermediates/res/merged/release/layout/stripe_country_dropdown_item.xml",
+        "source": "/Users/abdiels/.gradle/caches/transforms-2/files-2.1/6e33c061a82d65da1817d9853125a913/jetified-payments-core-16.10.0/res/layout/stripe_country_dropdown_item.xml"
+    },
+    {
+        "merged": "/Users/abdiels/Documents/developer/Aguacate App/build/stripe_payment/intermediates/res/merged/release/layout/mtrl_calendar_day_of_week.xml",
+        "source": "/Users/abdiels/.gradle/caches/transforms-2/files-2.1/4a6c9748f5247bec5f5766c4aa713ecb/material-1.3.0/res/layout/mtrl_calendar_day_of_week.xml"
+    },
+    {
+        "merged": "/Users/abdiels/Documents/developer/Aguacate App/build/stripe_payment/intermediates/res/merged/release/layout/notification_template_part_time.xml",
+        "source": "/Users/abdiels/.gradle/caches/transforms-2/files-2.1/674a728e03ccb78ac854080ea6e9699a/core-1.6.0/res/layout/notification_template_part_time.xml"
+    },
+    {
+        "merged": "/Users/abdiels/Documents/developer/Aguacate App/build/stripe_payment/intermediates/res/merged/release/layout/notification_action_tombstone.xml",
+        "source": "/Users/abdiels/.gradle/caches/transforms-2/files-2.1/674a728e03ccb78ac854080ea6e9699a/core-1.6.0/res/layout/notification_action_tombstone.xml"
+    },
+    {
+        "merged": "/Users/abdiels/Documents/developer/Aguacate App/build/stripe_payment/intermediates/res/merged/release/layout/card_multiline_widget.xml",
+        "source": "/Users/abdiels/.gradle/caches/transforms-2/files-2.1/6e33c061a82d65da1817d9853125a913/jetified-payments-core-16.10.0/res/layout/card_multiline_widget.xml"
+    },
+    {
+        "merged": "/Users/abdiels/Documents/developer/Aguacate App/build/stripe_payment/intermediates/res/merged/release/layout/mtrl_picker_header_title_text.xml",
+        "source": "/Users/abdiels/.gradle/caches/transforms-2/files-2.1/4a6c9748f5247bec5f5766c4aa713ecb/material-1.3.0/res/layout/mtrl_picker_header_title_text.xml"
+    },
+    {
+        "merged": "/Users/abdiels/Documents/developer/Aguacate App/build/stripe_payment/intermediates/res/merged/release/layout/activity_stripe.xml",
+        "source": "/Users/abdiels/development/flutter300/.pub-cache/hosted/pub.dartlang.org/stripe_payment-1.1.4/android/src/main/res/layout/activity_stripe.xml"
+    },
+    {
+        "merged": "/Users/abdiels/Documents/developer/Aguacate App/build/stripe_payment/intermediates/res/merged/release/layout/mtrl_picker_dialog.xml",
+        "source": "/Users/abdiels/.gradle/caches/transforms-2/files-2.1/4a6c9748f5247bec5f5766c4aa713ecb/material-1.3.0/res/layout/mtrl_picker_dialog.xml"
+    },
+    {
+        "merged": "/Users/abdiels/Documents/developer/Aguacate App/build/stripe_payment/intermediates/res/merged/release/layout/card_widget_progress_view.xml",
+        "source": "/Users/abdiels/.gradle/caches/transforms-2/files-2.1/6e33c061a82d65da1817d9853125a913/jetified-payments-core-16.10.0/res/layout/card_widget_progress_view.xml"
+    },
+    {
+        "merged": "/Users/abdiels/Documents/developer/Aguacate App/build/stripe_payment/intermediates/res/merged/release/layout/add_payment_method_row.xml",
+        "source": "/Users/abdiels/.gradle/caches/transforms-2/files-2.1/6e33c061a82d65da1817d9853125a913/jetified-payments-core-16.10.0/res/layout/add_payment_method_row.xml"
+    },
+    {
+        "merged": "/Users/abdiels/Documents/developer/Aguacate App/build/stripe_payment/intermediates/res/merged/release/layout/design_menu_item_action_area.xml",
+        "source": "/Users/abdiels/.gradle/caches/transforms-2/files-2.1/4a6c9748f5247bec5f5766c4aa713ecb/material-1.3.0/res/layout/design_menu_item_action_area.xml"
+    },
+    {
+        "merged": "/Users/abdiels/Documents/developer/Aguacate App/build/stripe_payment/intermediates/res/merged/release/layout/fragment_paymentsheet_loading.xml",
+        "source": "/Users/abdiels/.gradle/caches/transforms-2/files-2.1/6e33c061a82d65da1817d9853125a913/jetified-payments-core-16.10.0/res/layout/fragment_paymentsheet_loading.xml"
+    },
+    {
+        "merged": "/Users/abdiels/Documents/developer/Aguacate App/build/stripe_payment/intermediates/res/merged/release/layout/material_clockface_view.xml",
+        "source": "/Users/abdiels/.gradle/caches/transforms-2/files-2.1/4a6c9748f5247bec5f5766c4aa713ecb/material-1.3.0/res/layout/material_clockface_view.xml"
+    },
+    {
+        "merged": "/Users/abdiels/Documents/developer/Aguacate App/build/stripe_payment/intermediates/res/merged/release/layout/abc_action_mode_close_item_material.xml",
+        "source": "/Users/abdiels/.gradle/caches/transforms-2/files-2.1/0bbf2ad6bf95c03ce412102d285e808e/appcompat-1.3.0/res/layout/abc_action_mode_close_item_material.xml"
+    },
+    {
+        "merged": "/Users/abdiels/Documents/developer/Aguacate App/build/stripe_payment/intermediates/res/merged/release/layout/add_payment_method_activity.xml",
+        "source": "/Users/abdiels/.gradle/caches/transforms-2/files-2.1/6e33c061a82d65da1817d9853125a913/jetified-payments-core-16.10.0/res/layout/add_payment_method_activity.xml"
+    },
+    {
+        "merged": "/Users/abdiels/Documents/developer/Aguacate App/build/stripe_payment/intermediates/res/merged/release/layout/stripe_challenge_zone_text_view.xml",
+        "source": "/Users/abdiels/.gradle/caches/transforms-2/files-2.1/e064d61cb58a534ae7ff47685c569da3/jetified-stripe-3ds2-android-5.3.1/res/layout/stripe_challenge_zone_text_view.xml"
+    },
+    {
+        "merged": "/Users/abdiels/Documents/developer/Aguacate App/build/stripe_payment/intermediates/res/merged/release/layout/layout_paymentsheet_google_pay_item.xml",
+        "source": "/Users/abdiels/.gradle/caches/transforms-2/files-2.1/6e33c061a82d65da1817d9853125a913/jetified-payments-core-16.10.0/res/layout/layout_paymentsheet_google_pay_item.xml"
+    },
+    {
+        "merged": "/Users/abdiels/Documents/developer/Aguacate App/build/stripe_payment/intermediates/res/merged/release/layout/text_view_with_line_height_from_appearance.xml",
+        "source": "/Users/abdiels/.gradle/caches/transforms-2/files-2.1/4a6c9748f5247bec5f5766c4aa713ecb/material-1.3.0/res/layout/text_view_with_line_height_from_appearance.xml"
+    },
+    {
+        "merged": "/Users/abdiels/Documents/developer/Aguacate App/build/stripe_payment/intermediates/res/merged/release/layout/mtrl_calendar_month.xml",
+        "source": "/Users/abdiels/.gradle/caches/transforms-2/files-2.1/4a6c9748f5247bec5f5766c4aa713ecb/material-1.3.0/res/layout/mtrl_calendar_month.xml"
+    },
+    {
+        "merged": "/Users/abdiels/Documents/developer/Aguacate App/build/stripe_payment/intermediates/res/merged/release/layout/fragment_paymentsheet_payment_methods_list.xml",
+        "source": "/Users/abdiels/.gradle/caches/transforms-2/files-2.1/6e33c061a82d65da1817d9853125a913/jetified-payments-core-16.10.0/res/layout/fragment_paymentsheet_payment_methods_list.xml"
+    },
+    {
+        "merged": "/Users/abdiels/Documents/developer/Aguacate App/build/stripe_payment/intermediates/res/merged/release/layout/material_radial_view_group.xml",
+        "source": "/Users/abdiels/.gradle/caches/transforms-2/files-2.1/4a6c9748f5247bec5f5766c4aa713ecb/material-1.3.0/res/layout/material_radial_view_group.xml"
+    },
+    {
+        "merged": "/Users/abdiels/Documents/developer/Aguacate App/build/stripe_payment/intermediates/res/merged/release/layout/design_text_input_start_icon.xml",
+        "source": "/Users/abdiels/.gradle/caches/transforms-2/files-2.1/4a6c9748f5247bec5f5766c4aa713ecb/material-1.3.0/res/layout/design_text_input_start_icon.xml"
+    },
+    {
+        "merged": "/Users/abdiels/Documents/developer/Aguacate App/build/stripe_payment/intermediates/res/merged/release/layout/material_timepicker.xml",
+        "source": "/Users/abdiels/.gradle/caches/transforms-2/files-2.1/4a6c9748f5247bec5f5766c4aa713ecb/material-1.3.0/res/layout/material_timepicker.xml"
+    },
+    {
+        "merged": "/Users/abdiels/Documents/developer/Aguacate App/build/stripe_payment/intermediates/res/merged/release/layout/stripe_information_zone_view.xml",
+        "source": "/Users/abdiels/.gradle/caches/transforms-2/files-2.1/e064d61cb58a534ae7ff47685c569da3/jetified-stripe-3ds2-android-5.3.1/res/layout/stripe_information_zone_view.xml"
+    },
+    {
+        "merged": "/Users/abdiels/Documents/developer/Aguacate App/build/stripe_payment/intermediates/res/merged/release/layout/abc_select_dialog_material.xml",
+        "source": "/Users/abdiels/.gradle/caches/transforms-2/files-2.1/0bbf2ad6bf95c03ce412102d285e808e/appcompat-1.3.0/res/layout/abc_select_dialog_material.xml"
+    },
+    {
+        "merged": "/Users/abdiels/Documents/developer/Aguacate App/build/stripe_payment/intermediates/res/merged/release/layout/stripe_challenge_zone_web_view.xml",
+        "source": "/Users/abdiels/.gradle/caches/transforms-2/files-2.1/e064d61cb58a534ae7ff47685c569da3/jetified-stripe-3ds2-android-5.3.1/res/layout/stripe_challenge_zone_web_view.xml"
+    },
+    {
+        "merged": "/Users/abdiels/Documents/developer/Aguacate App/build/stripe_payment/intermediates/res/merged/release/layout/abc_screen_toolbar.xml",
+        "source": "/Users/abdiels/.gradle/caches/transforms-2/files-2.1/0bbf2ad6bf95c03ce412102d285e808e/appcompat-1.3.0/res/layout/abc_screen_toolbar.xml"
+    },
+    {
+        "merged": "/Users/abdiels/Documents/developer/Aguacate App/build/stripe_payment/intermediates/res/merged/release/layout/abc_screen_content_include.xml",
+        "source": "/Users/abdiels/.gradle/caches/transforms-2/files-2.1/0bbf2ad6bf95c03ce412102d285e808e/appcompat-1.3.0/res/layout/abc_screen_content_include.xml"
+    },
+    {
+        "merged": "/Users/abdiels/Documents/developer/Aguacate App/build/stripe_payment/intermediates/res/merged/release/layout/design_navigation_item.xml",
+        "source": "/Users/abdiels/.gradle/caches/transforms-2/files-2.1/4a6c9748f5247bec5f5766c4aa713ecb/material-1.3.0/res/layout/design_navigation_item.xml"
+    },
+    {
+        "merged": "/Users/abdiels/Documents/developer/Aguacate App/build/stripe_payment/intermediates/res/merged/release/layout/fragment_paymentsheet_add_card.xml",
+        "source": "/Users/abdiels/.gradle/caches/transforms-2/files-2.1/6e33c061a82d65da1817d9853125a913/jetified-payments-core-16.10.0/res/layout/fragment_paymentsheet_add_card.xml"
+    },
+    {
+        "merged": "/Users/abdiels/Documents/developer/Aguacate App/build/stripe_payment/intermediates/res/merged/release/layout/material_time_input.xml",
+        "source": "/Users/abdiels/.gradle/caches/transforms-2/files-2.1/4a6c9748f5247bec5f5766c4aa713ecb/material-1.3.0/res/layout/material_time_input.xml"
+    },
+    {
+        "merged": "/Users/abdiels/Documents/developer/Aguacate App/build/stripe_payment/intermediates/res/merged/release/layout/stripe_activity_payment_options.xml",
+        "source": "/Users/abdiels/.gradle/caches/transforms-2/files-2.1/6e33c061a82d65da1817d9853125a913/jetified-payments-core-16.10.0/res/layout/stripe_activity_payment_options.xml"
+    },
+    {
+        "merged": "/Users/abdiels/Documents/developer/Aguacate App/build/stripe_payment/intermediates/res/merged/release/layout/stripe_challenge_submit_dialog.xml",
+        "source": "/Users/abdiels/.gradle/caches/transforms-2/files-2.1/e064d61cb58a534ae7ff47685c569da3/jetified-stripe-3ds2-android-5.3.1/res/layout/stripe_challenge_submit_dialog.xml"
+    },
+    {
+        "merged": "/Users/abdiels/Documents/developer/Aguacate App/build/stripe_payment/intermediates/res/merged/release/layout/test_toolbar_elevation.xml",
+        "source": "/Users/abdiels/.gradle/caches/transforms-2/files-2.1/4a6c9748f5247bec5f5766c4aa713ecb/material-1.3.0/res/layout/test_toolbar_elevation.xml"
+    },
+    {
+        "merged": "/Users/abdiels/Documents/developer/Aguacate App/build/stripe_payment/intermediates/res/merged/release/layout/mtrl_picker_header_selection_text.xml",
+        "source": "/Users/abdiels/.gradle/caches/transforms-2/files-2.1/4a6c9748f5247bec5f5766c4aa713ecb/material-1.3.0/res/layout/mtrl_picker_header_selection_text.xml"
+    },
+    {
+        "merged": "/Users/abdiels/Documents/developer/Aguacate App/build/stripe_payment/intermediates/res/merged/release/layout/material_chip_input_combo.xml",
+        "source": "/Users/abdiels/.gradle/caches/transforms-2/files-2.1/4a6c9748f5247bec5f5766c4aa713ecb/material-1.3.0/res/layout/material_chip_input_combo.xml"
+    },
+    {
+        "merged": "/Users/abdiels/Documents/developer/Aguacate App/build/stripe_payment/intermediates/res/merged/release/layout/stripe_vertical_divider.xml",
+        "source": "/Users/abdiels/.gradle/caches/transforms-2/files-2.1/6e33c061a82d65da1817d9853125a913/jetified-payments-core-16.10.0/res/layout/stripe_vertical_divider.xml"
+    },
+    {
+        "merged": "/Users/abdiels/Documents/developer/Aguacate App/build/stripe_payment/intermediates/res/merged/release/layout/test_toolbar_surface.xml",
+        "source": "/Users/abdiels/.gradle/caches/transforms-2/files-2.1/4a6c9748f5247bec5f5766c4aa713ecb/material-1.3.0/res/layout/test_toolbar_surface.xml"
+    },
+    {
+        "merged": "/Users/abdiels/Documents/developer/Aguacate App/build/stripe_payment/intermediates/res/merged/release/layout/layout_paymentsheet_add_card_item.xml",
+        "source": "/Users/abdiels/.gradle/caches/transforms-2/files-2.1/6e33c061a82d65da1817d9853125a913/jetified-payments-core-16.10.0/res/layout/layout_paymentsheet_add_card_item.xml"
+    },
+    {
+        "merged": "/Users/abdiels/Documents/developer/Aguacate App/build/stripe_payment/intermediates/res/merged/release/layout/mtrl_calendar_month_labeled.xml",
+        "source": "/Users/abdiels/.gradle/caches/transforms-2/files-2.1/4a6c9748f5247bec5f5766c4aa713ecb/material-1.3.0/res/layout/mtrl_calendar_month_labeled.xml"
+    },
+    {
+        "merged": "/Users/abdiels/Documents/developer/Aguacate App/build/stripe_payment/intermediates/res/merged/release/layout/mtrl_calendar_horizontal.xml",
+        "source": "/Users/abdiels/.gradle/caches/transforms-2/files-2.1/4a6c9748f5247bec5f5766c4aa713ecb/material-1.3.0/res/layout/mtrl_calendar_horizontal.xml"
+    },
+    {
+        "merged": "/Users/abdiels/Documents/developer/Aguacate App/build/stripe_payment/intermediates/res/merged/release/layout/mtrl_calendar_vertical.xml",
+        "source": "/Users/abdiels/.gradle/caches/transforms-2/files-2.1/4a6c9748f5247bec5f5766c4aa713ecb/material-1.3.0/res/layout/mtrl_calendar_vertical.xml"
+    },
+    {
+        "merged": "/Users/abdiels/Documents/developer/Aguacate App/build/stripe_payment/intermediates/res/merged/release/layout/material_time_chip.xml",
+        "source": "/Users/abdiels/.gradle/caches/transforms-2/files-2.1/4a6c9748f5247bec5f5766c4aa713ecb/material-1.3.0/res/layout/material_time_chip.xml"
+    },
+    {
+        "merged": "/Users/abdiels/Documents/developer/Aguacate App/build/stripe_payment/intermediates/res/merged/release/layout/stripe_challenge_zone_single_select_view.xml",
+        "source": "/Users/abdiels/.gradle/caches/transforms-2/files-2.1/e064d61cb58a534ae7ff47685c569da3/jetified-stripe-3ds2-android-5.3.1/res/layout/stripe_challenge_zone_single_select_view.xml"
+    },
+    {
+        "merged": "/Users/abdiels/Documents/developer/Aguacate App/build/stripe_payment/intermediates/res/merged/release/layout/abc_list_menu_item_radio.xml",
+        "source": "/Users/abdiels/.gradle/caches/transforms-2/files-2.1/0bbf2ad6bf95c03ce412102d285e808e/appcompat-1.3.0/res/layout/abc_list_menu_item_radio.xml"
+    },
+    {
+        "merged": "/Users/abdiels/Documents/developer/Aguacate App/build/stripe_payment/intermediates/res/merged/release/layout/test_chip_zero_corner_radius.xml",
+        "source": "/Users/abdiels/.gradle/caches/transforms-2/files-2.1/4a6c9748f5247bec5f5766c4aa713ecb/material-1.3.0/res/layout/test_chip_zero_corner_radius.xml"
+    },
+    {
+        "merged": "/Users/abdiels/Documents/developer/Aguacate App/build/stripe_payment/intermediates/res/merged/release/layout/design_text_input_end_icon.xml",
+        "source": "/Users/abdiels/.gradle/caches/transforms-2/files-2.1/4a6c9748f5247bec5f5766c4aa713ecb/material-1.3.0/res/layout/design_text_input_end_icon.xml"
+    },
+    {
+        "merged": "/Users/abdiels/Documents/developer/Aguacate App/build/stripe_payment/intermediates/res/merged/release/layout/abc_action_bar_title_item.xml",
+        "source": "/Users/abdiels/.gradle/caches/transforms-2/files-2.1/0bbf2ad6bf95c03ce412102d285e808e/appcompat-1.3.0/res/layout/abc_action_bar_title_item.xml"
+    },
+    {
+        "merged": "/Users/abdiels/Documents/developer/Aguacate App/build/stripe_payment/intermediates/res/merged/release/layout/country_autocomplete_view.xml",
+        "source": "/Users/abdiels/.gradle/caches/transforms-2/files-2.1/6e33c061a82d65da1817d9853125a913/jetified-payments-core-16.10.0/res/layout/country_autocomplete_view.xml"
+    },
+    {
+        "merged": "/Users/abdiels/Documents/developer/Aguacate App/build/stripe_payment/intermediates/res/merged/release/layout/browser_actions_context_menu_row.xml",
+        "source": "/Users/abdiels/.gradle/caches/transforms-2/files-2.1/836e796aa4de9258b85ac7ad0ccec200/browser-1.3.0/res/layout/browser_actions_context_menu_row.xml"
+    },
+    {
+        "merged": "/Users/abdiels/Documents/developer/Aguacate App/build/stripe_payment/intermediates/res/merged/release/layout/stripe_card_form_view.xml",
+        "source": "/Users/abdiels/.gradle/caches/transforms-2/files-2.1/6e33c061a82d65da1817d9853125a913/jetified-payments-core-16.10.0/res/layout/stripe_card_form_view.xml"
+    },
+    {
+        "merged": "/Users/abdiels/Documents/developer/Aguacate App/build/stripe_payment/intermediates/res/merged/release/layout/masked_card_row.xml",
+        "source": "/Users/abdiels/.gradle/caches/transforms-2/files-2.1/6e33c061a82d65da1817d9853125a913/jetified-payments-core-16.10.0/res/layout/masked_card_row.xml"
+    },
+    {
+        "merged": "/Users/abdiels/Documents/developer/Aguacate App/build/stripe_payment/intermediates/res/merged/release/layout/abc_expanded_menu_layout.xml",
+        "source": "/Users/abdiels/.gradle/caches/transforms-2/files-2.1/0bbf2ad6bf95c03ce412102d285e808e/appcompat-1.3.0/res/layout/abc_expanded_menu_layout.xml"
+    },
+    {
+        "merged": "/Users/abdiels/Documents/developer/Aguacate App/build/stripe_payment/intermediates/res/merged/release/layout/abc_popup_menu_header_item_layout.xml",
+        "source": "/Users/abdiels/.gradle/caches/transforms-2/files-2.1/0bbf2ad6bf95c03ce412102d285e808e/appcompat-1.3.0/res/layout/abc_popup_menu_header_item_layout.xml"
+    },
+    {
+        "merged": "/Users/abdiels/Documents/developer/Aguacate App/build/stripe_payment/intermediates/res/merged/release/layout/country_text_view.xml",
+        "source": "/Users/abdiels/.gradle/caches/transforms-2/files-2.1/6e33c061a82d65da1817d9853125a913/jetified-payments-core-16.10.0/res/layout/country_text_view.xml"
+    },
+    {
+        "merged": "/Users/abdiels/Documents/developer/Aguacate App/build/stripe_payment/intermediates/res/merged/release/layout/notification_template_part_chronometer.xml",
+        "source": "/Users/abdiels/.gradle/caches/transforms-2/files-2.1/674a728e03ccb78ac854080ea6e9699a/core-1.6.0/res/layout/notification_template_part_chronometer.xml"
+    },
+    {
+        "merged": "/Users/abdiels/Documents/developer/Aguacate App/build/stripe_payment/intermediates/res/merged/release/layout/stripe_google_pay_divider.xml",
+        "source": "/Users/abdiels/.gradle/caches/transforms-2/files-2.1/6e33c061a82d65da1817d9853125a913/jetified-payments-core-16.10.0/res/layout/stripe_google_pay_divider.xml"
+    },
+    {
+        "merged": "/Users/abdiels/Documents/developer/Aguacate App/build/stripe_payment/intermediates/res/merged/release/layout/design_navigation_menu_item.xml",
+        "source": "/Users/abdiels/.gradle/caches/transforms-2/files-2.1/4a6c9748f5247bec5f5766c4aa713ecb/material-1.3.0/res/layout/design_navigation_menu_item.xml"
+    },
+    {
+        "merged": "/Users/abdiels/Documents/developer/Aguacate App/build/stripe_payment/intermediates/res/merged/release/layout/payment_flow_activity.xml",
+        "source": "/Users/abdiels/.gradle/caches/transforms-2/files-2.1/6e33c061a82d65da1817d9853125a913/jetified-payments-core-16.10.0/res/layout/payment_flow_activity.xml"
+    },
+    {
+        "merged": "/Users/abdiels/Documents/developer/Aguacate App/build/stripe_payment/intermediates/res/merged/release/layout/mtrl_picker_fullscreen.xml",
+        "source": "/Users/abdiels/.gradle/caches/transforms-2/files-2.1/4a6c9748f5247bec5f5766c4aa713ecb/material-1.3.0/res/layout/mtrl_picker_fullscreen.xml"
+    },
+    {
+        "merged": "/Users/abdiels/Documents/developer/Aguacate App/build/stripe_payment/intermediates/res/merged/release/layout/add_payment_method_card_view.xml",
+        "source": "/Users/abdiels/.gradle/caches/transforms-2/files-2.1/6e33c061a82d65da1817d9853125a913/jetified-payments-core-16.10.0/res/layout/add_payment_method_card_view.xml"
+    },
+    {
+        "merged": "/Users/abdiels/Documents/developer/Aguacate App/build/stripe_payment/intermediates/res/merged/release/layout/mtrl_alert_dialog_actions.xml",
+        "source": "/Users/abdiels/.gradle/caches/transforms-2/files-2.1/4a6c9748f5247bec5f5766c4aa713ecb/material-1.3.0/res/layout/mtrl_alert_dialog_actions.xml"
+    },
+    {
+        "merged": "/Users/abdiels/Documents/developer/Aguacate App/build/stripe_payment/intermediates/res/merged/release/layout/notification_action.xml",
+        "source": "/Users/abdiels/.gradle/caches/transforms-2/files-2.1/674a728e03ccb78ac854080ea6e9699a/core-1.6.0/res/layout/notification_action.xml"
+    },
+    {
+        "merged": "/Users/abdiels/Documents/developer/Aguacate App/build/stripe_payment/intermediates/res/merged/release/layout/card_brand_view.xml",
+        "source": "/Users/abdiels/.gradle/caches/transforms-2/files-2.1/6e33c061a82d65da1817d9853125a913/jetified-payments-core-16.10.0/res/layout/card_brand_view.xml"
+    },
+    {
+        "merged": "/Users/abdiels/Documents/developer/Aguacate App/build/stripe_payment/intermediates/res/merged/release/layout/design_layout_tab_text.xml",
+        "source": "/Users/abdiels/.gradle/caches/transforms-2/files-2.1/4a6c9748f5247bec5f5766c4aa713ecb/material-1.3.0/res/layout/design_layout_tab_text.xml"
+    },
+    {
+        "merged": "/Users/abdiels/Documents/developer/Aguacate App/build/stripe_payment/intermediates/res/merged/release/layout/abc_list_menu_item_checkbox.xml",
+        "source": "/Users/abdiels/.gradle/caches/transforms-2/files-2.1/0bbf2ad6bf95c03ce412102d285e808e/appcompat-1.3.0/res/layout/abc_list_menu_item_checkbox.xml"
+    },
+    {
+        "merged": "/Users/abdiels/Documents/developer/Aguacate App/build/stripe_payment/intermediates/res/merged/release/layout/abc_list_menu_item_layout.xml",
+        "source": "/Users/abdiels/.gradle/caches/transforms-2/files-2.1/0bbf2ad6bf95c03ce412102d285e808e/appcompat-1.3.0/res/layout/abc_list_menu_item_layout.xml"
+    },
+    {
+        "merged": "/Users/abdiels/Documents/developer/Aguacate App/build/stripe_payment/intermediates/res/merged/release/layout/design_navigation_item_header.xml",
+        "source": "/Users/abdiels/.gradle/caches/transforms-2/files-2.1/4a6c9748f5247bec5f5766c4aa713ecb/material-1.3.0/res/layout/design_navigation_item_header.xml"
+    },
+    {
+        "merged": "/Users/abdiels/Documents/developer/Aguacate App/build/stripe_payment/intermediates/res/merged/release/layout/stripe_challenge_zone_multi_select_view.xml",
+        "source": "/Users/abdiels/.gradle/caches/transforms-2/files-2.1/e064d61cb58a534ae7ff47685c569da3/jetified-stripe-3ds2-android-5.3.1/res/layout/stripe_challenge_zone_multi_select_view.xml"
+    },
+    {
+        "merged": "/Users/abdiels/Documents/developer/Aguacate App/build/stripe_payment/intermediates/res/merged/release/layout/test_reflow_chipgroup.xml",
+        "source": "/Users/abdiels/.gradle/caches/transforms-2/files-2.1/4a6c9748f5247bec5f5766c4aa713ecb/material-1.3.0/res/layout/test_reflow_chipgroup.xml"
+    },
+    {
+        "merged": "/Users/abdiels/Documents/developer/Aguacate App/build/stripe_payment/intermediates/res/merged/release/layout/design_navigation_menu.xml",
+        "source": "/Users/abdiels/.gradle/caches/transforms-2/files-2.1/4a6c9748f5247bec5f5766c4aa713ecb/material-1.3.0/res/layout/design_navigation_menu.xml"
+    },
+    {
+        "merged": "/Users/abdiels/Documents/developer/Aguacate App/build/stripe_payment/intermediates/res/merged/release/layout/shipping_info_page.xml",
+        "source": "/Users/abdiels/.gradle/caches/transforms-2/files-2.1/6e33c061a82d65da1817d9853125a913/jetified-payments-core-16.10.0/res/layout/shipping_info_page.xml"
+    },
+    {
+        "merged": "/Users/abdiels/Documents/developer/Aguacate App/build/stripe_payment/intermediates/res/merged/release/layout/mtrl_alert_dialog.xml",
+        "source": "/Users/abdiels/.gradle/caches/transforms-2/files-2.1/4a6c9748f5247bec5f5766c4aa713ecb/material-1.3.0/res/layout/mtrl_alert_dialog.xml"
+    },
+    {
+        "merged": "/Users/abdiels/Documents/developer/Aguacate App/build/stripe_payment/intermediates/res/merged/release/layout/payment_methods_activity.xml",
+        "source": "/Users/abdiels/.gradle/caches/transforms-2/files-2.1/6e33c061a82d65da1817d9853125a913/jetified-payments-core-16.10.0/res/layout/payment_methods_activity.xml"
+    },
+    {
+        "merged": "/Users/abdiels/Documents/developer/Aguacate App/build/stripe_payment/intermediates/res/merged/release/layout/address_widget.xml",
+        "source": "/Users/abdiels/.gradle/caches/transforms-2/files-2.1/6e33c061a82d65da1817d9853125a913/jetified-payments-core-16.10.0/res/layout/address_widget.xml"
+    },
+    {
+        "merged": "/Users/abdiels/Documents/developer/Aguacate App/build/stripe_payment/intermediates/res/merged/release/layout/select_dialog_singlechoice_material.xml",
+        "source": "/Users/abdiels/.gradle/caches/transforms-2/files-2.1/0bbf2ad6bf95c03ce412102d285e808e/appcompat-1.3.0/res/layout/select_dialog_singlechoice_material.xml"
+    },
+    {
+        "merged": "/Users/abdiels/Documents/developer/Aguacate App/build/stripe_payment/intermediates/res/merged/release/layout/test_action_chip.xml",
+        "source": "/Users/abdiels/.gradle/caches/transforms-2/files-2.1/4a6c9748f5247bec5f5766c4aa713ecb/material-1.3.0/res/layout/test_action_chip.xml"
+    },
+    {
+        "merged": "/Users/abdiels/Documents/developer/Aguacate App/build/stripe_payment/intermediates/res/merged/release/layout/mtrl_calendar_month_navigation.xml",
+        "source": "/Users/abdiels/.gradle/caches/transforms-2/files-2.1/4a6c9748f5247bec5f5766c4aa713ecb/material-1.3.0/res/layout/mtrl_calendar_month_navigation.xml"
+    },
+    {
+        "merged": "/Users/abdiels/Documents/developer/Aguacate App/build/stripe_payment/intermediates/res/merged/release/layout/abc_activity_chooser_view.xml",
+        "source": "/Users/abdiels/.gradle/caches/transforms-2/files-2.1/0bbf2ad6bf95c03ce412102d285e808e/appcompat-1.3.0/res/layout/abc_activity_chooser_view.xml"
+    },
+    {
+        "merged": "/Users/abdiels/Documents/developer/Aguacate App/build/stripe_payment/intermediates/res/merged/release/layout/abc_alert_dialog_title_material.xml",
+        "source": "/Users/abdiels/.gradle/caches/transforms-2/files-2.1/0bbf2ad6bf95c03ce412102d285e808e/appcompat-1.3.0/res/layout/abc_alert_dialog_title_material.xml"
+    },
+    {
+        "merged": "/Users/abdiels/Documents/developer/Aguacate App/build/stripe_payment/intermediates/res/merged/release/layout/mtrl_picker_header_dialog.xml",
+        "source": "/Users/abdiels/.gradle/caches/transforms-2/files-2.1/4a6c9748f5247bec5f5766c4aa713ecb/material-1.3.0/res/layout/mtrl_picker_header_dialog.xml"
+    },
+    {
+        "merged": "/Users/abdiels/Documents/developer/Aguacate App/build/stripe_payment/intermediates/res/merged/release/layout/mtrl_picker_header_fullscreen.xml",
+        "source": "/Users/abdiels/.gradle/caches/transforms-2/files-2.1/4a6c9748f5247bec5f5766c4aa713ecb/material-1.3.0/res/layout/mtrl_picker_header_fullscreen.xml"
+    },
+    {
+        "merged": "/Users/abdiels/Documents/developer/Aguacate App/build/stripe_payment/intermediates/res/merged/release/layout/masked_card_view.xml",
+        "source": "/Users/abdiels/.gradle/caches/transforms-2/files-2.1/6e33c061a82d65da1817d9853125a913/jetified-payments-core-16.10.0/res/layout/masked_card_view.xml"
+    },
+    {
+        "merged": "/Users/abdiels/Documents/developer/Aguacate App/build/stripe_payment/intermediates/res/merged/release/layout/material_clock_period_toggle.xml",
+        "source": "/Users/abdiels/.gradle/caches/transforms-2/files-2.1/4a6c9748f5247bec5f5766c4aa713ecb/material-1.3.0/res/layout/material_clock_period_toggle.xml"
+    },
+    {
+        "merged": "/Users/abdiels/Documents/developer/Aguacate App/build/stripe_payment/intermediates/res/merged/release/layout/wallet_test_layout.xml",
+        "source": "/Users/abdiels/.gradle/caches/transforms-2/files-2.1/99d2f37f7f0f49aaa0382a13da7e421c/jetified-play-services-wallet-18.1.3/res/layout/wallet_test_layout.xml"
+    },
+    {
+        "merged": "/Users/abdiels/Documents/developer/Aguacate App/build/stripe_payment/intermediates/res/merged/release/layout/stripe_challenge_fragment.xml",
+        "source": "/Users/abdiels/.gradle/caches/transforms-2/files-2.1/e064d61cb58a534ae7ff47685c569da3/jetified-stripe-3ds2-android-5.3.1/res/layout/stripe_challenge_fragment.xml"
+    },
+    {
+        "merged": "/Users/abdiels/Documents/developer/Aguacate App/build/stripe_payment/intermediates/res/merged/release/layout/stripe_progress_view_layout.xml",
+        "source": "/Users/abdiels/.gradle/caches/transforms-2/files-2.1/e064d61cb58a534ae7ff47685c569da3/jetified-stripe-3ds2-android-5.3.1/res/layout/stripe_progress_view_layout.xml"
+    },
+    {
+        "merged": "/Users/abdiels/Documents/developer/Aguacate App/build/stripe_payment/intermediates/res/merged/release/layout/material_textinput_timepicker.xml",
+        "source": "/Users/abdiels/.gradle/caches/transforms-2/files-2.1/4a6c9748f5247bec5f5766c4aa713ecb/material-1.3.0/res/layout/material_textinput_timepicker.xml"
+    },
+    {
+        "merged": "/Users/abdiels/Documents/developer/Aguacate App/build/stripe_payment/intermediates/res/merged/release/layout/design_bottom_navigation_item.xml",
+        "source": "/Users/abdiels/.gradle/caches/transforms-2/files-2.1/4a6c9748f5247bec5f5766c4aa713ecb/material-1.3.0/res/layout/design_bottom_navigation_item.xml"
+    },
+    {
+        "merged": "/Users/abdiels/Documents/developer/Aguacate App/build/stripe_payment/intermediates/res/merged/release/layout/design_layout_tab_icon.xml",
+        "source": "/Users/abdiels/.gradle/caches/transforms-2/files-2.1/4a6c9748f5247bec5f5766c4aa713ecb/material-1.3.0/res/layout/design_layout_tab_icon.xml"
+    },
+    {
+        "merged": "/Users/abdiels/Documents/developer/Aguacate App/build/stripe_payment/intermediates/res/merged/release/layout/abc_action_menu_layout.xml",
+        "source": "/Users/abdiels/.gradle/caches/transforms-2/files-2.1/0bbf2ad6bf95c03ce412102d285e808e/appcompat-1.3.0/res/layout/abc_action_menu_layout.xml"
+    },
+    {
+        "merged": "/Users/abdiels/Documents/developer/Aguacate App/build/stripe_payment/intermediates/res/merged/release/layout/mtrl_alert_select_dialog_item.xml",
+        "source": "/Users/abdiels/.gradle/caches/transforms-2/files-2.1/4a6c9748f5247bec5f5766c4aa713ecb/material-1.3.0/res/layout/mtrl_alert_select_dialog_item.xml"
+    }
+]

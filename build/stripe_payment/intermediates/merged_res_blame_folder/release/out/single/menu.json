@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/Users/abdiels/Documents/developer/Aguacate App/build/stripe_payment/intermediates/res/merged/release/menu/payment_auth_web_view_menu.xml",
+        "source": "/Users/abdiels/.gradle/caches/transforms-2/files-2.1/6e33c061a82d65da1817d9853125a913/jetified-payments-core-16.10.0/res/menu/payment_auth_web_view_menu.xml"
+    },
+    {
+        "merged": "/Users/abdiels/Documents/developer/Aguacate App/build/stripe_payment/intermediates/res/merged/release/menu/add_payment_method.xml",
+        "source": "/Users/abdiels/.gradle/caches/transforms-2/files-2.1/6e33c061a82d65da1817d9853125a913/jetified-payments-core-16.10.0/res/menu/add_payment_method.xml"
+    }
+]

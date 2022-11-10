@@ -65,8 +65,9 @@ class RestaurantProductsCreateController {
       return;
     }
 
-    if (imageFile1 == null || imageFile2 == null || imageFile3 == null) {
-      MySnackbar.show(context, 'Selecciona las tres imagenes');
+    //if (imageFile1 == null || imageFile2 == null || imageFile3 == null) {
+    if (imageFile1 == null ) {
+    MySnackbar.show(context, 'Selecciona las tres imagenes');
       return;
     }
 
@@ -84,8 +85,8 @@ class RestaurantProductsCreateController {
 
     List<File> images = [];
     images.add(imageFile1);
-    images.add(imageFile2);
-    images.add(imageFile3);
+    // images.add(imageFile2);
+    // images.add(imageFile3);
 
     _progressDialog.show(max: 100, msg: 'Espere un momento');
     Stream stream = await _productsProvider.create(product, images);

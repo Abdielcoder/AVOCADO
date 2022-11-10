@@ -1,0 +1,154 @@
+[
+    {
+        "merged": "/Users/abdiels/Documents/developer/Aguacate App/build/stripe_payment/intermediates/res/merged/release/anim/design_snackbar_in.xml",
+        "source": "/Users/abdiels/.gradle/caches/transforms-2/files-2.1/4a6c9748f5247bec5f5766c4aa713ecb/material-1.3.0/res/anim/design_snackbar_in.xml"
+    },
+    {
+        "merged": "/Users/abdiels/Documents/developer/Aguacate App/build/stripe_payment/intermediates/res/merged/release/anim/btn_radio_to_off_mtrl_ring_outer_path_animation.xml",
+        "source": "/Users/abdiels/.gradle/caches/transforms-2/files-2.1/0bbf2ad6bf95c03ce412102d285e808e/appcompat-1.3.0/res/anim/btn_radio_to_off_mtrl_ring_outer_path_animation.xml"
+    },
+    {
+        "merged": "/Users/abdiels/Documents/developer/Aguacate App/build/stripe_payment/intermediates/res/merged/release/anim/abc_popup_exit.xml",
+        "source": "/Users/abdiels/.gradle/caches/transforms-2/files-2.1/0bbf2ad6bf95c03ce412102d285e808e/appcompat-1.3.0/res/anim/abc_popup_exit.xml"
+    },
+    {
+        "merged": "/Users/abdiels/Documents/developer/Aguacate App/build/stripe_payment/intermediates/res/merged/release/anim/design_snackbar_out.xml",
+        "source": "/Users/abdiels/.gradle/caches/transforms-2/files-2.1/4a6c9748f5247bec5f5766c4aa713ecb/material-1.3.0/res/anim/design_snackbar_out.xml"
+    },
+    {
+        "merged": "/Users/abdiels/Documents/developer/Aguacate App/build/stripe_payment/intermediates/res/merged/release/anim/abc_shrink_fade_out_from_bottom.xml",
+        "source": "/Users/abdiels/.gradle/caches/transforms-2/files-2.1/0bbf2ad6bf95c03ce412102d285e808e/appcompat-1.3.0/res/anim/abc_shrink_fade_out_from_bottom.xml"
+    },
+    {
+        "merged": "/Users/abdiels/Documents/developer/Aguacate App/build/stripe_payment/intermediates/res/merged/release/anim/stripe_3ds2_challenge_transition_slide_out.xml",
+        "source": "/Users/abdiels/.gradle/caches/transforms-2/files-2.1/e064d61cb58a534ae7ff47685c569da3/jetified-stripe-3ds2-android-5.3.1/res/anim/stripe_3ds2_challenge_transition_slide_out.xml"
+    },
+    {
+        "merged": "/Users/abdiels/Documents/developer/Aguacate App/build/stripe_payment/intermediates/res/merged/release/anim/abc_fade_out.xml",
+        "source": "/Users/abdiels/.gradle/caches/transforms-2/files-2.1/0bbf2ad6bf95c03ce412102d285e808e/appcompat-1.3.0/res/anim/abc_fade_out.xml"
+    },
+    {
+        "merged": "/Users/abdiels/Documents/developer/Aguacate App/build/stripe_payment/intermediates/res/merged/release/anim/abc_slide_out_bottom.xml",
+        "source": "/Users/abdiels/.gradle/caches/transforms-2/files-2.1/0bbf2ad6bf95c03ce412102d285e808e/appcompat-1.3.0/res/anim/abc_slide_out_bottom.xml"
+    },
+    {
+        "merged": "/Users/abdiels/Documents/developer/Aguacate App/build/stripe_payment/intermediates/res/merged/release/anim/btn_checkbox_to_checked_icon_null_animation.xml",
+        "source": "/Users/abdiels/.gradle/caches/transforms-2/files-2.1/0bbf2ad6bf95c03ce412102d285e808e/appcompat-1.3.0/res/anim/btn_checkbox_to_checked_icon_null_animation.xml"
+    },
+    {
+        "merged": "/Users/abdiels/Documents/developer/Aguacate App/build/stripe_payment/intermediates/res/merged/release/anim/btn_checkbox_to_unchecked_box_inner_merged_animation.xml",
+        "source": "/Users/abdiels/.gradle/caches/transforms-2/files-2.1/0bbf2ad6bf95c03ce412102d285e808e/appcompat-1.3.0/res/anim/btn_checkbox_to_unchecked_box_inner_merged_animation.xml"
+    },
+    {
+        "merged": "/Users/abdiels/Documents/developer/Aguacate App/build/stripe_payment/intermediates/res/merged/release/anim/abc_slide_out_top.xml",
+        "source": "/Users/abdiels/.gradle/caches/transforms-2/files-2.1/0bbf2ad6bf95c03ce412102d285e808e/appcompat-1.3.0/res/anim/abc_slide_out_top.xml"
+    },
+    {
+        "merged": "/Users/abdiels/Documents/developer/Aguacate App/build/stripe_payment/intermediates/res/merged/release/anim/btn_radio_to_on_mtrl_dot_group_animation.xml",
+        "source": "/Users/abdiels/.gradle/caches/transforms-2/files-2.1/0bbf2ad6bf95c03ce412102d285e808e/appcompat-1.3.0/res/anim/btn_radio_to_on_mtrl_dot_group_animation.xml"
+    },
+    {
+        "merged": "/Users/abdiels/Documents/developer/Aguacate App/build/stripe_payment/intermediates/res/merged/release/anim/abc_popup_enter.xml",
+        "source": "/Users/abdiels/.gradle/caches/transforms-2/files-2.1/0bbf2ad6bf95c03ce412102d285e808e/appcompat-1.3.0/res/anim/abc_popup_enter.xml"
+    },
+    {
+        "merged": "/Users/abdiels/Documents/developer/Aguacate App/build/stripe_payment/intermediates/res/merged/release/anim/mtrl_bottom_sheet_slide_out.xml",
+        "source": "/Users/abdiels/.gradle/caches/transforms-2/files-2.1/4a6c9748f5247bec5f5766c4aa713ecb/material-1.3.0/res/anim/mtrl_bottom_sheet_slide_out.xml"
+    },
+    {
+        "merged": "/Users/abdiels/Documents/developer/Aguacate App/build/stripe_payment/intermediates/res/merged/release/anim/abc_tooltip_exit.xml",
+        "source": "/Users/abdiels/.gradle/caches/transforms-2/files-2.1/0bbf2ad6bf95c03ce412102d285e808e/appcompat-1.3.0/res/anim/abc_tooltip_exit.xml"
+    },
+    {
+        "merged": "/Users/abdiels/Documents/developer/Aguacate App/build/stripe_payment/intermediates/res/merged/release/anim/abc_grow_fade_in_from_bottom.xml",
+        "source": "/Users/abdiels/.gradle/caches/transforms-2/files-2.1/0bbf2ad6bf95c03ce412102d285e808e/appcompat-1.3.0/res/anim/abc_grow_fade_in_from_bottom.xml"
+    },
+    {
+        "merged": "/Users/abdiels/Documents/developer/Aguacate App/build/stripe_payment/intermediates/res/merged/release/anim/fragment_fast_out_extra_slow_in.xml",
+        "source": "/Users/abdiels/.gradle/caches/transforms-2/files-2.1/6edb7e9f2bffc30484a10a28e5cb4b20/fragment-1.3.4/res/anim/fragment_fast_out_extra_slow_in.xml"
+    },
+    {
+        "merged": "/Users/abdiels/Documents/developer/Aguacate App/build/stripe_payment/intermediates/res/merged/release/anim/btn_radio_to_on_mtrl_ring_outer_animation.xml",
+        "source": "/Users/abdiels/.gradle/caches/transforms-2/files-2.1/0bbf2ad6bf95c03ce412102d285e808e/appcompat-1.3.0/res/anim/btn_radio_to_on_mtrl_ring_outer_animation.xml"
+    },
+    {
+        "merged": "/Users/abdiels/Documents/developer/Aguacate App/build/stripe_payment/intermediates/res/merged/release/anim/mtrl_bottom_sheet_slide_in.xml",
+        "source": "/Users/abdiels/.gradle/caches/transforms-2/files-2.1/4a6c9748f5247bec5f5766c4aa713ecb/material-1.3.0/res/anim/mtrl_bottom_sheet_slide_in.xml"
+    },
+    {
+        "merged": "/Users/abdiels/Documents/developer/Aguacate App/build/stripe_payment/intermediates/res/merged/release/anim/stripe_card_widget_progress_fade_in.xml",
+        "source": "/Users/abdiels/.gradle/caches/transforms-2/files-2.1/6e33c061a82d65da1817d9853125a913/jetified-payments-core-16.10.0/res/anim/stripe_card_widget_progress_fade_in.xml"
+    },
+    {
+        "merged": "/Users/abdiels/Documents/developer/Aguacate App/build/stripe_payment/intermediates/res/merged/release/anim/abc_slide_in_bottom.xml",
+        "source": "/Users/abdiels/.gradle/caches/transforms-2/files-2.1/0bbf2ad6bf95c03ce412102d285e808e/appcompat-1.3.0/res/anim/abc_slide_in_bottom.xml"
+    },
+    {
+        "merged": "/Users/abdiels/Documents/developer/Aguacate App/build/stripe_payment/intermediates/res/merged/release/anim/btn_radio_to_on_mtrl_ring_outer_path_animation.xml",
+        "source": "/Users/abdiels/.gradle/caches/transforms-2/files-2.1/0bbf2ad6bf95c03ce412102d285e808e/appcompat-1.3.0/res/anim/btn_radio_to_on_mtrl_ring_outer_path_animation.xml"
+    },
+    {
+        "merged": "/Users/abdiels/Documents/developer/Aguacate App/build/stripe_payment/intermediates/res/merged/release/anim/abc_fade_in.xml",
+        "source": "/Users/abdiels/.gradle/caches/transforms-2/files-2.1/0bbf2ad6bf95c03ce412102d285e808e/appcompat-1.3.0/res/anim/abc_fade_in.xml"
+    },
+    {
+        "merged": "/Users/abdiels/Documents/developer/Aguacate App/build/stripe_payment/intermediates/res/merged/release/anim/mtrl_card_lowers_interpolator.xml",
+        "source": "/Users/abdiels/.gradle/caches/transforms-2/files-2.1/4a6c9748f5247bec5f5766c4aa713ecb/material-1.3.0/res/anim/mtrl_card_lowers_interpolator.xml"
+    },
+    {
+        "merged": "/Users/abdiels/Documents/developer/Aguacate App/build/stripe_payment/intermediates/res/merged/release/anim/stripe_paymentsheet_transition_fade_in.xml",
+        "source": "/Users/abdiels/.gradle/caches/transforms-2/files-2.1/6e33c061a82d65da1817d9853125a913/jetified-payments-core-16.10.0/res/anim/stripe_paymentsheet_transition_fade_in.xml"
+    },
+    {
+        "merged": "/Users/abdiels/Documents/developer/Aguacate App/build/stripe_payment/intermediates/res/merged/release/anim/btn_checkbox_to_checked_box_inner_merged_animation.xml",
+        "source": "/Users/abdiels/.gradle/caches/transforms-2/files-2.1/0bbf2ad6bf95c03ce412102d285e808e/appcompat-1.3.0/res/anim/btn_checkbox_to_checked_box_inner_merged_animation.xml"
+    },
+    {
+        "merged": "/Users/abdiels/Documents/developer/Aguacate App/build/stripe_payment/intermediates/res/merged/release/anim/design_bottom_sheet_slide_out.xml",
+        "source": "/Users/abdiels/.gradle/caches/transforms-2/files-2.1/4a6c9748f5247bec5f5766c4aa713ecb/material-1.3.0/res/anim/design_bottom_sheet_slide_out.xml"
+    },
+    {
+        "merged": "/Users/abdiels/Documents/developer/Aguacate App/build/stripe_payment/intermediates/res/merged/release/anim/btn_radio_to_off_mtrl_dot_group_animation.xml",
+        "source": "/Users/abdiels/.gradle/caches/transforms-2/files-2.1/0bbf2ad6bf95c03ce412102d285e808e/appcompat-1.3.0/res/anim/btn_radio_to_off_mtrl_dot_group_animation.xml"
+    },
+    {
+        "merged": "/Users/abdiels/Documents/developer/Aguacate App/build/stripe_payment/intermediates/res/merged/release/anim/stripe_paymentsheet_transition_fade_out.xml",
+        "source": "/Users/abdiels/.gradle/caches/transforms-2/files-2.1/6e33c061a82d65da1817d9853125a913/jetified-payments-core-16.10.0/res/anim/stripe_paymentsheet_transition_fade_out.xml"
+    },
+    {
+        "merged": "/Users/abdiels/Documents/developer/Aguacate App/build/stripe_payment/intermediates/res/merged/release/anim/btn_checkbox_to_checked_box_outer_merged_animation.xml",
+        "source": "/Users/abdiels/.gradle/caches/transforms-2/files-2.1/0bbf2ad6bf95c03ce412102d285e808e/appcompat-1.3.0/res/anim/btn_checkbox_to_checked_box_outer_merged_animation.xml"
+    },
+    {
+        "merged": "/Users/abdiels/Documents/developer/Aguacate App/build/stripe_payment/intermediates/res/merged/release/anim/stripe_card_widget_progress_fade_out.xml",
+        "source": "/Users/abdiels/.gradle/caches/transforms-2/files-2.1/6e33c061a82d65da1817d9853125a913/jetified-payments-core-16.10.0/res/anim/stripe_card_widget_progress_fade_out.xml"
+    },
+    {
+        "merged": "/Users/abdiels/Documents/developer/Aguacate App/build/stripe_payment/intermediates/res/merged/release/anim/stripe_3ds2_challenge_transition_slide_in.xml",
+        "source": "/Users/abdiels/.gradle/caches/transforms-2/files-2.1/e064d61cb58a534ae7ff47685c569da3/jetified-stripe-3ds2-android-5.3.1/res/anim/stripe_3ds2_challenge_transition_slide_in.xml"
+    },
+    {
+        "merged": "/Users/abdiels/Documents/developer/Aguacate App/build/stripe_payment/intermediates/res/merged/release/anim/btn_checkbox_to_unchecked_check_path_merged_animation.xml",
+        "source": "/Users/abdiels/.gradle/caches/transforms-2/files-2.1/0bbf2ad6bf95c03ce412102d285e808e/appcompat-1.3.0/res/anim/btn_checkbox_to_unchecked_check_path_merged_animation.xml"
+    },
+    {
+        "merged": "/Users/abdiels/Documents/developer/Aguacate App/build/stripe_payment/intermediates/res/merged/release/anim/abc_tooltip_enter.xml",
+        "source": "/Users/abdiels/.gradle/caches/transforms-2/files-2.1/0bbf2ad6bf95c03ce412102d285e808e/appcompat-1.3.0/res/anim/abc_tooltip_enter.xml"
+    },
+    {
+        "merged": "/Users/abdiels/Documents/developer/Aguacate App/build/stripe_payment/intermediates/res/merged/release/anim/design_bottom_sheet_slide_in.xml",
+        "source": "/Users/abdiels/.gradle/caches/transforms-2/files-2.1/4a6c9748f5247bec5f5766c4aa713ecb/material-1.3.0/res/anim/design_bottom_sheet_slide_in.xml"
+    },
+    {
+        "merged": "/Users/abdiels/Documents/developer/Aguacate App/build/stripe_payment/intermediates/res/merged/release/anim/btn_radio_to_off_mtrl_ring_outer_animation.xml",
+        "source": "/Users/abdiels/.gradle/caches/transforms-2/files-2.1/0bbf2ad6bf95c03ce412102d285e808e/appcompat-1.3.0/res/anim/btn_radio_to_off_mtrl_ring_outer_animation.xml"
+    },
+    {
+        "merged": "/Users/abdiels/Documents/developer/Aguacate App/build/stripe_payment/intermediates/res/merged/release/anim/abc_slide_in_top.xml",
+        "source": "/Users/abdiels/.gradle/caches/transforms-2/files-2.1/0bbf2ad6bf95c03ce412102d285e808e/appcompat-1.3.0/res/anim/abc_slide_in_top.xml"
+    },
+    {
+        "merged": "/Users/abdiels/Documents/developer/Aguacate App/build/stripe_payment/intermediates/res/merged/release/anim/btn_checkbox_to_unchecked_icon_null_animation.xml",
+        "source": "/Users/abdiels/.gradle/caches/transforms-2/files-2.1/0bbf2ad6bf95c03ce412102d285e808e/appcompat-1.3.0/res/anim/btn_checkbox_to_unchecked_icon_null_animation.xml"
+    }
+]

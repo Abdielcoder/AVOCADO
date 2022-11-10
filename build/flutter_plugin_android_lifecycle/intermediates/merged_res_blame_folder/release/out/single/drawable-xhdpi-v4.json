@@ -1,0 +1,22 @@
+[
+    {
+        "merged": "/Users/abdiels/Documents/developer/Aguacate App/build/flutter_plugin_android_lifecycle/intermediates/res/merged/release/drawable-xhdpi-v4/notification_bg_low_normal.9.png",
+        "source": "/Users/abdiels/.gradle/caches/transforms-2/files-2.1/674a728e03ccb78ac854080ea6e9699a/core-1.6.0/res/drawable-xhdpi-v4/notification_bg_low_normal.9.png"
+    },
+    {
+        "merged": "/Users/abdiels/Documents/developer/Aguacate App/build/flutter_plugin_android_lifecycle/intermediates/res/merged/release/drawable-xhdpi-v4/notification_bg_normal_pressed.9.png",
+        "source": "/Users/abdiels/.gradle/caches/transforms-2/files-2.1/674a728e03ccb78ac854080ea6e9699a/core-1.6.0/res/drawable-xhdpi-v4/notification_bg_normal_pressed.9.png"
+    },
+    {
+        "merged": "/Users/abdiels/Documents/developer/Aguacate App/build/flutter_plugin_android_lifecycle/intermediates/res/merged/release/drawable-xhdpi-v4/notify_panel_notification_icon_bg.png",
+        "source": "/Users/abdiels/.gradle/caches/transforms-2/files-2.1/674a728e03ccb78ac854080ea6e9699a/core-1.6.0/res/drawable-xhdpi-v4/notify_panel_notification_icon_bg.png"
+    },
+    {
+        "merged": "/Users/abdiels/Documents/developer/Aguacate App/build/flutter_plugin_android_lifecycle/intermediates/res/merged/release/drawable-xhdpi-v4/notification_bg_normal.9.png",
+        "source": "/Users/abdiels/.gradle/caches/transforms-2/files-2.1/674a728e03ccb78ac854080ea6e9699a/core-1.6.0/res/drawable-xhdpi-v4/notification_bg_normal.9.png"
+    },
+    {
+        "merged": "/Users/abdiels/Documents/developer/Aguacate App/build/flutter_plugin_android_lifecycle/intermediates/res/merged/release/drawable-xhdpi-v4/notification_bg_low_pressed.9.png",
+        "source": "/Users/abdiels/.gradle/caches/transforms-2/files-2.1/674a728e03ccb78ac854080ea6e9699a/core-1.6.0/res/drawable-xhdpi-v4/notification_bg_low_pressed.9.png"
+    }
+]

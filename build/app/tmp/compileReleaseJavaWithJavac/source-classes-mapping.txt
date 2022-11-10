@@ -1,0 +1,4 @@
+io/flutter/plugins/GeneratedPluginRegistrant.java
+ io.flutter.plugins.GeneratedPluginRegistrant
+com/optic/flutter_delivery_udemy/BuildConfig.java
+ com.optic.flutter_delivery_udemy.BuildConfig

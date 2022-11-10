@@ -1,0 +1,26 @@
+[
+    {
+        "merged": "/Users/abdiels/Documents/developer/Aguacate App/build/stripe_payment/intermediates/res/merged/release/drawable-night-xxhdpi-v8/stripe_googlepay_button_background_image.9.png",
+        "source": "/Users/abdiels/.gradle/caches/transforms-2/files-2.1/6e33c061a82d65da1817d9853125a913/jetified-payments-core-16.10.0/res/drawable-night-xxhdpi-v8/stripe_googlepay_button_background_image.9.png"
+    },
+    {
+        "merged": "/Users/abdiels/Documents/developer/Aguacate App/build/stripe_payment/intermediates/res/merged/release/drawable-night-xxhdpi-v8/stripe_googlepay_button_background_image_pressed.9.png",
+        "source": "/Users/abdiels/.gradle/caches/transforms-2/files-2.1/6e33c061a82d65da1817d9853125a913/jetified-payments-core-16.10.0/res/drawable-night-xxhdpi-v8/stripe_googlepay_button_background_image_pressed.9.png"
+    },
+    {
+        "merged": "/Users/abdiels/Documents/developer/Aguacate App/build/stripe_payment/intermediates/res/merged/release/drawable-night-xxhdpi-v8/stripe_googlepay_button_no_shadow_background_image_focused.9.png",
+        "source": "/Users/abdiels/.gradle/caches/transforms-2/files-2.1/6e33c061a82d65da1817d9853125a913/jetified-payments-core-16.10.0/res/drawable-night-xxhdpi-v8/stripe_googlepay_button_no_shadow_background_image_focused.9.png"
+    },
+    {
+        "merged": "/Users/abdiels/Documents/developer/Aguacate App/build/stripe_payment/intermediates/res/merged/release/drawable-night-xxhdpi-v8/stripe_googlepay_button_background_image_focused.9.png",
+        "source": "/Users/abdiels/.gradle/caches/transforms-2/files-2.1/6e33c061a82d65da1817d9853125a913/jetified-payments-core-16.10.0/res/drawable-night-xxhdpi-v8/stripe_googlepay_button_background_image_focused.9.png"
+    },
+    {
+        "merged": "/Users/abdiels/Documents/developer/Aguacate App/build/stripe_payment/intermediates/res/merged/release/drawable-night-xxhdpi-v8/stripe_googlepay_button_no_shadow_background_image.9.png",
+        "source": "/Users/abdiels/.gradle/caches/transforms-2/files-2.1/6e33c061a82d65da1817d9853125a913/jetified-payments-core-16.10.0/res/drawable-night-xxhdpi-v8/stripe_googlepay_button_no_shadow_background_image.9.png"
+    },
+    {
+        "merged": "/Users/abdiels/Documents/developer/Aguacate App/build/stripe_payment/intermediates/res/merged/release/drawable-night-xxhdpi-v8/stripe_googlepay_button_no_shadow_background_image_pressed.9.png",
+        "source": "/Users/abdiels/.gradle/caches/transforms-2/files-2.1/6e33c061a82d65da1817d9853125a913/jetified-payments-core-16.10.0/res/drawable-night-xxhdpi-v8/stripe_googlepay_button_no_shadow_background_image_pressed.9.png"
+    }
+]

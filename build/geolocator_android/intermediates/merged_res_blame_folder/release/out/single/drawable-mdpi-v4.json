@@ -1,0 +1,46 @@
+[
+    {
+        "merged": "/Users/abdiels/Documents/developer/Aguacate App/build/geolocator_android/intermediates/res/merged/release/drawable-mdpi-v4/googleg_standard_color_18.png",
+        "source": "/Users/abdiels/.gradle/caches/transforms-2/files-2.1/e5341de7a96cbca4871120b40c443fee/jetified-play-services-base-17.0.0/res/drawable-mdpi-v4/googleg_standard_color_18.png"
+    },
+    {
+        "merged": "/Users/abdiels/Documents/developer/Aguacate App/build/geolocator_android/intermediates/res/merged/release/drawable-mdpi-v4/googleg_disabled_color_18.png",
+        "source": "/Users/abdiels/.gradle/caches/transforms-2/files-2.1/e5341de7a96cbca4871120b40c443fee/jetified-play-services-base-17.0.0/res/drawable-mdpi-v4/googleg_disabled_color_18.png"
+    },
+    {
+        "merged": "/Users/abdiels/Documents/developer/Aguacate App/build/geolocator_android/intermediates/res/merged/release/drawable-mdpi-v4/notification_bg_low_pressed.9.png",
+        "source": "/Users/abdiels/.gradle/caches/transforms-2/files-2.1/674a728e03ccb78ac854080ea6e9699a/core-1.6.0/res/drawable-mdpi-v4/notification_bg_low_pressed.9.png"
+    },
+    {
+        "merged": "/Users/abdiels/Documents/developer/Aguacate App/build/geolocator_android/intermediates/res/merged/release/drawable-mdpi-v4/common_google_signin_btn_text_dark_normal_background.9.png",
+        "source": "/Users/abdiels/.gradle/caches/transforms-2/files-2.1/e5341de7a96cbca4871120b40c443fee/jetified-play-services-base-17.0.0/res/drawable-mdpi-v4/common_google_signin_btn_text_dark_normal_background.9.png"
+    },
+    {
+        "merged": "/Users/abdiels/Documents/developer/Aguacate App/build/geolocator_android/intermediates/res/merged/release/drawable-mdpi-v4/notify_panel_notification_icon_bg.png",
+        "source": "/Users/abdiels/.gradle/caches/transforms-2/files-2.1/674a728e03ccb78ac854080ea6e9699a/core-1.6.0/res/drawable-mdpi-v4/notify_panel_notification_icon_bg.png"
+    },
+    {
+        "merged": "/Users/abdiels/Documents/developer/Aguacate App/build/geolocator_android/intermediates/res/merged/release/drawable-mdpi-v4/notification_bg_normal_pressed.9.png",
+        "source": "/Users/abdiels/.gradle/caches/transforms-2/files-2.1/674a728e03ccb78ac854080ea6e9699a/core-1.6.0/res/drawable-mdpi-v4/notification_bg_normal_pressed.9.png"
+    },
+    {
+        "merged": "/Users/abdiels/Documents/developer/Aguacate App/build/geolocator_android/intermediates/res/merged/release/drawable-mdpi-v4/notification_bg_low_normal.9.png",
+        "source": "/Users/abdiels/.gradle/caches/transforms-2/files-2.1/674a728e03ccb78ac854080ea6e9699a/core-1.6.0/res/drawable-mdpi-v4/notification_bg_low_normal.9.png"
+    },
+    {
+        "merged": "/Users/abdiels/Documents/developer/Aguacate App/build/geolocator_android/intermediates/res/merged/release/drawable-mdpi-v4/notification_bg_normal.9.png",
+        "source": "/Users/abdiels/.gradle/caches/transforms-2/files-2.1/674a728e03ccb78ac854080ea6e9699a/core-1.6.0/res/drawable-mdpi-v4/notification_bg_normal.9.png"
+    },
+    {
+        "merged": "/Users/abdiels/Documents/developer/Aguacate App/build/geolocator_android/intermediates/res/merged/release/drawable-mdpi-v4/common_google_signin_btn_text_light_normal_background.9.png",
+        "source": "/Users/abdiels/.gradle/caches/transforms-2/files-2.1/e5341de7a96cbca4871120b40c443fee/jetified-play-services-base-17.0.0/res/drawable-mdpi-v4/common_google_signin_btn_text_light_normal_background.9.png"
+    },
+    {
+        "merged": "/Users/abdiels/Documents/developer/Aguacate App/build/geolocator_android/intermediates/res/merged/release/drawable-mdpi-v4/common_google_signin_btn_icon_light_normal_background.9.png",
+        "source": "/Users/abdiels/.gradle/caches/transforms-2/files-2.1/e5341de7a96cbca4871120b40c443fee/jetified-play-services-base-17.0.0/res/drawable-mdpi-v4/common_google_signin_btn_icon_light_normal_background.9.png"
+    },
+    {
+        "merged": "/Users/abdiels/Documents/developer/Aguacate App/build/geolocator_android/intermediates/res/merged/release/drawable-mdpi-v4/common_google_signin_btn_icon_dark_normal_background.9.png",
+        "source": "/Users/abdiels/.gradle/caches/transforms-2/files-2.1/e5341de7a96cbca4871120b40c443fee/jetified-play-services-base-17.0.0/res/drawable-mdpi-v4/common_google_signin_btn_icon_dark_normal_background.9.png"
+    }
+]
