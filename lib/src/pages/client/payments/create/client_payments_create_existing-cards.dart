@@ -1,5 +1,6 @@
 import 'package:flutter/material.dart';
 import 'package:flutter_credit_card/credit_card_widget.dart';
+import 'package:flutter_delivery_udemy/src/utils/my_colors.dart';
 import 'package:stripe_payment/stripe_payment.dart';
 import 'package:progress_dialog/progress_dialog.dart';
 import '../../../../services/payment-service.dart';
@@ -58,10 +59,11 @@ class ClientPaymentsExistingCardsPagePageState extends State<ClientPaymentsExist
   Widget build(BuildContext context) {
     return Scaffold(
       appBar: AppBar(
-        title: Text('Choose existing card'),
+        backgroundColor: MyColors.primaryColor,
+        title: Text('Elije una tarjeta'),
       ),
       body: Container(
-        padding: EdgeInsets.all(20),
+        padding: EdgeInsets.only(top: 40,right: 90,left: 90),
         child: ListView.builder(
           itemCount: cards.length,
           itemBuilder: (BuildContext context, int index) {
@@ -72,6 +74,7 @@ class ClientPaymentsExistingCardsPagePageState extends State<ClientPaymentsExist
               },
               child: CreditCardWidget(
                 cardNumber: card['cardNumber'],
+                cardBgColor: MyColors.darkContrast,
                 expiryDate: card['expiryDate'],
                 cardHolderName: card['cardHolderName'],
                 cvvCode: card['cvvCode'],
